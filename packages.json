@@ -2240,7 +2240,6 @@
         "GenomicRanges"
     ],
     "ComPrAn": [],
-    "concordexR": [],
     "condiments": [
         "GenomicRanges",
         "SingleCellExperiment",
