@@ -5396,7 +5396,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "Biostrings",
