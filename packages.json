@@ -7744,7 +7744,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "martini": [],
     "maser": [
         "AnnotationDbi",
         "AnnotationFilter",
