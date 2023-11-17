@@ -4955,9 +4955,7 @@
         "scran",
         "scuttle"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCut": [
         "DelayedArray",
         "flowDensity",
@@ -4968,7 +4966,6 @@
         "DelayedArray",
         "flowWorkspace"
     ],
-    "flowFP": [],
     "flowGate": [
         "DelayedArray",
         "flowWorkspace",
@@ -5122,9 +5119,7 @@
         "rtracklayer",
         "sva"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "Biostrings",
         "GenomicRanges",
