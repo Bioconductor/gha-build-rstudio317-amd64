@@ -6942,8 +6942,7 @@
     "cycle": [
         "Biobase",
         "Mfuzz",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "cydar": [
         "Biobase",
@@ -16514,8 +16513,7 @@
     ],
     "Mfuzz": [
         "Biobase",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -19514,8 +19512,7 @@
         "OLIN",
         "limma",
         "marray",
-        "tkWidgets",
-        "widgetTools"
+        "tkWidgets"
     ],
     "omada": [
         "Biobase"
@@ -28959,7 +28956,6 @@
         "graph",
         "qvalue",
         "tkWidgets",
-        "widgetTools",
         "zlibbioc"
     ],
     "TIN": [
@@ -29018,9 +29014,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "tkWidgets": [
-        "widgetTools"
-    ],
+    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
@@ -30618,7 +30612,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "widgetTools": [],
     "wiggleplotr": [
         "Biobase",
         "BiocIO",
