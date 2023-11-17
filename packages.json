@@ -2502,7 +2502,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "CNORfeeder": [],
     "CNTools": [
         "AnnotationDbi",
         "Biostrings",
