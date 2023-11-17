@@ -1548,7 +1548,6 @@
         "rtracklayer"
     ],
     "bioassayR": [],
-    "biobroom": [],
     "biobtreeR": [],
     "bioCancer": [
         "AnnotationDbi",
@@ -18643,9 +18642,7 @@
         "XVector",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "TPP2D": [],
     "tracktables": [
         "Biostrings",
