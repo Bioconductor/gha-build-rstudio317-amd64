@@ -8086,7 +8086,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "hmdbQuery": [],
     "HPAanalyze": [],
     "hpar": [
         "AnnotationDbi",
