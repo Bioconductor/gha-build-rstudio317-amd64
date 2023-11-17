@@ -11080,7 +11080,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "RandomWalkRestartMH",
         "XVector"
     ],
     "NetPathMiner": [],
@@ -12988,7 +12987,6 @@
         "XVector",
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [],
     "randPack": [],
     "randRotation": [],
     "RAREsim": [],
