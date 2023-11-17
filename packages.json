@@ -10300,7 +10300,6 @@
         "rtracklayer"
     ],
     "MethylMix": [],
-    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -16739,9 +16738,7 @@
         "biomformat",
         "phyloseq"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomeInfoDb",
