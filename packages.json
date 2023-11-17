@@ -7655,7 +7655,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "snm",
         "sva"
     ],
     "edgeR": [],
@@ -23249,7 +23248,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "snm": [],
     "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
