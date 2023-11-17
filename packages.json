@@ -3046,8 +3046,7 @@
     "CompoundDb": [
         "AnnotationFilter",
         "GenomeInfoDb",
-        "GenomicRanges",
-        "Spectra"
+        "GenomicRanges"
     ],
     "ComPrAn": [],
     "concordexR": [
@@ -8072,7 +8071,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment"
     ],
     "metabolomicsWorkbenchR": [
@@ -8162,9 +8160,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MetCirc": [
-        "Spectra"
-    ],
+    "MetCirc": [],
     "methimpute": [
         "Biostrings",
         "GenomeInfoDb",
@@ -8870,7 +8866,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "vsn",
         "xcms"
@@ -9079,21 +9074,11 @@
         "GenomeInfoDb",
         "GenomicRanges"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
-    "MsBackendSql": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
+    "MsBackendSql": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9109,7 +9094,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment"
     ],
     "MsFeatures": [
@@ -9214,7 +9198,6 @@
         "MsExperiment",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment"
     ],
     "MSstatsLiP": [
@@ -13976,7 +13959,6 @@
         "SummarizedExperiment"
     ],
     "specL": [],
-    "Spectra": [],
     "SpectralTAD": [
         "DelayedArray",
         "GenomeInfoDb",
