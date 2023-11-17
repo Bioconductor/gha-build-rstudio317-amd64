@@ -14487,7 +14487,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "synapsis": [],
     "synapter": [
         "Biostrings",
         "GenomeInfoDb",
