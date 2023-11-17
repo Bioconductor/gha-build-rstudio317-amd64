@@ -2950,8 +2950,7 @@
         "rtracklayer"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
     "cydar": [
         "GenomicRanges",
@@ -2986,13 +2985,11 @@
         "scuttle"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
     "CytoPipeline": [
         "PeacoQC",
-        "flowWorkspace",
         "ggcyto"
     ],
     "cytoviewer": [
@@ -3092,8 +3089,7 @@
     "dcGSA": [],
     "ddCt": [],
     "ddPCRclust": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
     "debCAM": [
         "GenomicRanges",
@@ -4467,28 +4463,20 @@
         "scuttle"
     ],
     "flowCut": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
     "flowCyBar": [],
-    "flowDensity": [
-        "flowWorkspace"
-    ],
+    "flowDensity": [],
     "flowGate": [
-        "flowWorkspace",
         "ggcyto"
     ],
     "flowGraph": [],
     "flowMap": [],
     "flowPlots": [],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "fmcsR": [],
     "fmrs": [],
     "fobitools": [],
@@ -4974,9 +4962,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmanh": [
         "Biostrings",
         "GenomicRanges",
@@ -5750,9 +5736,7 @@
     "IMMAN": [
         "Biostrings"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "immunotation": [],
     "IMPCdata": [],
     "INDEED": [],
@@ -8187,9 +8171,7 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "openPrimeR": [
         "Biostrings",
         "DECIPHER",
@@ -8473,9 +8455,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase"
     ],
