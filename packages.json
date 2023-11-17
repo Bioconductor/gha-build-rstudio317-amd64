@@ -2700,9 +2700,7 @@
     "CytoML": [
         "openCyto"
     ],
-    "CytoPipeline": [
-        "PeacoQC"
-    ],
+    "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
         "GenomicRanges",
@@ -7631,7 +7629,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "PeacoQC": [],
     "peakPantheR": [],
     "PECA": [
         "AnnotationDbi",
