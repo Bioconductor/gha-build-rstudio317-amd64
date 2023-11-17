@@ -11291,7 +11291,6 @@
         "rtracklayer"
     ],
     "occugene": [],
-    "OCplus": [],
     "octad": [
         "AnnotationDbi",
         "AnnotationHub",
