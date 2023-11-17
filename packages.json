@@ -3052,7 +3052,6 @@
         "AnnotationFilter",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "Spectra"
     ],
     "ComPrAn": [],
@@ -8077,13 +8076,11 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "SummarizedExperiment"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8878,7 +8875,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsFeatures",
         "Spectra",
         "SummarizedExperiment",
