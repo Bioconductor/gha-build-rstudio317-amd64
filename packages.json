@@ -9403,7 +9403,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MetaVolcanoR": [],
     "MetCirc": [
         "Spectra"
     ],
