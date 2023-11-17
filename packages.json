@@ -1028,8 +1028,7 @@
         "MultiAssayExperiment",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "AWFisher": [],
     "awst": [
@@ -1141,7 +1140,6 @@
         "genefilter",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "banocc": [],
@@ -2272,7 +2270,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3298,7 +3295,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -3310,7 +3306,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "clustComp": [],
@@ -3806,7 +3801,6 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "pcaMethods",
         "rtracklayer"
     ],
     "consensusOV": [
@@ -3994,7 +3988,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -4606,7 +4599,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "DART": [],
@@ -4707,9 +4699,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [
-        "pcaMethods"
-    ],
+    "DeconRNASeq": [],
     "deconvR": [
         "AnnotationDbi",
         "Biostrings",
@@ -4894,7 +4884,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "DepecheR": [],
@@ -5006,8 +4995,7 @@
         "S4Arrays",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "DEsubs": [
         "DESeq2",
@@ -5088,8 +5076,7 @@
         "KEGGREST",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "diffcyt": [
         "ComplexHeatmap",
@@ -6653,7 +6640,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -6808,7 +6794,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rtracklayer"
     ],
     "frenchFISH": [],
@@ -8841,7 +8826,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -9219,7 +9203,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "ropls"
     ],
     "LiquidAssociation": [
@@ -9267,7 +9250,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -9497,8 +9479,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "maigesPack": [
         "convert"
@@ -9517,7 +9498,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -9635,7 +9615,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "pcaMethods",
         "proDA",
         "vsn"
     ],
@@ -9942,7 +9921,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -10058,7 +10036,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -10948,7 +10925,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -11314,7 +11290,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "msmsTests": [
@@ -11323,14 +11298,12 @@
         "affy",
         "msmsEDA",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnbase": [
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSnID": [
@@ -11346,7 +11319,6 @@
         "msmsEDA",
         "msmsTests",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "MSPrep": [
@@ -11361,7 +11333,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "pcaMethods",
         "sva"
     ],
     "msPurity": [
@@ -11412,7 +11383,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -11422,7 +11392,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "qcmetrics",
         "vsn"
     ],
@@ -11463,7 +11432,6 @@
         "S4Arrays",
         "SummarizedExperiment",
         "XVector",
-        "pcaMethods",
         "ropls"
     ],
     "multicrispr": [
@@ -11828,7 +11796,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -12294,7 +12261,6 @@
         "genefilter",
         "made4",
         "omicade4",
-        "pcaMethods",
         "rexposome",
         "sva"
     ],
@@ -12543,7 +12509,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "pcaMethods",
         "rtracklayer"
     ],
     "OutSplice": [
@@ -12777,7 +12742,6 @@
         "genefilter",
         "topGO"
     ],
-    "pcaMethods": [],
     "PCAN": [],
     "PCAtools": [
         "BiocSingular",
@@ -12829,7 +12793,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "PECA": [
@@ -12936,8 +12899,7 @@
         "XVector",
         "biocViews",
         "destiny",
-        "monocle",
-        "pcaMethods"
+        "monocle"
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
@@ -12989,8 +12951,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "PhyloProfile": [
         "AnnotationDbi",
@@ -13163,8 +13124,7 @@
         "GenomicRanges",
         "S4Arrays",
         "SummarizedExperiment",
-        "XVector",
-        "pcaMethods"
+        "XVector"
     ],
     "PoDCall": [],
     "podkat": [
@@ -13326,7 +13286,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "proActiv": [
@@ -13440,7 +13399,6 @@
         "biomaRt",
         "genefilter",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "pRolocGUI": [
@@ -13462,7 +13420,6 @@
         "genefilter",
         "mzR",
         "pRoloc",
-        "pcaMethods",
         "vsn"
     ],
     "PROMISE": [
@@ -13491,7 +13448,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "proteasy": [
@@ -13608,7 +13564,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "puma": [
@@ -13758,7 +13713,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "qsea": [
@@ -14508,9 +14462,7 @@
         "RcwlPipelines",
         "basilisk"
     ],
-    "rexposome": [
-        "pcaMethods"
-    ],
+    "rexposome": [],
     "rfaRm": [
         "Biostrings",
         "GenomeInfoDb",
@@ -14810,7 +14762,6 @@
         "affy",
         "biocViews",
         "mzR",
-        "pcaMethods",
         "vsn",
         "xcms"
     ],
@@ -14880,7 +14831,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "rmelting": [],
@@ -15732,9 +15682,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "scde": [
-        "pcaMethods"
-    ],
+    "scde": [],
     "scds": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -17092,7 +17040,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "pcaMethods",
         "rtracklayer"
     ],
     "SOMNiBUS": [],
@@ -17877,7 +17824,6 @@
         "affy",
         "cleaver",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "synergyfinder": [],
@@ -18390,7 +18336,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "topGO": [
@@ -19366,7 +19311,6 @@
         "XVector",
         "affy",
         "mzR",
-        "pcaMethods",
         "vsn"
     ],
     "xcore": [
@@ -19455,7 +19399,6 @@
         "ensembldb",
         "ggbio",
         "gtrellis",
-        "pcaMethods",
         "rtracklayer"
     ],
     "yarn": [
