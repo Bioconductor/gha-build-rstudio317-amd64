@@ -12489,7 +12489,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "snifter": [],
     "SNPediaR": [],
     "SNPhood": [
         "AnnotationDbi",
