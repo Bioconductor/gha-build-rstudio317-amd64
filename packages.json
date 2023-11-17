@@ -6269,7 +6269,6 @@
     ],
     "flowPlots": [],
     "FlowSOM": [],
-    "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
         "S4Arrays",
