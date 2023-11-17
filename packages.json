@@ -12367,7 +12367,6 @@
         "XVector"
     ],
     "Omixer": [],
-    "ompBAM": [],
     "oncomix": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -17440,7 +17439,6 @@
         "XVector",
         "annotate",
         "genefilter",
-        "ompBAM",
         "rtracklayer"
     ],
     "SplicingFactory": [
