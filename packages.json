@@ -9065,7 +9065,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "mbQTL": [],
     "MBttest": [],
     "MCbiclust": [
         "AnnotationDbi",
