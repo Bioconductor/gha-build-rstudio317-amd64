@@ -12700,7 +12700,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "scde": [],
     "scds": [
         "DelayedArray",
         "GenomeInfoDb",
