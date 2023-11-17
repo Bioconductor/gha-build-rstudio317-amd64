@@ -14342,7 +14342,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [],
     "STROMA4": [],
     "struct": [
         "DelayedArray",
