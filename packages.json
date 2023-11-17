@@ -11881,7 +11881,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "NeighborNet": [],
     "nempi": [
         "RBGL",
         "epiNEM",
