@@ -6893,7 +6893,6 @@
     ],
     "GEOexplorer": [],
     "GEOfastq": [],
-    "GEOmetadb": [],
     "GeomxTools": [
         "Biostrings",
         "GenomeInfoDb",
