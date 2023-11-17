@@ -345,8 +345,7 @@
         "rtracklayer"
     ],
     "altcdfenvs": [
-        "Biostrings",
-        "makecdfenv"
+        "Biostrings"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -5980,8 +5979,7 @@
     ],
     "Harshlight": [
         "Biostrings",
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "hca": [],
     "HDF5Array": [
@@ -7013,7 +7011,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "MANOR": [],
     "MantelCorr": [],
     "maPredictDSC": [
