@@ -2697,9 +2697,7 @@
         "SummarizedExperiment",
         "scuttle"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoPipeline": [],
     "cytoviewer": [
         "DropletUtils",
@@ -7376,7 +7374,6 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "openCyto": [],
     "openPrimeR": [
         "DECIPHER",
         "GenomicRanges"
