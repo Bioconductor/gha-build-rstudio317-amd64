@@ -14780,10 +14780,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -21032,8 +21029,7 @@
     ],
     "plotGrouper": [],
     "PLPE": [
-        "Biobase",
-        "LPE"
+        "Biobase"
     ],
     "plyranges": [
         "Biobase",
