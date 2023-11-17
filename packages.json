@@ -20035,9 +20035,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "nearBynding": [
         "AnnotationDbi",
         "Biobase",
@@ -23928,7 +23926,6 @@
         "basilisk",
         "basilisk.utils"
     ],
-    "RCX": [],
     "RCy3": [
         "BiocGenerics",
         "graph"
