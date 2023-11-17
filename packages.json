@@ -24,7 +24,6 @@
     "acde": [],
     "ACE": [
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "QDNAseq",
@@ -1422,7 +1421,6 @@
         "AnnotationHub",
         "BSgenome",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
@@ -2210,7 +2208,6 @@
         "GenomicRanges"
     ],
     "CGEN": [],
-    "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
         "Biostrings",
@@ -2220,9 +2217,7 @@
         "annotate",
         "genefilter"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "ChAMP": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -5722,7 +5717,6 @@
     ],
     "GeneBreak": [
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "QDNAseq",
@@ -11061,7 +11055,6 @@
     ],
     "QDNAseq": [
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools"
