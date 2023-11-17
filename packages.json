@@ -808,7 +808,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "MSstats",
         "XVector"
     ],
     "ASAFE": [],
@@ -11394,11 +11393,9 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "MSstats": [],
     "MSstatsLiP": [
         "Biostrings",
         "GenomeInfoDb",
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
         "XVector"
@@ -11407,7 +11404,6 @@
     "MSstatsPTM": [
         "Biostrings",
         "GenomeInfoDb",
-        "MSstats",
         "MSstatsTMT",
         "XVector"
     ],
@@ -11430,20 +11426,15 @@
         "qcmetrics",
         "vsn"
     ],
-    "MSstatsSampleSize": [
-        "MSstats"
-    ],
+    "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "Biostrings",
         "GenomeInfoDb",
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
         "XVector"
     ],
-    "MSstatsTMT": [
-        "MSstats"
-    ],
+    "MSstatsTMT": [],
     "MuData": [
         "DelayedArray",
         "GenomeInfoDb",
