@@ -7643,7 +7643,6 @@
         "GenomicRanges"
     ],
     "MsBackendRawFileReader": [],
-    "MsBackendSql": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
