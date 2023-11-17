@@ -6160,7 +6160,6 @@
     ],
     "HPAStainR": [],
     "HPiP": [],
-    "HTqPCR": [],
     "HTSeqGenie": [
         "AnnotationDbi",
         "BSgenome",
@@ -8822,9 +8821,7 @@
         "beachmat",
         "scuttle"
     ],
-    "nondetects": [
-        "HTqPCR"
-    ],
+    "nondetects": [],
     "NoRCE": [
         "AnnotationDbi",
         "Biostrings",
@@ -13878,9 +13875,7 @@
         "rtracklayer"
     ],
     "UNDO": [],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "UniProt.ws": [
         "AnnotationDbi",
         "Biostrings",
