@@ -644,16 +644,16 @@ packaged installation of ‘TENxBrainData’ as ‘TENxBrainData_1.20.0_R_x86_64
 * DONE (TENxBrainData)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp216NJt/downloaded_packages’
+	‘/tmp/RtmpIBjkfy/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	3m52.620s
-user	3m22.008s
-sys	0m26.779s
+real	3m42.250s
+user	3m17.618s
+sys	0m26.196s
 * installing *binary* package ‘data.table’ ...
 * ‘data.table’ was already a binary package and will not be rebuilt
 * creating tarball
