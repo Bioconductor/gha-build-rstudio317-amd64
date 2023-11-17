@@ -6405,7 +6405,6 @@
     ],
     "GSALightning": [],
     "GSAR": [],
-    "GSCA": [],
     "gscreend": [
         "DelayedArray",
         "GenomeInfoDb",
