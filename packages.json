@@ -7993,10 +7993,7 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "AnnotationDbi",
         "Biobase",
