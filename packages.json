@@ -9198,7 +9198,6 @@
         "MSstatsQC",
         "vsn"
     ],
-    "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "Biostrings",
         "GenomeInfoDb",
