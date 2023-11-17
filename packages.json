@@ -6284,7 +6284,6 @@
     ],
     "flowGraph": [],
     "flowMap": [],
-    "flowMatch": [],
     "flowMerge": [
         "flowClust"
     ],
