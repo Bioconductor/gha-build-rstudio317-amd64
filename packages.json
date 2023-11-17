@@ -11491,7 +11491,6 @@
         "XVector",
         "biomaRt"
     ],
-    "OncoSimulR": [],
     "onlineFDR": [],
     "ontoProc": [
         "AnnotationDbi",
