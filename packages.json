@@ -6993,7 +6993,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "maigesPack": [],
     "MAIT": [
         "CAMERA",
         "DelayedArray",
