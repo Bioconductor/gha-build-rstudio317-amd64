@@ -1192,7 +1192,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "mdqc",
         "methylumi",
         "minfi",
         "multtest",
@@ -14676,7 +14675,6 @@
         "zlibbioc"
     ],
     "mdp": [],
-    "mdqc": [],
     "MDTS": [
         "Biobase",
         "Biostrings",
