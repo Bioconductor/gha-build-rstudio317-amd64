@@ -1118,7 +1118,6 @@
         "GenomicRanges",
         "KEGGREST",
         "MAST",
-        "Maaslin2",
         "MultiAssayExperiment",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -7576,7 +7575,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "Maaslin2": [],
     "Macarron": [
         "AnnotationDbi",
         "Biostrings",
@@ -7584,7 +7582,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "Maaslin2",
         "SummarizedExperiment"
     ],
     "macat": [
@@ -8831,9 +8828,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "moanin": [
         "AnnotationDbi",
         "Biostrings",
