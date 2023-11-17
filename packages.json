@@ -9455,7 +9455,6 @@
         "KEGGREST"
     ],
     "RCSL": [],
-    "RcwlPipelines": [],
     "RCy3": [],
     "rDGIdb": [],
     "Rdisop": [],
@@ -9731,9 +9730,7 @@
         "SummarizedExperiment"
     ],
     "retrofit": [],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rfaRm": [
         "Biostrings"
     ],
