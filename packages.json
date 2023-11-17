@@ -13365,7 +13365,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "rbsurv": [],
     "RCAS": [
         "AnnotationDbi",
         "BSgenome",
