@@ -2156,7 +2156,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "monocle",
         "rtracklayer"
     ],
     "CIMICE": [],
@@ -7528,7 +7527,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "monocle": [],
     "MoonlightR": [
         "AnnotationDbi",
         "Biostrings",
@@ -8769,8 +8767,7 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "destiny",
-        "monocle"
+        "destiny"
     ],
     "PhenoGeneRanker": [],
     "phenomis": [
@@ -12841,9 +12838,7 @@
     "universalmotif": [
         "Biostrings"
     ],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VAExprs": [
         "BiocSingular",
         "DelayedMatrixStats",
