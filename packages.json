@@ -4245,7 +4245,6 @@
         "annotate"
     ],
     "geneRecommender": [],
-    "GeneRegionScan": [],
     "geneRxCluster": [
         "GenomicRanges"
     ],
