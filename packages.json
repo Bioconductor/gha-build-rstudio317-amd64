@@ -2194,7 +2194,6 @@
     ],
     "coGPS": [],
     "COHCAP": [],
-    "cola": [],
     "comapr": [
         "AnnotationDbi",
         "AnnotationFilter",
