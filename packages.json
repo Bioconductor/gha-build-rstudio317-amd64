@@ -6284,7 +6284,6 @@
     "flowMerge": [
         "flowClust"
     ],
-    "flowPloidy": [],
     "flowPlots": [],
     "FlowSOM": [],
     "flowSpecs": [],
