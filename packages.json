@@ -3524,7 +3524,6 @@
     ],
     "CONFESS": [
         "flowClust",
-        "flowMeans",
         "flowMerge"
     ],
     "consensus": [],
@@ -6287,7 +6286,6 @@
     "flowGraph": [],
     "flowMap": [],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -11647,9 +11645,7 @@
         "beachmat"
     ],
     "oppti": [],
-    "optimalFlow": [
-        "flowMeans"
-    ],
+    "optimalFlow": [],
     "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
