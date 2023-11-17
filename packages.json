@@ -8062,7 +8062,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "infinityFlow": [],
     "Informeasure": [],
     "InPAS": [
         "AnnotationDbi",
