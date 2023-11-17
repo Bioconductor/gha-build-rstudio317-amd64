@@ -150,13 +150,13 @@ packaged installation of ‘qvalue’ as ‘qvalue_2.32.0_R_x86_64-pc-linux-gnu.
 * DONE (qvalue)
 
 The downloaded source packages are in
-	‘/tmp/RtmpZqUrxx/downloaded_packages’
+	‘/tmp/RtmpzUVLQz/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m19.413s
-user	0m8.041s
-sys	0m3.132s
+real	0m18.006s
+user	0m8.304s
+sys	0m3.142s
