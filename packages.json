@@ -4867,7 +4867,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "DEGseq": [],
     "DelayedArray": [
         "S4Arrays"
     ],
