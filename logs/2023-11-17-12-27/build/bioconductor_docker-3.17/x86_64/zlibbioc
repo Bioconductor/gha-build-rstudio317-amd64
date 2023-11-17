@@ -67,13 +67,13 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.1_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpIXII9C/downloaded_packages’
+	‘/tmp/RtmpG58WDb/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m9.075s
-user	0m4.621s
-sys	0m2.125s
+real	0m6.549s
+user	0m4.712s
+sys	0m2.099s
