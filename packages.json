@@ -3316,7 +3316,6 @@
         "XVector"
     ],
     "clevRvis": [],
-    "clippda": [],
     "clipper": [
         "AnnotationDbi",
         "Biostrings",
