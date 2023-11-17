@@ -6578,7 +6578,6 @@
         "annotate",
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
