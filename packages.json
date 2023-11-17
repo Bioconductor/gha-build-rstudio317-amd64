@@ -14718,7 +14718,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "RUVcorr": [],
     "RUVSeq": [
         "AnnotationDbi",
         "Biostrings",
