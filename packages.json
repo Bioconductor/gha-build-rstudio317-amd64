@@ -14397,7 +14397,6 @@
         "goseq",
         "graph",
         "limma",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO",
@@ -14513,8 +14512,7 @@
         "zlibbioc"
     ],
     "IHW": [
-        "BiocGenerics",
-        "lpsymphony"
+        "BiocGenerics"
     ],
     "illuminaio": [],
     "ILoReg": [
@@ -15751,7 +15749,6 @@
         "LPE"
     ],
     "lpNet": [],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
