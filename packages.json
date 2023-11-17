@@ -14673,7 +14673,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "miRBaseConverter": [],
     "miRcomp": [
         "Biobase"
     ],
@@ -14777,7 +14776,6 @@
         "ggtree",
         "graph",
         "graphite",
-        "miRBaseConverter",
         "miRspongeR",
         "multtest",
         "rqubic"
@@ -14802,8 +14800,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "graphite",
-        "miRBaseConverter"
+        "graphite"
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [
@@ -23864,8 +23861,7 @@
         "KEGGREST",
         "S4Vectors",
         "XVector",
-        "biomaRt",
-        "miRBaseConverter"
+        "biomaRt"
     ],
     "SpotClean": [
         "Biobase",
