@@ -130,13 +130,13 @@ packaged installation of ‘TFBSTools’ as ‘TFBSTools_1.38.0_R_x86_64-pc-linu
 * DONE (TFBSTools)
 
 The downloaded source packages are in
-	‘/tmp/RtmpF1bahS/downloaded_packages’
+	‘/tmp/RtmpXDU5p2/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m27.425s
-user	1m19.676s
-sys	0m6.468s
+real	1m27.009s
+user	1m19.846s
+sys	0m6.291s
