@@ -353,9 +353,7 @@
     ],
     "calm": [],
     "CAMERA": [],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -2054,7 +2052,6 @@
     "phantasus": [],
     "PhenoGeneRanker": [],
     "phenomis": [],
-    "phenoTest": [],
     "PhIPData": [],
     "phosphonormalizer": [],
     "pickgene": [],
