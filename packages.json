@@ -260,7 +260,6 @@
     ],
     "epistasisGA": [],
     "epivizrStandalone": [],
-    "esATAC": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
