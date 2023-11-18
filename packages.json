@@ -388,7 +388,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocSklearn": [],
     "BiocWorkflowTools": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
