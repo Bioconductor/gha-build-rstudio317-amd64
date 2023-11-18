@@ -513,9 +513,7 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -1533,7 +1531,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "pathview",
         "sva"
     ],
     "decompTumor2Sig": [
@@ -1852,7 +1849,6 @@
         "GSVA",
         "SingleCellExperiment",
         "globaltest",
-        "pathview",
         "safe",
         "topGO"
     ],
@@ -1893,7 +1889,6 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "enrichplot": [
@@ -2302,8 +2297,7 @@
         "DESeq2",
         "DOSE",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "GDSArray": [],
     "GEM": [],
@@ -2555,7 +2549,6 @@
         "EnrichmentBrowser",
         "ExperimentHub",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "GSEAlm": [],
@@ -3066,8 +3059,7 @@
         "DOSE",
         "ExperimentHub",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "magpie": [
         "DESeq2",
@@ -4056,7 +4048,6 @@
         "DESeq2"
     ],
     "pathVar": [],
-    "pathview": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "Category",
@@ -4896,9 +4887,7 @@
     "SANTA": [],
     "satuRn": [],
     "savR": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SBMLR": [],
     "SC3": [
         "SingleCellExperiment"
@@ -6174,7 +6163,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "zFPKM": [],
