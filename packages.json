@@ -5256,7 +5256,6 @@
     "ShortRead": [
         "GenomicAlignments"
     ],
-    "SIAMCAT": [],
     "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
