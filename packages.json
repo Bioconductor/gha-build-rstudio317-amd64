@@ -1147,7 +1147,6 @@
     "OpenStats": [],
     "oppti": [],
     "ORFhunteR": [],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "OSAT": [],
     "OutSplice": [
@@ -1623,7 +1622,6 @@
     "tximeta": [],
     "TypeInfo": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
