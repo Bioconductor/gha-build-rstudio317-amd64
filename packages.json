@@ -1318,8 +1318,7 @@
     ],
     "ideal": [
         "GenomicFeatures",
-        "goseq",
-        "pcaExplorer"
+        "goseq"
     ],
     "iGC": [],
     "igvR": [
@@ -1905,7 +1904,6 @@
     "PathNet": [],
     "pathVar": [],
     "paxtoolsr": [],
-    "pcaExplorer": [],
     "PCAN": [],
     "pcxn": [],
     "pdInfoBuilder": [],
