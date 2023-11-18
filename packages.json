@@ -674,9 +674,7 @@
     ],
     "CoRegNet": [],
     "CORREP": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [],
     "COSNet": [],
     "CoverageView": [],
@@ -1438,7 +1436,6 @@
         "VariantTools",
         "gmapR"
     ],
-    "HTSFilter": [],
     "iASeq": [],
     "ibh": [],
     "iBMQ": [],
