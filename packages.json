@@ -2074,7 +2074,6 @@
         "ShortRead"
     ],
     "fastreeR": [],
-    "FCBF": [],
     "fCCAC": [
         "BSgenome",
         "GenomicAlignments",
@@ -2084,7 +2083,6 @@
     "fCI": [],
     "fcoex": [
         "DOSE",
-        "FCBF",
         "SingleCellExperiment",
         "clusterProfiler",
         "enrichplot"
