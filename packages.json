@@ -2166,7 +2166,6 @@
     "podkat": [
         "BSgenome"
     ],
-    "POMA": [],
     "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
