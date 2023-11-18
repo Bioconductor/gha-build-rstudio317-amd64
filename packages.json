@@ -303,11 +303,8 @@
         "biovizBase"
     ],
     "epistasisGA": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -768,9 +765,7 @@
     ],
     "scShapes": [],
     "scTHI": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "semisup": [],
     "SEPIRA": [],
     "seq.hotSPOT": [],
