@@ -6133,18 +6133,13 @@
         "QFeatures",
         "SummarizedExperiment"
     ],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
+    "MSstatsLiP": [],
     "MSstatsLOBD": [],
-    "MSstatsPTM": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "MuData": [
         "MultiAssayExperiment",
         "SingleCellExperiment",
