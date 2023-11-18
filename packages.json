@@ -1340,7 +1340,6 @@
         "GSVA"
     ],
     "eiR": [],
-    "eisaR": [],
     "ELMER": [
         "BSgenome",
         "GenomicFeatures",
