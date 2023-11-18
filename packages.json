@@ -2264,7 +2264,6 @@
         "GenomicFeatures",
         "ensembldb",
         "rtracklayer",
-        "satuRn",
         "sva",
         "tximeta"
     ],
@@ -3808,7 +3807,6 @@
     "sagenhaft": [],
     "sampleClassifier": [],
     "SANTA": [],
-    "satuRn": [],
     "savR": [],
     "SBMLR": [],
     "SC3": [],
