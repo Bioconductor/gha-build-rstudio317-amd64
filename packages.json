@@ -232,7 +232,6 @@
         "rtracklayer"
     ],
     "bandle": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "banocc": [],
@@ -2472,7 +2471,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "MLInterfaces": [],
     "MLSeq": [],
     "MMAPPR2": [
         "BSgenome",
@@ -2986,11 +2984,8 @@
     "projectR": [
         "CoGAPS"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROMISE": [],
@@ -3685,9 +3680,7 @@
         "rtracklayer"
     ],
     "ShortRead": [],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "sights": [],
     "signatureSearch": [
         "clusterProfiler",
