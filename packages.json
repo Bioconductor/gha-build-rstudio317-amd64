@@ -2307,9 +2307,7 @@
     "geneplast": [],
     "geneplotter": [],
     "geneRecommender": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicAlignments",
@@ -5139,7 +5137,6 @@
     "SeqSQC": [
         "ExperimentHub"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "ExperimentHub"
     ],
