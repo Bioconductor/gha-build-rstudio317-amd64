@@ -245,7 +245,6 @@
         "regioneR"
     ],
     "BiSeq": [],
-    "blacksheepr": [],
     "BOBaFIT": [
         "BSgenome",
         "GenomicFeatures",
