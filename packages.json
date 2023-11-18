@@ -5932,7 +5932,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "PrInCE": [],
     "proActiv": [
         "DESeq2",
         "GenomicAlignments",
