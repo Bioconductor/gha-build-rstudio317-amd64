@@ -940,7 +940,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "crlmm": [],
     "crossmeta": [
         "oligo"
     ],
@@ -2050,7 +2049,6 @@
         "GenomicFeatures",
         "RnBeads",
         "bumphunter",
-        "crlmm",
         "methylumi",
         "minfi",
         "rtracklayer"
@@ -2316,7 +2314,6 @@
     "MinimumDistance": [
         "BSgenome",
         "VanillaICE",
-        "crlmm",
         "rtracklayer"
     ],
     "MiPP": [],
@@ -3953,7 +3950,6 @@
     ],
     "VanillaICE": [
         "BSgenome",
-        "crlmm",
         "rtracklayer"
     ],
     "VarCon": [
