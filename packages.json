@@ -3115,7 +3115,6 @@
     "MetID": [],
     "MetNet": [],
     "mfa": [],
-    "MGFM": [],
     "mgsa": [],
     "mia": [
         "SingleCellExperiment",
@@ -4528,9 +4527,7 @@
         "rtracklayer"
     ],
     "sagenhaft": [],
-    "sampleClassifier": [
-        "MGFM"
-    ],
+    "sampleClassifier": [],
     "SANTA": [],
     "satuRn": [],
     "savR": [],
