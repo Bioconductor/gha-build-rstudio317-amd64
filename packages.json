@@ -715,7 +715,6 @@
     "deconvR": [
         "GenomicFeatures",
         "bumphunter",
-        "methylKit",
         "minfi"
     ],
     "DeepBlueR": [],
@@ -1530,9 +1529,7 @@
     "MetaPhOR": [
         "RCy3"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethPed": [],
     "methrix": [
         "BSgenome"
@@ -1565,10 +1562,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "MethylMix": [],
     "methylPipe": [
         "BSgenome",
