@@ -3865,7 +3865,6 @@
     ],
     "restfulSE": [],
     "retrofit": [],
-    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "rtracklayer"
