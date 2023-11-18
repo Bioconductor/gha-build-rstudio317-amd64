@@ -5515,10 +5515,7 @@
         "AnnotationHub",
         "SummarizedExperiment"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [],
     "oposSOM": [
         "biomaRt"
