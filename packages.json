@@ -1209,7 +1209,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "BSgenome",
@@ -1652,9 +1651,7 @@
     ],
     "GSALightning": [],
     "GSAR": [],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSEAlm": [],
     "GSEAmining": [],
     "gsean": [],
@@ -3942,9 +3939,7 @@
         "quantro",
         "rtracklayer"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": [],
     "ZygosityPredictor": [
         "BSgenome",
