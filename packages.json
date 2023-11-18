@@ -837,7 +837,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "DEWSeq": [],
     "DExMA": [],
     "DiffBind": [
         "BSgenome",
