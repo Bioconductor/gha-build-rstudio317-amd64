@@ -384,10 +384,7 @@
         "flowDensity"
     ],
     "cytofQC": [],
-    "cytomapper": [],
-    "cytoviewer": [
-        "cytomapper"
-    ],
+    "cytoviewer": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -743,9 +740,7 @@
         "VariantAnnotation"
     ],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "immunotation": [],
     "IMPCdata": [],
     "INDEED": [],
@@ -1371,9 +1366,7 @@
         "VariantAnnotation"
     ],
     "similaRpeak": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "sincell": [],
     "singleCellTK": [
         "celda"
