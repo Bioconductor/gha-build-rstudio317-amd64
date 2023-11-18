@@ -14,9 +14,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "AHMassBank": [
-        "AnnotationHubData"
-    ],
+    "AHMassBank": [],
     "alabaster": [
         "alabaster.vcf"
     ],
@@ -27,7 +25,6 @@
         "biovizBase"
     ],
     "AlphaBeta": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "antiProfiles": [],
     "AnVILBilling": [],
@@ -398,9 +395,7 @@
         "motifmatchr"
     ],
     "EventPointer": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -662,7 +657,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi"
     ],
