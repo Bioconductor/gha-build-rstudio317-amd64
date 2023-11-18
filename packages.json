@@ -850,7 +850,6 @@
     "hierGWAS": [],
     "hierinf": [],
     "HilbertVisGUI": [],
-    "HiLDA": [],
     "hiReadsProcessor": [],
     "HIREewas": [],
     "HPAanalyze": [],
@@ -1605,9 +1604,7 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "semisup": [],
     "SEPIRA": [],
     "seq.hotSPOT": [],
