@@ -637,7 +637,6 @@
     ],
     "BufferedMatrixMethods": [],
     "bugsigdbr": [],
-    "BUMHMM": [],
     "bumphunter": [
         "GenomicAlignments",
         "GenomicFeatures",
