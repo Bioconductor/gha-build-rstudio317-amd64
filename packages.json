@@ -206,12 +206,10 @@
     "CausalR": [],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [],
     "ccrepe": [],
@@ -1331,9 +1329,7 @@
     "RRHO": [],
     "rsemmed": [],
     "rSWeeP": [],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "Rtreemix": [],
     "RUVSeq": [],
     "sagenhaft": [],
@@ -1496,11 +1492,8 @@
     "tanggle": [],
     "TargetScore": [],
     "TargetSearch": [],
-    "TCGAutils": [],
     "ternarynet": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFHAZ": [],
     "timecourse": [],
