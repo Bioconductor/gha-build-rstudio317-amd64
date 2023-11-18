@@ -1,3 +1,0 @@
-ATACseqQC
-cbaf
-granulator
