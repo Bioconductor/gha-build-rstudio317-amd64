@@ -404,7 +404,6 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "blima": [],
     "BloodGen3Module": [],
     "bnbc": [
         "sva"
