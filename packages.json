@@ -2498,7 +2498,6 @@
     ],
     "GNET2": [],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [
         "MultiAssayExperiment"
     ],
