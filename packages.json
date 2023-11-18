@@ -825,7 +825,6 @@
     "DESpace": [
         "SpatialExperiment"
     ],
-    "DExMA": [],
     "DiffBind": [
         "BSgenome",
         "GreyListChIP"
