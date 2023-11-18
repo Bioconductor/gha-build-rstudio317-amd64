@@ -33,7 +33,6 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACseqQC": [],
     "autonomics": [],
     "AWFisher": [],
     "bacon": [],
@@ -476,7 +475,6 @@
     "MultiMed": [],
     "MungeSumstats": [],
     "NADfinder": [
-        "ATACseqQC",
         "Gviz",
         "trackViewer"
     ],
