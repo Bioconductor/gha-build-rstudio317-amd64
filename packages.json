@@ -402,7 +402,6 @@
     "BioNERO": [
         "sva"
     ],
-    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
