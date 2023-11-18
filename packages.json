@@ -576,9 +576,7 @@
     "ISAnalytics": [],
     "iSeq": [],
     "IsoCorrectoRGUI": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "ISoLDE": [],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
@@ -1117,7 +1115,6 @@
         "ensemblVEP"
     ],
     "twoddpcr": [],
-    "tximeta": [],
     "TypeInfo": [],
     "Ularcirc": [],
     "uncoverappLib": [
