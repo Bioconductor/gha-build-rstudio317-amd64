@@ -8,7 +8,6 @@
     ],
     "affycoretools": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
@@ -21,7 +20,6 @@
     "agilp": [],
     "AgiMicroRna": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "Glimma",
         "OrganismDbi",
@@ -157,9 +155,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "autonomics": [],
     "AWFisher": [],
     "bacon": [],
@@ -397,7 +393,6 @@
         "scater"
     ],
     "categoryCompare": [
-        "GOstats",
         "RCy3"
     ],
     "CausalR": [],
@@ -1327,9 +1322,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [
         "GenomicFeatures"
     ],
@@ -1339,7 +1332,6 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GOsummaries": [],
     "GOTHiC": [
         "BSgenome"
@@ -1482,7 +1474,6 @@
     ],
     "iCOBRA": [],
     "ideal": [
-        "GOstats",
         "GenomicFeatures",
         "goseq",
         "pcaExplorer"
@@ -1833,7 +1824,6 @@
     "MIMOSA": [],
     "mina": [],
     "MineICA": [
-        "GOstats",
         "GenomicFeatures",
         "bumphunter",
         "lumi",
@@ -1854,9 +1844,7 @@
         "bsseq"
     ],
     "miRcomp": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRNApath": [],
     "miRSM": [
         "ReactomePA",
@@ -2054,7 +2042,6 @@
         "scater"
     ],
     "netZooR": [
-        "GOstats",
         "GenomicFeatures",
         "RCy3",
         "bumphunter",
@@ -2164,9 +2151,7 @@
     "PathoStat": [],
     "pathVar": [],
     "paxtoolsr": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PCAN": [],
     "pcxn": [],
     "PDATK": [],
@@ -2214,9 +2199,7 @@
     "pipeFrame": [
         "BSgenome"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [
         "plyranges"
     ],
@@ -2434,7 +2417,6 @@
     ],
     "ReportingTools": [
         "BSgenome",
-        "GOstats",
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
@@ -2709,7 +2691,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
@@ -2757,9 +2738,7 @@
     "SeqSQC": [],
     "SEtools": [],
     "sevenC": [],
-    "SGCP": [
-        "GOstats"
-    ],
+    "SGCP": [],
     "SGSeq": [
         "GenomicFeatures"
     ],
