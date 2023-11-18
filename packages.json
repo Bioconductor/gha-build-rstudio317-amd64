@@ -390,9 +390,7 @@
     "multiGSEA": [],
     "MultiMed": [],
     "MungeSumstats": [],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "NanoStringDiff": [],
     "NanoTube": [],
     "NCIgraph": [
@@ -577,7 +575,6 @@
     ],
     "tomoseqr": [],
     "TPP2D": [],
-    "trackViewer": [],
     "TrajectoryGeometry": [],
     "transomics2cytoscape": [
         "RCy3"
