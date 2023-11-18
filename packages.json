@@ -972,7 +972,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CrispRVariants": [],
     "crisprVerse": [
         "BSgenome",
         "GenomicFeatures",
