@@ -3973,7 +3973,6 @@
     ],
     "hca": [],
     "HDTD": [],
-    "heatmaps": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -7909,7 +7908,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "heatmaps",
         "rtracklayer",
         "seqPattern"
     ],
