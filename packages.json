@@ -3505,7 +3505,6 @@
         "annotate"
     ],
     "geneRecommender": [],
-    "geneRxCluster": [],
     "GENESIS": [
         "SeqArray",
         "SeqVarTools"
