@@ -239,9 +239,7 @@
         "karyoploteR"
     ],
     "CNVrd2": [],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "coGPS": [],
     "COHCAP": [],
     "comapr": [
@@ -738,7 +736,6 @@
     "minfi": [],
     "MinimumDistance": [],
     "MiPP": [],
-    "MIRA": [],
     "miRcomp": [],
     "miRNApath": [],
     "miRSM": [],
