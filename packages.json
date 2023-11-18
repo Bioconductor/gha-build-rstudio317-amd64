@@ -272,7 +272,6 @@
         "biovizBase",
         "bumphunter",
         "ensembldb",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -805,7 +804,6 @@
         "VariantAnnotation"
     ],
     "gmoviz": [],
-    "goseq": [],
     "goSorensen": [],
     "GOsummaries": [],
     "GOTHiC": [],
@@ -895,9 +893,7 @@
     ],
     "iChip": [],
     "iCNV": [],
-    "ideal": [
-        "goseq"
-    ],
+    "ideal": [],
     "iGC": [],
     "igvR": [
         "VariantAnnotation"
@@ -1471,9 +1467,7 @@
     "RGraph2js": [],
     "rGREAT": [],
     "RGSEA": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -1689,9 +1683,7 @@
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "SNAGEE": [],
     "SNPediaR": [],
     "SNPhood": [
