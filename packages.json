@@ -248,7 +248,6 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "TreeSummarizedExperiment",
         "mia",
         "scater",
@@ -498,9 +497,7 @@
     ],
     "CCPROMISE": [],
     "ccrepe": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran"
@@ -2020,7 +2017,6 @@
         "rtracklayer"
     ],
     "MassArray": [],
-    "MAST": [],
     "mastR": [],
     "matchBox": [],
     "MatrixRider": [
@@ -2704,9 +2700,7 @@
     ],
     "pogos": [],
     "POMA": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "pram": [
         "rtracklayer"
     ],
@@ -3423,7 +3417,6 @@
     "singleCellTK": [
         "DropletUtils",
         "GenomicFeatures",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils",
         "batchelor",
