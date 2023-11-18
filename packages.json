@@ -1186,9 +1186,7 @@
     "pmm": [],
     "PoDCall": [],
     "podkat": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -1255,7 +1253,6 @@
         "genomation"
     ],
     "RCASPAR": [],
-    "rCGH": [],
     "Rcollectl": [],
     "RCSL": [],
     "RCy3": [],
