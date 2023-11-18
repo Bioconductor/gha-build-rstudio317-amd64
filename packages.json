@@ -2555,7 +2555,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "DMRcaller": [],
     "DMRcate": [
         "AnnotationDbi",
         "AnnotationHub",
