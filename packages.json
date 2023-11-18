@@ -574,7 +574,6 @@
         "minfi"
     ],
     "epistasisGA": [],
-    "EpiTxDb": [],
     "epivizr": [
         "OrganismDbi",
         "bumphunter",
