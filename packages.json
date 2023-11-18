@@ -297,8 +297,7 @@
         "regioneR"
     ],
     "ChIPQC": [
-        "DiffBind",
-        "GreyListChIP"
+        "DiffBind"
     ],
     "ChIPseeker": [],
     "ChIPXpress": [],
@@ -524,9 +523,7 @@
         "regioneR"
     ],
     "DESpace": [],
-    "DiffBind": [
-        "GreyListChIP"
-    ],
+    "DiffBind": [],
     "diffGeneAnalysis": [],
     "diffHic": [],
     "DiffLogo": [],
@@ -609,9 +606,7 @@
         "ChIPseeker",
         "genomation"
     ],
-    "epigraHMM": [
-        "GreyListChIP"
-    ],
+    "epigraHMM": [],
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
@@ -813,7 +808,6 @@
     "graper": [],
     "GraphAlignment": [],
     "GRENITS": [],
-    "GreyListChIP": [],
     "GSALightning": [],
     "GSAR": [],
     "GSEAlm": [],
@@ -1865,7 +1859,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "ensembldb",
         "regioneR"
     ],
