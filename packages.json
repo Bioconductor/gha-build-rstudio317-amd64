@@ -900,9 +900,7 @@
     "OpenStats": [],
     "oppti": [],
     "OSAT": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "motifmatchr"
     ],
@@ -1013,7 +1011,6 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "biovizBase",
         "ggbio"
