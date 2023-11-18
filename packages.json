@@ -667,7 +667,6 @@
     "CiteFuse": [
         "scran"
     ],
-    "ClassifyR": [],
     "cleanUpdTSeq": [
         "BSgenome",
         "rtracklayer"
@@ -1960,7 +1959,6 @@
         "ropls"
     ],
     "lisaClust": [
-        "ClassifyR",
         "DropletUtils",
         "SpatialExperiment",
         "spicyR"
@@ -3579,7 +3577,6 @@
         "SpatialExperiment"
     ],
     "spicyR": [
-        "ClassifyR",
         "DropletUtils",
         "SpatialExperiment"
     ],
@@ -3748,9 +3745,7 @@
     ],
     "TNBC.CMS": [],
     "tomoseqr": [],
-    "TOP": [
-        "ClassifyR"
-    ],
+    "TOP": [],
     "ToxicoGx": [],
     "TPP2D": [],
     "trackViewer": [
