@@ -253,7 +253,6 @@
         "VariantAnnotation"
     ],
     "casper": [],
-    "CATALYST": [],
     "categoryCompare": [
         "RCy3"
     ],
@@ -492,9 +491,7 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "cytomapper": [],
     "cytoviewer": [
         "cytomapper"
