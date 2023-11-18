@@ -1538,7 +1538,6 @@
     "GeneGA": [],
     "geneplast": [],
     "geneRecommender": [],
-    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicFeatures",
