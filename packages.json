@@ -114,10 +114,7 @@
     "banocc": [],
     "BaseSpaceR": [],
     "Basic4Cseq": [],
-    "BASiCS": [],
-    "BASiCStan": [
-        "BASiCS"
-    ],
+    "BASiCStan": [],
     "BayesKnockdown": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
