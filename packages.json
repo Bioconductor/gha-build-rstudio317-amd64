@@ -948,7 +948,6 @@
         "clusterProfiler"
     ],
     "easyreporting": [],
-    "easyRNASeq": [],
     "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
@@ -1909,7 +1908,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "easyRNASeq",
         "ensembldb",
         "ggbio"
     ],
