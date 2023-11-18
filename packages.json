@@ -1471,8 +1471,7 @@
     ],
     "dupRadar": [],
     "easier": [
-        "DESeq2",
-        "quantiseqr"
+        "DESeq2"
     ],
     "EasyCellType": [
         "DOSE",
@@ -3531,7 +3530,6 @@
     "qsvaR": [
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "GenomicFeatures",
         "bumphunter",
