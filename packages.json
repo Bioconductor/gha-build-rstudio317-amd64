@@ -3731,7 +3731,6 @@
         "scran",
         "scuttle",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -4221,8 +4220,7 @@
     ],
     "VDJdive": [],
     "velociraptor": [
-        "scuttle",
-        "zellkonverter"
+        "scuttle"
     ],
     "veloviz": [],
     "VennDetail": [],
@@ -4305,7 +4303,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser"
     ],
