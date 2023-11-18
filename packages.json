@@ -606,9 +606,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
@@ -1062,9 +1060,7 @@
         "flowDensity"
     ],
     "cydar": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "cytofQC": [
         "CATALYST",
         "scater",
@@ -1218,7 +1214,6 @@
         "rtracklayer",
         "systemPipeR"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [],
     "diffGeneAnalysis": [],
     "diffHic": [
@@ -4239,9 +4234,7 @@
         "slingshot"
     ],
     "TreeAndLeaf": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "TreeSummarizedExperiment": [],
     "trena": [
         "BSgenome",
