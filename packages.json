@@ -610,9 +610,7 @@
     "levi": [],
     "limmaGUI": [],
     "lineagespot": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "lmdme": [],
     "LPEadj": [],
     "lpNet": [],
@@ -1080,7 +1078,6 @@
         "motifmatchr"
     ],
     "specL": [],
-    "spicyR": [],
     "spikeLI": [],
     "spkTools": [],
     "SPLINTER": [
