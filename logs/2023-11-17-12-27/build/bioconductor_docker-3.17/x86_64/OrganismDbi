@@ -124,16 +124,16 @@ packaged installation of ‘Rattus.norvegicus’ as ‘Rattus.norvegicus_1.3.1_R
 * DONE (Rattus.norvegicus)
 
 The downloaded source packages are in
-	‘/tmp/RtmpX5rq3h/downloaded_packages’
+	‘/tmp/RtmphI9gjM/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	4m52.542s
-user	4m41.248s
-sys	0m11.244s
+real	4m48.740s
+user	4m38.341s
+sys	0m11.282s
 * installing *source* package ‘Rattus.norvegicus’ ...
 ** using staged installation
 ** R
