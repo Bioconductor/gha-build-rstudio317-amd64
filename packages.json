@@ -1322,7 +1322,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "cfTools": [],
     "CGEN": [],
     "cghMCR": [
         "AnnotationDbi",
