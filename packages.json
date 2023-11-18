@@ -22,7 +22,6 @@
         "biovizBase"
     ],
     "AlphaBeta": [],
-    "annotatr": [],
     "antiProfiles": [],
     "AnVILBilling": [],
     "AnVILPublish": [],
@@ -94,7 +93,6 @@
     "biovizBase": [],
     "BiRewire": [],
     "biscuiteer": [
-        "annotatr",
         "dmrseq"
     ],
     "BOBaFIT": [
@@ -328,9 +326,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "DriverNet": [],
     "dupRadar": [],
@@ -935,9 +931,7 @@
     "scBubbletree": [],
     "SCFA": [],
     "scFeatureFilter": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [],
     "scoreInvHap": [],
     "scRecover": [],
