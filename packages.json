@@ -189,8 +189,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -222,8 +221,7 @@
     "bumphunter": [],
     "BUS": [],
     "BUSpaRse": [
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "OrganismDbi",
@@ -294,9 +292,7 @@
         "genomation"
     ],
     "CFAssay": [],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "CGEN": [],
     "ChAMP": [
         "DMRcate",
@@ -530,9 +526,7 @@
         "EDASeq"
     ],
     "DART": [],
-    "dasper": [
-        "plyranges"
-    ],
+    "dasper": [],
     "dcanr": [],
     "dcGSA": [],
     "ddCt": [],
@@ -1005,8 +999,7 @@
     "INDEED": [],
     "Informeasure": [],
     "InPAS": [
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INPower": [],
     "INSPEcT": [],
@@ -1048,8 +1041,7 @@
         "regioneR"
     ],
     "katdetectr": [
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KBoost": [],
     "KinSwingR": [],
@@ -1103,8 +1095,7 @@
     "MantelCorr": [],
     "mapscape": [],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "Gviz",
@@ -1177,8 +1168,7 @@
     "methylCC": [
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1315,7 +1305,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -1362,9 +1351,7 @@
         "RCy3"
     ],
     "ndexr": [],
-    "nearBynding": [
-        "plyranges"
-    ],
+    "nearBynding": [],
     "NetPathMiner": [],
     "netprioR": [],
     "netSmooth": [],
@@ -1383,9 +1370,7 @@
     "NPARC": [],
     "NTW": [],
     "nuCpos": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NuPoP": [],
     "NxtIRFcore": [],
     "occugene": [],
@@ -1398,8 +1383,7 @@
         "VariantAnnotation",
         "bumphunter",
         "dasper",
-        "derfinder",
-        "plyranges"
+        "derfinder"
     ],
     "OGRE": [
         "Gviz",
@@ -1464,11 +1448,8 @@
     ],
     "pipeComp": [],
     "pipeFrame": [],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [],
-    "plyranges": [],
     "pmm": [],
     "PoDCall": [],
     "podkat": [],
@@ -2040,8 +2021,7 @@
     "TypeInfo": [],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "regioneR"
