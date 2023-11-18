@@ -2227,7 +2227,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "InterMineR": [],
     "IntramiRExploreR": [],
     "IONiseR": [
         "ShortRead"
