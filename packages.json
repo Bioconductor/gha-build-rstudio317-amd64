@@ -3246,7 +3246,6 @@
     "scReClassify": [],
     "scRecover": [],
     "ScreenR": [],
-    "scRepertoire": [],
     "scRNAseqApp": [
         "rtracklayer",
         "slingshot"
