@@ -204,7 +204,6 @@
         "scater",
         "scran"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
