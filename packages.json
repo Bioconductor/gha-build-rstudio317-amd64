@@ -842,7 +842,6 @@
     "HELP": [],
     "Herper": [],
     "HGC": [],
-    "hiAnnotator": [],
     "HIBAG": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -856,9 +855,7 @@
     "hierinf": [],
     "HilbertVisGUI": [],
     "HiLDA": [],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HIREewas": [],
     "HPAanalyze": [],
     "hpar": [],
