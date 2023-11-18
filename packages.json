@@ -27,14 +27,11 @@
     ],
     "airpart": [],
     "alabaster": [
-        "SpatialExperiment",
         "VariantAnnotation",
         "alabaster.spatial",
         "alabaster.vcf"
     ],
-    "alabaster.spatial": [
-        "SpatialExperiment"
-    ],
+    "alabaster.spatial": [],
     "alabaster.vcf": [
         "VariantAnnotation"
     ],
@@ -486,9 +483,7 @@
     "CSSQ": [],
     "CTdata": [],
     "ctsGE": [],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -504,11 +499,8 @@
     "cytofQC": [
         "CATALYST"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "cytoviewer": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "dagLogo": [
@@ -577,9 +569,7 @@
         "ensembldb",
         "regioneR"
     ],
-    "DESpace": [
-        "SpatialExperiment"
-    ],
+    "DESpace": [],
     "DiffBind": [
         "GreyListChIP"
     ],
@@ -723,9 +713,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escheR": [
-        "SpatialExperiment"
-    ],
+    "escheR": [],
     "EventPointer": [
         "SGSeq"
     ],
@@ -734,9 +722,7 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -872,9 +858,7 @@
         "ensembldb"
     ],
     "GGPA": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtreeDendro": [],
     "GIGSEA": [],
     "GladiaTOX": [],
@@ -989,7 +973,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "immunotation": [],
@@ -1058,7 +1041,6 @@
     ],
     "lipidr": [],
     "lisaClust": [
-        "SpatialExperiment",
         "spicyR"
     ],
     "lmdme": [],
@@ -1257,9 +1239,7 @@
     "MOGAMUN": [
         "RCy3"
     ],
-    "MoleculeExperiment": [
-        "SpatialExperiment"
-    ],
+    "MoleculeExperiment": [],
     "monaLisa": [
         "TFBSTools"
     ],
@@ -1356,9 +1336,7 @@
         "quantro",
         "yarn"
     ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "NoRCE": [],
     "normalize450K": [],
     "NPARC": [],
@@ -1730,7 +1708,6 @@
     "scFeatureFilter": [],
     "scFeatures": [
         "SingleCellSignalR",
-        "SpatialExperiment",
         "ensembldb"
     ],
     "scMerge": [],
@@ -1811,7 +1788,6 @@
     ],
     "similaRpeak": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "sincell": [],
@@ -1860,16 +1836,9 @@
     "sparseDOSSA": [],
     "sparsenetgls": [],
     "SparseSignatures": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
@@ -1882,12 +1851,8 @@
     ],
     "specL": [],
     "SpectralTAD": [],
-    "SPIAT": [
-        "SpatialExperiment"
-    ],
-    "spicyR": [
-        "SpatialExperiment"
-    ],
+    "SPIAT": [],
+    "spicyR": [],
     "spikeLI": [],
     "spiky": [],
     "spkTools": [],
@@ -1899,27 +1864,20 @@
         "biovizBase",
         "ensembldb"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SQLDataFrame": [],
     "SQUADD": [],
     "ssize": [],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [],
-    "Statial": [
-        "SpatialExperiment"
-    ],
+    "Statial": [],
     "statTarget": [],
     "STdeconvolve": [],
     "stepNorm": [],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [],
     "STROMA4": [],
     "StructuralVariantAnnotation": [
@@ -2047,7 +2005,6 @@
     "VennDetail": [],
     "VERSO": [],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vtpnet": [
