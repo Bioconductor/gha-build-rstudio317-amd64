@@ -4,8 +4,7 @@
     "ABSSeq": [],
     "acde": [],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAMgui": [],
     "affycoretools": [
@@ -3426,9 +3425,7 @@
         "rtracklayer"
     ],
     "SNAGEE": [],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "SNPediaR": [],
     "SNPhood": [
         "BSgenome",
@@ -3649,7 +3646,6 @@
         "rtracklayer"
     ],
     "tidySingleCellExperiment": [],
-    "tilingArray": [],
     "timecourse": [],
     "timescape": [],
     "TimiRGeN": [
