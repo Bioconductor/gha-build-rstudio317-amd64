@@ -111,9 +111,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "biovizBase",
@@ -181,7 +179,6 @@
     "CGEN": [],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "Gviz",
         "biovizBase",
         "lumi",
@@ -332,9 +329,7 @@
     ],
     "deltaGseg": [],
     "DeMAND": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "demuxmix": [],
     "DepInfeR": [],
     "DEqMS": [],
@@ -359,7 +354,6 @@
     "distinct": [],
     "dks": [],
     "DMRcate": [
-        "DSS",
         "Gviz",
         "biovizBase",
         "methylumi",
@@ -375,7 +369,6 @@
     ],
     "DominoEffect": [],
     "DriverNet": [],
-    "DSS": [],
     "dupRadar": [],
     "easyreporting": [],
     "EBSeqHMM": [],
@@ -618,9 +611,7 @@
     "katdetectr": [],
     "KBoost": [],
     "KinSwingR": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "LBE": [],
     "ldblock": [],
     "LEA": [],
@@ -717,9 +708,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "minfi"
     ],
