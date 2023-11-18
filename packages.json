@@ -712,9 +712,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "FamAgg": [],
     "famat": [],
     "fastreeR": [],
@@ -1986,7 +1984,6 @@
     ],
     "wavClusteR": [],
     "weaver": [],
-    "wiggleplotr": [],
     "wppi": [],
     "xmapbridge": [],
     "XNAString": [],
