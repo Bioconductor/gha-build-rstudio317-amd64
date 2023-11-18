@@ -2204,7 +2204,6 @@
         "rtracklayer"
     ],
     "iGC": [],
-    "IgGeneUsage": [],
     "igvR": [
         "BSgenome",
         "GenomicFeatures",
