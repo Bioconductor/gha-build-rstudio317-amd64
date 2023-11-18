@@ -965,8 +965,7 @@
     ],
     "consensusOV": [
         "GSEABase",
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consensusSeekeR": [
         "rtracklayer"
@@ -1805,7 +1804,6 @@
     ],
     "GeneBreak": [],
     "GeneExpressionSignature": [],
-    "genefu": [],
     "GeneGA": [],
     "GeneMeta": [],
     "geneplast": [],
@@ -3159,8 +3157,7 @@
     "PCAN": [],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
-        "genefu"
+        "CoreGx"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -4090,7 +4087,6 @@
         "GenomicFeatures",
         "consensusOV",
         "ensembldb",
-        "genefu",
         "rtracklayer"
     ],
     "SigsPack": [
