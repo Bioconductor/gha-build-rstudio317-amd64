@@ -839,7 +839,6 @@
     "plotGrouper": [],
     "pmm": [],
     "PoDCall": [],
-    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "biovizBase"
