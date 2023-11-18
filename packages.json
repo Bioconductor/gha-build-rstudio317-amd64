@@ -349,7 +349,6 @@
     "enrichTF": [
         "motifmatchr"
     ],
-    "ensemblVEP": [],
     "EpiCompare": [],
     "epimutacions": [
         "Gviz",
@@ -674,7 +673,6 @@
     "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
         "gmapR"
     ],
     "ModCon": [],
@@ -1057,8 +1055,7 @@
     "tscR": [],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "twoddpcr": [],
     "TypeInfo": [],
