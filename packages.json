@@ -834,7 +834,6 @@
         "rtracklayer"
     ],
     "CoRegNet": [],
-    "CoreGx": [],
     "corral": [],
     "CORREP": [],
     "coseq": [
@@ -2654,9 +2653,7 @@
     ],
     "PCAN": [],
     "pcxn": [],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [
         "oligo"
     ],
@@ -2676,9 +2673,7 @@
     ],
     "pgca": [],
     "phantasus": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "destiny"
     ],
@@ -2870,9 +2865,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "randPack": [],
     "randRotation": [],
     "RAREsim": [],
@@ -3758,9 +3751,7 @@
     "TOP": [
         "ClassifyR"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "TPP2D": [],
     "trackViewer": [
         "BSgenome",
@@ -3968,7 +3959,6 @@
     "xcore": [],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "xmapbridge": [],
