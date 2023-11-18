@@ -1804,7 +1804,6 @@
         "rtracklayer"
     ],
     "gcatest": [],
-    "gCrisprTools": [],
     "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
