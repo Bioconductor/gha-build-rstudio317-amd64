@@ -558,7 +558,6 @@
     ],
     "calm": [],
     "CAMERA": [
-        "MsFeatures",
         "xcms"
     ],
     "canceR": [
@@ -839,7 +838,6 @@
         "rtracklayer"
     ],
     "cliqueMS": [
-        "MsFeatures",
         "xcms"
     ],
     "Clomial": [],
@@ -1018,7 +1016,6 @@
     ],
     "CoSIA": [],
     "cosmiq": [
-        "MsFeatures",
         "xcms"
     ],
     "cosmosR": [
@@ -1728,7 +1725,6 @@
     "FitHiC": [],
     "flagme": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "FLAMES": [
@@ -2271,7 +2267,6 @@
     "ipdDb": [],
     "IPO": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "IRISFGM": [
@@ -2380,7 +2375,6 @@
     "lmdme": [],
     "LOBSTAHS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "LoomExperiment": [],
@@ -2433,7 +2427,6 @@
     "magrene": [],
     "MAIT": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MANOR": [],
@@ -2533,7 +2526,6 @@
     ],
     "messina": [],
     "Metab": [
-        "MsFeatures",
         "xcms"
     ],
     "metabCombiner": [],
@@ -2563,7 +2555,6 @@
     "metahdep": [],
     "metaMS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [],
@@ -2790,7 +2781,6 @@
     ],
     "moanin": [],
     "MobilityTransformR": [
-        "MsFeatures",
         "xcms"
     ],
     "ModCon": [],
@@ -2856,7 +2846,6 @@
     "MsExperiment": [
         "QFeatures"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2989,7 +2978,6 @@
         "DESeq2"
     ],
     "ncGTW": [
-        "MsFeatures",
         "xcms"
     ],
     "NCIgraph": [
@@ -3718,7 +3706,6 @@
         "rtracklayer"
     ],
     "Risa": [
-        "MsFeatures",
         "xcms"
     ],
     "RITAN": [
@@ -4827,9 +4814,7 @@
     ],
     "wpm": [],
     "wppi": [],
-    "xcms": [
-        "MsFeatures"
-    ],
+    "xcms": [],
     "xcore": [],
     "XDE": [
         "GeneMeta"
