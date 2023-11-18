@@ -213,13 +213,13 @@ packaged installation of ‘minfiDataEPIC’ as ‘minfiDataEPIC_1.26.0_R_x86_64
 * DONE (minfiDataEPIC)
 
 The downloaded source packages are in
-	‘/tmp/RtmptdQX08/downloaded_packages’
+	‘/tmp/RtmpJhKwO9/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	9m31.331s
-user	9m3.587s
-sys	0m21.682s
+real	9m49.235s
+user	9m9.105s
+sys	0m22.261s
