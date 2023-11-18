@@ -1796,7 +1796,6 @@
     "MPFE": [],
     "MQmetrics": [],
     "MsDataHub": [],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -1808,9 +1807,7 @@
     ],
     "msImpute": [],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MSstatsLOBD": [],
     "Mulcom": [],
     "MultiBaC": [],
