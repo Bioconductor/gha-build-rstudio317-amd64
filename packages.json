@@ -575,7 +575,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [],
     "methylumi": [
         "minfi"
     ],
