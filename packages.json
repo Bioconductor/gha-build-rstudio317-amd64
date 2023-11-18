@@ -3034,7 +3034,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "SPsimSeq": [],
     "SQLDataFrame": [],
     "SQUADD": [],
     "ssize": [],
