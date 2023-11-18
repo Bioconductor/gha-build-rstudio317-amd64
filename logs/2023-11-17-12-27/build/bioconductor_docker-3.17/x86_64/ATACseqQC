@@ -133,13 +133,13 @@ packaged installation of ‘ATACseqQC’ as ‘ATACseqQC_1.24.0_R_x86_64-pc-linu
 * DONE (ATACseqQC)
 
 The downloaded source packages are in
-	‘/tmp/RtmpOS5Qyn/downloaded_packages’
+	‘/tmp/RtmpHmWV2s/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	2m30.471s
-user	2m19.095s
-sys	0m8.852s
+real	2m35.287s
+user	2m19.667s
+sys	0m8.823s
