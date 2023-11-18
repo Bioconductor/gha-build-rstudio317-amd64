@@ -2253,7 +2253,6 @@
         "rtracklayer",
         "sva"
     ],
-    "DAPAR": [],
     "DART": [],
     "dasper": [
         "AnnotationDbi",
@@ -6554,9 +6553,7 @@
         "genefilter",
         "sva"
     ],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "proteasy": [
         "AnnotationDbi",
         "GOSemSim",
