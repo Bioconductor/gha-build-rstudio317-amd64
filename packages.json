@@ -1175,7 +1175,6 @@
     "OpenStats": [],
     "oppti": [],
     "ORFhunteR": [],
-    "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "OSAT": [],
@@ -1359,9 +1358,7 @@
     "Rhisat2": [
         "SGSeq"
     ],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "OrganismDbi",
@@ -1636,9 +1633,7 @@
     ],
     "TFBSTools": [],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "timecourse": [],
     "timescape": [],
     "TimiRGeN": [
