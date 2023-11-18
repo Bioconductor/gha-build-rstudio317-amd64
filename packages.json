@@ -915,7 +915,6 @@
     "eegc": [
         "clusterProfiler"
     ],
-    "EGSEA": [],
     "eiR": [],
     "ELMER": [
         "BSgenome",
