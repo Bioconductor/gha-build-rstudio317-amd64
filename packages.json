@@ -2410,7 +2410,6 @@
         "SpatialExperiment",
         "ensembldb"
     ],
-    "scGPS": [],
     "scMerge": [],
     "scmeth": [
         "BSgenome",
