@@ -417,7 +417,6 @@
     "SMAP": [],
     "SNAGEE": [],
     "SNPediaR": [],
-    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "sparseDOSSA": [],
     "sparsenetgls": [],
@@ -468,7 +467,5 @@
     "weaver": [],
     "wppi": [],
     "xmapbridge": [],
-    "YAPSA": [
-        "SomaticSignatures"
-    ]
+    "YAPSA": []
 }
