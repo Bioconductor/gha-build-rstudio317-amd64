@@ -330,7 +330,6 @@
         "minfi"
     ],
     "enrichTF": [],
-    "EpiCompare": [],
     "epimutacions": [
         "Gviz",
         "biovizBase",
