@@ -1890,7 +1890,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GenomicAlignments",
