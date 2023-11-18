@@ -183,9 +183,7 @@
         "biovizBase"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "cisPath": [],
     "clevRvis": [],
     "Clomial": [],
@@ -811,7 +809,6 @@
     "rgoslin": [],
     "RGraph2js": [],
     "RGSEA": [],
-    "Rhisat2": [],
     "RiboProfiling": [
         "biovizBase",
         "ggbio"
