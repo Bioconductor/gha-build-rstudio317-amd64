@@ -169,9 +169,7 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "banocc": [],
     "basecallQC": [],
     "BaseSpaceR": [],
@@ -2191,10 +2189,7 @@
     ],
     "profileScoreDist": [],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "proteasy": [
         "GenomicFeatures",
         "ensembldb"
