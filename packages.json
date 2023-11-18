@@ -1639,7 +1639,6 @@
     "scFeatures": [
         "ensembldb"
     ],
-    "scMerge": [],
     "scmeth": [
         "annotatr",
         "bsseq",
@@ -1717,8 +1716,7 @@
     "sincell": [],
     "singleCellTK": [
         "celda",
-        "ensembldb",
-        "scMerge"
+        "ensembldb"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
