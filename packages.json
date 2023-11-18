@@ -53,21 +53,17 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "TFBSTools",
         "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "TFBSTools",
         "motifStack"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "autonomics": [],
@@ -218,9 +214,7 @@
     ],
     "ChIPXpress": [],
     "chopsticks": [],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase"
@@ -330,7 +324,6 @@
     ],
     "cytoviewer": [],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "daMA": [],
@@ -420,7 +413,6 @@
     "EMDomics": [],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "EnMCB": [],
@@ -429,7 +421,6 @@
         "minfi"
     ],
     "enrichTF": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ensemblVEP": [],
@@ -460,7 +451,6 @@
         "GenomicFiles"
     ],
     "esATAC": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "EventPointer": [],
@@ -710,9 +700,7 @@
     ],
     "MassArray": [],
     "matchBox": [],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBAmethyl": [],
     "MBCB": [],
     "MBttest": [],
@@ -828,21 +816,14 @@
         "RCy3"
     ],
     "MoleculeExperiment": [],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "motifbreakR": [
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MPFE": [],
     "MQmetrics": [],
     "MsDataHub": [],
@@ -869,7 +850,6 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifStack",
         "trackViewer"
@@ -926,7 +906,6 @@
         "Repitools"
     ],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "PANR": [],
@@ -958,7 +937,6 @@
     "preciseTAD": [],
     "primirTSS": [
         "Gviz",
-        "TFBSTools",
         "biovizBase"
     ],
     "PROcess": [],
@@ -1059,7 +1037,6 @@
     ],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "RImmPort": [],
@@ -1218,7 +1195,6 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "TFBSTools",
         "biovizBase",
         "motifmatchr"
     ],
@@ -1265,7 +1241,6 @@
     "TargetSearch": [],
     "ternarynet": [],
     "terraTCGAdata": [],
-    "TFBSTools": [],
     "TFHAZ": [],
     "timecourse": [],
     "timescape": [],
