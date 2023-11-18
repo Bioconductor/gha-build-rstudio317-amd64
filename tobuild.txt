@@ -1,3 +1,0 @@
-epivizr
-GA4GHshiny
-epivizrChart
