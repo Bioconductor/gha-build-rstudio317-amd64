@@ -2433,7 +2433,6 @@
         "rtracklayer"
     ],
     "MiPP": [],
-    "miQC": [],
     "MIRA": [
         "BSgenome",
         "bsseq",
