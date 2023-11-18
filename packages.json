@@ -2601,12 +2601,9 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [],
     "GEOfastq": [],
-    "GeomxTools": [],
     "GeoTcgaData": [],
     "gep2pep": [
         "GSEABase"
@@ -5938,9 +5935,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -5959,9 +5954,7 @@
         "scran",
         "scuttle"
     ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "BSgenome",
         "CNEr",
