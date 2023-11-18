@@ -2917,7 +2917,6 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "singscore": [],
     "SISPA": [],
     "sitadela": [
         "GenomicFeatures"
@@ -3107,8 +3106,7 @@
     "TargetScore": [],
     "TargetSearch": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "singscore"
+        "ASSIGN"
     ],
     "TCGAutils": [
         "GenomicFeatures"
