@@ -1483,7 +1483,6 @@
         "oligoClasses"
     ],
     "chopsticks": [],
-    "chromDraw": [],
     "ChromHeatMap": [
         "AnnotationDbi",
         "GenomicAlignments",
