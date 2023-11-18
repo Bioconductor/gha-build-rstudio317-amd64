@@ -783,8 +783,7 @@
         "beadarray"
     ],
     "BLMA": [
-        "PADOG",
-        "ROntoTools"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -4824,9 +4823,7 @@
     ],
     "MiRaGE": [],
     "miRcomp": [],
-    "mirIntegrator": [
-        "ROntoTools"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "AnnotationForge",
         "Category",
@@ -6791,7 +6788,6 @@
     "RolDE": [
         "SummarizedExperiment"
     ],
-    "ROntoTools": [],
     "ropls": [
         "MultiAssayExperiment",
         "MultiDataSet",
