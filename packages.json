@@ -3,14 +3,12 @@
     "ABSSeq": [],
     "acde": [],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "agilp": [],
     "AgiMicroRna": [
         "ReportingTools",
-        "affycoretools",
-        "ggbio"
+        "affycoretools"
     ],
     "alevinQC": [],
     "AlphaBeta": [],
@@ -52,24 +50,17 @@
     "biodbUniprot": [],
     "BioNAR": [],
     "BiRewire": [],
-    "BOBaFIT": [
-        "ggbio"
-    ],
+    "BOBaFIT": [],
     "brainflowprobes": [
-        "derfinderPlot",
-        "ggbio"
+        "derfinderPlot"
     ],
     "brendaDb": [],
     "BridgeDbR": [],
     "BufferedMatrixMethods": [],
     "bugsigdbr": [],
     "BUS": [],
-    "CAFE": [
-        "ggbio"
-    ],
-    "cageminer": [
-        "ggbio"
-    ],
+    "CAFE": [],
+    "cageminer": [],
     "CAGEr": [],
     "calm": [],
     "categoryCompare": [
@@ -147,9 +138,7 @@
     "demuxmix": [],
     "DepInfeR": [],
     "DEqMS": [],
-    "derfinderPlot": [
-        "ggbio"
-    ],
+    "derfinderPlot": [],
     "diffGeneAnalysis": [],
     "DiffLogo": [],
     "diffuStats": [],
@@ -176,9 +165,7 @@
     ],
     "fgga": [],
     "FitHiC": [],
-    "FLAMES": [
-        "ggbio"
-    ],
+    "FLAMES": [],
     "flowCut": [
         "flowDensity"
     ],
@@ -208,14 +195,11 @@
     "GeneticsPed": [],
     "genoCN": [],
     "genomes": [],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GEOexplorer": [],
     "GEOfastq": [],
     "geva": [],
     "GEWIST": [],
-    "ggbio": [],
     "GGPA": [],
     "ggtreeDendro": [],
     "GIGSEA": [],
@@ -260,9 +244,7 @@
     "INPower": [],
     "INSPEcT": [],
     "INTACT": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "interacCircos": [],
     "IntramiRExploreR": [],
     "iPath": [],
@@ -336,9 +318,7 @@
     "MPFE": [],
     "MQmetrics": [],
     "MsDataHub": [],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "MSstatsLOBD": [],
     "Mulcom": [],
     "multicrispr": [],
@@ -394,9 +374,7 @@
     "profileScoreDist": [],
     "proteinProfiles": [],
     "QuaternaryProd": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "randPack": [],
     "randRotation": [],
     "RAREsim": [],
@@ -417,17 +395,13 @@
     "regutools": [
         "RCy3"
     ],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "retrofit": [],
     "RgnTX": [],
     "rgoslin": [],
     "RGraph2js": [],
     "RGSEA": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "RImmPort": [],
     "RIVER": [],
     "RLassoCox": [],
@@ -454,9 +428,7 @@
     "scFeatureFilter": [],
     "scRecover": [],
     "ScreenR": [],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scShapes": [],
     "scTHI": [],
     "semisup": [],
@@ -477,9 +449,7 @@
     "SMAP": [],
     "SNAGEE": [],
     "SNPediaR": [],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "SOMNiBUS": [],
     "sparseDOSSA": [],
     "sparsenetgls": [],
@@ -532,7 +502,6 @@
     "wppi": [],
     "xmapbridge": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ]
 }
