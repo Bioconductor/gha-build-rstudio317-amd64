@@ -4372,9 +4372,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "QuartPAC": [
-        "SpacePAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicAlignments",
@@ -5434,7 +5432,6 @@
         "rtracklayer"
     ],
     "SOMNiBUS": [],
-    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "SingleCellExperiment",
