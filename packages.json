@@ -408,7 +408,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "BDMMAcorrect": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
