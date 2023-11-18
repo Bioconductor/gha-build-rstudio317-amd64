@@ -611,7 +611,6 @@
     "cbaf": [
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "cBioPortalData",
         "rtracklayer"
@@ -622,7 +621,6 @@
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
-        "RaggedExperiment",
         "TCGAutils",
         "rtracklayer"
     ],
@@ -923,9 +921,7 @@
     "CNVPanelizer": [
         "exomeCopy"
     ],
-    "CNVRanger": [
-        "RaggedExperiment"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "BSgenome",
         "GenomicFeatures",
@@ -974,7 +970,6 @@
         "rtracklayer"
     ],
     "compartmap": [
-        "RaggedExperiment",
         "rtracklayer"
     ],
     "COMPASS": [],
@@ -3196,9 +3191,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "omicsPrint": [
-        "RaggedExperiment"
-    ],
+    "omicsPrint": [],
     "omicsViewer": [],
     "Omixer": [],
     "onlineFDR": [],
@@ -3569,7 +3562,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "RaggedExperiment": [],
     "ramwas": [],
     "randPack": [],
     "randRotation": [],
@@ -3950,7 +3942,6 @@
     "rSWeeP": [],
     "RTCGAToolbox": [
         "GenomicFeatures",
-        "RaggedExperiment",
         "TCGAutils",
         "rtracklayer"
     ],
@@ -4597,7 +4588,6 @@
     "TCGAbiolinks": [],
     "TCGAutils": [
         "GenomicFeatures",
-        "RaggedExperiment",
         "rtracklayer"
     ],
     "TCseq": [],
@@ -4618,7 +4608,6 @@
     "ternarynet": [],
     "terraTCGAdata": [
         "GenomicFeatures",
-        "RaggedExperiment",
         "TCGAutils",
         "rtracklayer"
     ],
