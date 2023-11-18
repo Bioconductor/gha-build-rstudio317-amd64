@@ -1663,7 +1663,6 @@
     "SCATE": [],
     "scatterHatch": [],
     "scBubbletree": [],
-    "scDblFinder": [],
     "scDD": [],
     "SCFA": [],
     "scFeatureFilter": [],
@@ -1753,7 +1752,6 @@
     "singleCellTK": [
         "celda",
         "ensembldb",
-        "scDblFinder",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
