@@ -496,9 +496,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "ccrepe": [],
     "celaref": [
         "MAST"
@@ -2753,7 +2751,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROMISE": [],
     "PROPS": [],
     "proteasy": [
         "GenomicFeatures",
