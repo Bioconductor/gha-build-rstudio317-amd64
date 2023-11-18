@@ -6442,7 +6442,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "ngsReports": [],
     "nnSVG": [
         "DropletUtils",
         "SingleCellExperiment",
