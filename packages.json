@@ -309,7 +309,6 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "decompTumor2Sig": [],
     "deconvR": [
         "minfi"
     ],
@@ -753,9 +752,7 @@
     "MultiMed": [],
     "multiSight": [],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "myvariant": [],
     "NADfinder": [
