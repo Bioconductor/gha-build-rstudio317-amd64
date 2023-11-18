@@ -2892,9 +2892,7 @@
         "SingleCellExperiment"
     ],
     "matchBox": [],
-    "MatrixQCvis": [
-        "proDA"
-    ],
+    "MatrixQCvis": [],
     "MatrixRider": [
         "BSgenome",
         "CNEr",
@@ -3922,7 +3920,6 @@
         "rtracklayer"
     ],
     "PROcess": [],
-    "proDA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
