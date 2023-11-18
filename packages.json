@@ -271,8 +271,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "cisPath": [],
     "cleanUpdTSeq": [],
@@ -557,9 +556,7 @@
         "pipeFrame"
     ],
     "escheR": [],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -1254,9 +1251,7 @@
     "rGREAT": [],
     "RGSEA": [],
     "rgsepd": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "VariantAnnotation",
@@ -1388,7 +1383,6 @@
     ],
     "seqcombo": [],
     "SeqSQC": [],
-    "SGSeq": [],
     "shinyepico": [
         "bumphunter",
         "minfi"
