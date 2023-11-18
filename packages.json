@@ -517,7 +517,6 @@
         "rtracklayer"
     ],
     "BUS": [],
-    "BUScorrect": [],
     "BUSpaRse": [
         "BSgenome",
         "GenomicFeatures",
