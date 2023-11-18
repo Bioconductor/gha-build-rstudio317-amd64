@@ -563,9 +563,7 @@
     "PROcess": [],
     "profileScoreDist": [],
     "proteinProfiles": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "Pviz": [
         "Gviz"
     ],
@@ -590,7 +588,6 @@
     "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "REBET": [],
-    "recount": [],
     "RedisParam": [],
     "regutools": [
         "Gviz",
@@ -617,9 +614,7 @@
     "RLMM": [],
     "Rmagpie": [],
     "rmelting": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAdecay": [],
     "RNAmodR": [
         "Gviz"
@@ -637,9 +632,7 @@
         "RNAmodR"
     ],
     "RNASeqPower": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "methylumi"
     ],
