@@ -8870,7 +8870,6 @@
     "synergyfinder": [],
     "SynExtend": [],
     "synlet": [],
-    "SynMut": [],
     "syntenet": [
         "GenomicAlignments",
         "Rsamtools",
