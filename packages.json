@@ -1004,6 +1004,5 @@
     "yarn": [
         "minfi",
         "quantro"
-    ],
-    "ZygosityPredictor": []
+    ]
 }
