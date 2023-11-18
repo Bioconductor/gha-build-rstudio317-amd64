@@ -3,9 +3,7 @@
     "abseqR": [],
     "ABSSeq": [],
     "acde": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "BSgenome",
         "GenomicFeatures",
@@ -2702,7 +2700,6 @@
         "goseq"
     ],
     "SNAGEE": [],
-    "snapCGH": [],
     "SNPediaR": [],
     "SNPhood": [
         "BSgenome",
