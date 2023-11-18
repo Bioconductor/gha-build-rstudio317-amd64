@@ -95,13 +95,13 @@ packaged installation of ‘ggbio’ as ‘ggbio_1.48.0_R_x86_64-pc-linux-gnu.ta
 * DONE (ggbio)
 
 The downloaded source packages are in
-	‘/tmp/RtmpEbRDhg/downloaded_packages’
+	‘/tmp/RtmpvDJh5i/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m17.696s
-user	1m9.633s
-sys	0m5.349s
+real	1m17.038s
+user	1m7.031s
+sys	0m5.295s
