@@ -267,7 +267,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "pRoloc"
@@ -1319,9 +1318,7 @@
         "systemPipeR"
     ],
     "diffcyt": [],
-    "DifferentialRegulation": [
-        "BANDITS"
-    ],
+    "DifferentialRegulation": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
