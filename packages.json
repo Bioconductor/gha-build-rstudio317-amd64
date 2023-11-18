@@ -563,9 +563,7 @@
         "geneplotter"
     ],
     "blima": [],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [
         "ExperimentHub"
     ],
@@ -1852,7 +1850,6 @@
     "EGSEA": [
         "GSEABase",
         "GSVA",
-        "PADOG",
         "SingleCellExperiment",
         "globaltest",
         "pathview",
@@ -4015,7 +4012,6 @@
     "padma": [
         "MultiAssayExperiment"
     ],
-    "PADOG": [],
     "pageRank": [
         "BSgenome",
         "CNEr",
