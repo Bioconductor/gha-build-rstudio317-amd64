@@ -94,13 +94,13 @@ packaged installation of ‘singscore’ as ‘singscore_1.20.0_R_x86_64-pc-linu
 * DONE (singscore)
 
 The downloaded source packages are in
-	‘/tmp/RtmpIor7fC/downloaded_packages’
+	‘/tmp/Rtmp7p3onz/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m28.826s
-user	0m23.771s
-sys	0m3.217s
+real	0m28.630s
+user	0m23.026s
+sys	0m3.184s
