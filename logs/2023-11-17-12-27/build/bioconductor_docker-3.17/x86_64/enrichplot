@@ -109,16 +109,16 @@ packaged installation of ‘europepmc’ as ‘europepmc_0.4.3_R_x86_64-pc-linux
 * DONE (europepmc)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpp4cXB1/downloaded_packages’
+	‘/tmp/RtmpmGZJXP/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m28.550s
-user	0m21.682s
-sys	0m3.794s
+real	0m29.644s
+user	0m21.900s
+sys	0m3.756s
 * installing *binary* package ‘europepmc’ ...
 * ‘europepmc’ was already a binary package and will not be rebuilt
 * creating tarball
