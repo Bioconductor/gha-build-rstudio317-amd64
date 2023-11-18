@@ -5275,9 +5275,7 @@
     "RepViz": [
         "biomaRt"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "BSgenome",
         "GenomicAlignments",
@@ -5953,7 +5951,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "seqbias": [],
     "seqCAT": [
         "BSgenome",
         "GenomicAlignments",
