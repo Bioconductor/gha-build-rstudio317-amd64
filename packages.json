@@ -215,7 +215,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [],
     "AWFisher": [],
     "BaalChIP": [],
@@ -3188,9 +3187,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcollectl": [],
     "RCSL": [],
     "RCy3": [],
@@ -3584,7 +3581,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
-        "AUCell",
         "DropletUtils",
         "GSVA",
         "GenomicFeatures",
