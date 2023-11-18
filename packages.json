@@ -2307,7 +2307,6 @@
         "annotate",
         "biomaRt",
         "bumphunter",
-        "fastseg",
         "genefilter",
         "methylKit",
         "minfi",
@@ -3202,7 +3201,6 @@
         "SummarizedExperiment"
     ],
     "fastreeR": [],
-    "fastseg": [],
     "FCBF": [
         "SummarizedExperiment"
     ],
@@ -4944,7 +4942,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -5034,7 +5031,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "rtracklayer"
     ],
@@ -5042,7 +5038,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "rtracklayer"
     ],
     "MethylMix": [],
