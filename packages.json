@@ -932,9 +932,7 @@
     "minfi": [
         "bumphunter"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MiPP": [],
     "MIRA": [],
     "miRcomp": [],
@@ -1522,7 +1520,6 @@
     "Uniquorn": [
         "VariantAnnotation"
     ],
-    "VanillaICE": [],
     "VariantAnnotation": [],
     "VariantFiltering": [
         "Gviz",
