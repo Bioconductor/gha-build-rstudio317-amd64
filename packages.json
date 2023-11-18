@@ -3987,7 +3987,6 @@
         "scater",
         "scuttle"
     ],
-    "SDAMS": [],
     "segmenter": [
         "ChIPseeker",
         "GenomicFeatures",
