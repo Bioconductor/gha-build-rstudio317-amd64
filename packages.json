@@ -31,7 +31,6 @@
         "MultiAssayExperiment"
     ],
     "affycoretools": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -58,7 +57,6 @@
     ],
     "agilp": [],
     "AgiMicroRna": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -79,7 +77,6 @@
         "rtracklayer"
     ],
     "AHMassBank": [
-        "AnnotationForge",
         "AnnotationHubData",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -181,9 +178,7 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHubData": [
-        "AnnotationForge",
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
@@ -319,7 +314,6 @@
         "rtracklayer"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -769,7 +763,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2134,7 +2127,6 @@
     ],
     "ExperimentHub": [],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHubData",
         "ExperimentHub",
         "GenomicAlignments",
@@ -2526,7 +2518,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2560,7 +2551,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "genefilter"
@@ -2809,7 +2799,6 @@
     ],
     "iCOBRA": [],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3359,7 +3348,6 @@
         "rtracklayer"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHubData",
         "ExperimentHub",
         "ExperimentHubData",
@@ -3491,7 +3479,6 @@
     "MIMOSA": [],
     "mina": [],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3532,7 +3519,6 @@
     "MiRaGE": [],
     "miRcomp": [],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3910,7 +3896,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4159,7 +4144,6 @@
     "pathview": [],
     "paxtoolsr": [],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -4268,7 +4252,6 @@
     ],
     "planttfhunter": [],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4675,7 +4658,6 @@
         "rtracklayer"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -5230,7 +5212,6 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "AnnotationForge",
         "Category",
         "DOSE",
         "GOSemSim",
@@ -5342,7 +5323,6 @@
         "rtracklayer"
     ],
     "SGCP": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -6202,7 +6182,6 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "GOSemSim",
         "topGO"
     ],
