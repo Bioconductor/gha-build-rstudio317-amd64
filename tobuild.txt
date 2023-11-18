@@ -1,4 +1,0 @@
-psichomics
-biscuiteer
-RnaSeqSampleSize
-RNAAgeCalc
