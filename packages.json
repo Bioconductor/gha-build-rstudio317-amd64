@@ -195,9 +195,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
-    "ChIPQC": [
-        "DiffBind"
-    ],
+    "ChIPQC": [],
     "ChIPXpress": [],
     "chopsticks": [],
     "chromVAR": [],
@@ -339,7 +337,6 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DiffBind": [],
     "diffGeneAnalysis": [],
     "DiffLogo": [],
     "diffuStats": [],
@@ -1158,8 +1155,7 @@
         "gwascat"
     ],
     "vulcan": [
-        "ChIPpeakAnno",
-        "DiffBind"
+        "ChIPpeakAnno"
     ],
     "waddR": [],
     "wateRmelon": [
