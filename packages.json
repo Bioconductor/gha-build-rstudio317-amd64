@@ -113,13 +113,9 @@
     "ClusterSignificance": [],
     "clusterStab": [],
     "CNAnorm": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
     "CNVgears": [],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNViz": [],
     "coGPS": [],
     "COHCAP": [],
     "coMethDMR": [],
@@ -132,7 +128,6 @@
     "consensus": [],
     "CONSTANd": [],
     "copa": [],
-    "CopyNumberPlots": [],
     "CoRegNet": [],
     "CORREP": [],
     "COSNet": [],
