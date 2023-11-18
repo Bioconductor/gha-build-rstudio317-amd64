@@ -890,7 +890,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
