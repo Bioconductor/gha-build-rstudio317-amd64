@@ -236,7 +236,6 @@
     ],
     "arrayQuality": [],
     "arrayQualityMetrics": [
-        "beadarray",
         "genefilter"
     ],
     "ARRmNormalization": [],
@@ -411,7 +410,6 @@
         "rtracklayer"
     ],
     "BDMMAcorrect": [],
-    "beadarray": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -565,9 +563,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG"
     ],
@@ -1961,9 +1957,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GenomicAlignments",
