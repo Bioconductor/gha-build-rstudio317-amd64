@@ -507,7 +507,6 @@
     "netprioR": [],
     "netZooR": [
         "RCy3",
-        "quantro",
         "yarn"
     ],
     "normalize450K": [],
@@ -559,7 +558,6 @@
     "Pviz": [
         "Gviz"
     ],
-    "quantro": [],
     "QuaternaryProd": [],
     "R3CPET": [
         "ggbio"
@@ -754,7 +752,5 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ]
+    "yarn": []
 }
