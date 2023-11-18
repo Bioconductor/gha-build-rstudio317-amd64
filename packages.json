@@ -264,9 +264,7 @@
         "distinct"
     ],
     "consensus": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "CONSTANd": [],
     "contiBAIT": [
         "GenomicFiles"
@@ -828,9 +826,7 @@
     "nullranges": [],
     "NuPoP": [],
     "occugene": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "GenomicFiles",
         "dasper",
@@ -975,7 +971,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "RImmPort": [],
@@ -1035,7 +1030,6 @@
     "rSWeeP": [],
     "RTCGAToolbox": [],
     "Rtreemix": [],
-    "RUVSeq": [],
     "sagenhaft": [],
     "SANTA": [],
     "savR": [],
@@ -1050,9 +1044,7 @@
     "scmeth": [
         "annotatr"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scRecover": [],
     "ScreenR": [],
@@ -1136,9 +1128,7 @@
     "SQLDataFrame": [],
     "SQUADD": [],
     "ssize": [],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "Statial": [],
     "statTarget": [],
     "STdeconvolve": [],
