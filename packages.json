@@ -3122,7 +3122,6 @@
     "MetNet": [],
     "mfa": [],
     "MGFM": [],
-    "MGFR": [],
     "mgsa": [],
     "mia": [
         "SingleCellExperiment",
@@ -4541,8 +4540,7 @@
     ],
     "sagenhaft": [],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR"
+        "MGFM"
     ],
     "SANTA": [],
     "satuRn": [],
