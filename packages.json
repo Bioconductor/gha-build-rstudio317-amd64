@@ -160,7 +160,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "annotatr",
-        "bsseq",
         "bumphunter",
         "dmrseq",
         "regioneR"
@@ -173,8 +172,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -189,7 +187,6 @@
     ],
     "brendaDb": [],
     "BridgeDbR": [],
-    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase",
@@ -273,7 +270,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "goseq",
@@ -360,8 +356,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "coGPS": [],
     "COHCAP": [],
@@ -508,8 +503,7 @@
     "deltaGseg": [],
     "DeMAND": [],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "demuxmix": [],
     "DepInfeR": [],
@@ -554,7 +548,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "bumphunter",
         "ensembldb",
         "methylumi",
@@ -569,7 +562,6 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
         "bumphunter",
         "regioneR"
     ],
@@ -583,9 +575,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "dupRadar": [],
     "easyreporting": [],
     "EBSeqHMM": [],
@@ -975,8 +965,7 @@
     "KBoost": [],
     "KinSwingR": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "LBE": [],
     "ldblock": [],
@@ -1091,7 +1080,6 @@
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "bumphunter",
         "minfi"
     ],
@@ -1118,8 +1106,7 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "bumphunter",
@@ -1147,9 +1134,7 @@
         "VanillaICE"
     ],
     "MiPP": [],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRcomp": [],
     "miRNApath": [],
     "miRSM": [
@@ -1250,9 +1235,7 @@
         "regioneR",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NanoStringDiff": [],
     "NanoTube": [],
     "NCIgraph": [
@@ -1623,7 +1606,6 @@
     ],
     "scmeth": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "scone": [
