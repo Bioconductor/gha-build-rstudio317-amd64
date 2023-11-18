@@ -556,7 +556,6 @@
         "enrichplot"
     ],
     "censcyt": [],
-    "Cepo": [],
     "ceRNAnetsim": [],
     "CeTF": [
         "RCy3",
@@ -3385,9 +3384,7 @@
     "scCB2": [
         "DropletUtils"
     ],
-    "scClassify": [
-        "Cepo"
-    ],
+    "scClassify": [],
     "scDblFinder": [
         "rtracklayer",
         "scater",
