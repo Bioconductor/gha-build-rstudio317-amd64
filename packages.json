@@ -186,9 +186,7 @@
     "CoRegNet": [],
     "CORREP": [],
     "COSNet": [],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "Gviz",
         "crisprViz"
@@ -340,7 +338,6 @@
     "GSEAlm": [],
     "GSEAmining": [],
     "GSgalgoR": [],
-    "GUIDEseq": [],
     "Gviz": [],
     "GWAS.BAYES": [],
     "hca": [],
