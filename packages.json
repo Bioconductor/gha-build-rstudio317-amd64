@@ -1108,7 +1108,6 @@
     "SOMNiBUS": [],
     "sparseDOSSA": [],
     "sparsenetgls": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1203,9 +1202,7 @@
     "veloviz": [],
     "VennDetail": [],
     "VERSO": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "gwascat"
     ],
