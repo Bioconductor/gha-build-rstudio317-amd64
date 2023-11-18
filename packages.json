@@ -2563,7 +2563,6 @@
     "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
-    "scClassify": [],
     "scDblFinder": [
         "scater",
         "scran"
