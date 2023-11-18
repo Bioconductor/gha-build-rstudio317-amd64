@@ -1621,7 +1621,6 @@
     "Metab": [],
     "metabCombiner": [],
     "metabinR": [],
-    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
