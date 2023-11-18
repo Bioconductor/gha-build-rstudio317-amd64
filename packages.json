@@ -306,9 +306,7 @@
     "M3C": [],
     "maCorrPlot": [],
     "MACSQuantifyR": [],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [],
     "magrene": [],
     "MANOR": [],
@@ -471,7 +469,6 @@
         "RNAmodR"
     ],
     "RNASeqPower": [],
-    "RnBeads": [],
     "RRHO": [],
     "rsemmed": [],
     "rSWeeP": [],
