@@ -1551,7 +1551,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "epistack": [],
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
