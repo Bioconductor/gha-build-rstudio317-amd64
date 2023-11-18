@@ -687,7 +687,6 @@
     "multiSight": [],
     "MungeSumstats": [],
     "musicatk": [],
-    "MutationalPatterns": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -834,9 +833,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "retrofit": [],
     "RgnTX": [],
     "rgoslin": [],
