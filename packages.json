@@ -419,9 +419,7 @@
         "VariantAnnotation",
         "crisprBowtie"
     ],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "GUIDEseq",
         "ensembldb",
@@ -834,7 +832,6 @@
         "OrganismDbi"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "ensembldb",
         "regioneR"
@@ -1198,7 +1195,6 @@
     "MSstatsLOBD": [],
     "Mulcom": [],
     "multicrispr": [
-        "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
