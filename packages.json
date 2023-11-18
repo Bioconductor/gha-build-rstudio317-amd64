@@ -603,7 +603,6 @@
     "recount": [],
     "recountmethylation": [],
     "RedisParam": [],
-    "regionReport": [],
     "regutools": [
         "Gviz",
         "RCy3"
