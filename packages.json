@@ -161,7 +161,6 @@
     "biodbNci": [],
     "biodbUniprot": [],
     "BioNAR": [],
-    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
@@ -1274,9 +1273,7 @@
     "multiGSEA": [],
     "multiHiCcompare": [],
     "MultiMed": [],
-    "multiSight": [
-        "biosigner"
-    ],
+    "multiSight": [],
     "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
