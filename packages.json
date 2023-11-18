@@ -32,7 +32,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "AGDEX": [
@@ -55,7 +54,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "oligoClasses",
         "rtracklayer"
     ],
     "AHMassBank": [
@@ -163,8 +161,7 @@
         "rtracklayer"
     ],
     "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "arrayMvout": [
         "GenomicFeatures",
@@ -761,8 +758,7 @@
     ],
     "ChIPXpress": [
         "frma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "chopsticks": [],
     "ChromHeatMap": [
@@ -849,8 +845,7 @@
     "clusterStab": [],
     "clustifyr": [],
     "cn.farms": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "cn.mops": [],
     "CNAnorm": [],
@@ -1083,12 +1078,9 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "CSSP": [],
@@ -1397,8 +1389,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "DSS": [
         "BSgenome",
@@ -1741,8 +1732,7 @@
     "frenchFISH": [],
     "FRGEpistasis": [],
     "frma": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "FScanR": [],
     "FunChIP": [],
@@ -2273,8 +2263,7 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
@@ -2374,7 +2363,6 @@
         "crlmm",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "rtracklayer"
     ],
     "MAGeCKFlute": [
@@ -2429,9 +2417,7 @@
         "sva"
     ],
     "mbkmeans": [],
-    "mBPCR": [
-        "oligoClasses"
-    ],
+    "mBPCR": [],
     "MBttest": [],
     "mCSEA": [
         "BSgenome",
@@ -2644,8 +2630,7 @@
     "midasHLA": [],
     "miloR": [],
     "mimager": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "MIMOSA": [],
     "mina": [],
@@ -2669,7 +2654,6 @@
         "BSgenome",
         "VanillaICE",
         "crlmm",
-        "oligoClasses",
         "rtracklayer"
     ],
     "MiPP": [],
@@ -3036,10 +3020,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
+    "oligo": [],
     "omada": [],
     "OmaDB": [],
     "omicade4": [],
@@ -3153,8 +3134,7 @@
         "CoreGx"
     ],
     "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PECA": [],
     "peco": [
@@ -3341,8 +3321,7 @@
         "BgeeDB"
     ],
     "puma": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PureCN": [
         "BSgenome",
@@ -3812,7 +3791,6 @@
     "SC3": [],
     "SCAN.UPC": [
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiRApp": [
@@ -4621,7 +4599,6 @@
     "VanillaICE": [
         "BSgenome",
         "crlmm",
-        "oligoClasses",
         "rtracklayer"
     ],
     "VarCon": [
