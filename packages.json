@@ -822,9 +822,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -861,7 +859,6 @@
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
     "iterClust": [],
-    "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
