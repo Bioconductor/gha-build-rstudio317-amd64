@@ -227,7 +227,6 @@
     ],
     "BGmix": [],
     "BHC": [],
-    "BicARE": [],
     "bigmelon": [
         "GenomicFeatures",
         "bumphunter",
@@ -1928,7 +1927,6 @@
     ],
     "miRNApath": [],
     "miRSM": [
-        "BicARE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
