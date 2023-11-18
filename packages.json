@@ -458,7 +458,6 @@
         "plyranges"
     ],
     "CGEN": [],
-    "cghMCR": [],
     "ChAMP": [
         "BSgenome",
         "DMRcate",
