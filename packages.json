@@ -302,7 +302,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BgeeDB": [],
     "BGmix": [],
     "BHC": [],
     "BicARE": [],
@@ -3081,9 +3080,7 @@
     "PSMatch": [
         "QFeatures"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "puma": [
         "oligo"
     ],
@@ -3375,7 +3372,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "GenomicFeatures",
         "ensembldb",
         "rtracklayer"
