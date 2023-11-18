@@ -439,7 +439,6 @@
     "GIGSEA": [],
     "GladiaTOX": [],
     "globalSeq": [],
-    "gmapR": [],
     "GOsummaries": [],
     "GPA": [],
     "gpuMagic": [],
@@ -481,8 +480,7 @@
     "HPAStainR": [],
     "HPiP": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "iASeq": [],
     "ibh": [],
@@ -643,8 +641,7 @@
     "mitch": [],
     "mitoClone2": [],
     "MMAPPR2": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "ModCon": [],
     "MOGAMUN": [
