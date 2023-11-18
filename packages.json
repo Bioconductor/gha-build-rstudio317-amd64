@@ -748,10 +748,7 @@
     "MIRA": [],
     "miRcomp": [],
     "miRNApath": [],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "mirTarRnaSeq": [],
     "missMethyl": [
         "methylumi",
