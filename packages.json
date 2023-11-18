@@ -2745,7 +2745,6 @@
     "graper": [],
     "GraphAlignment": [],
     "graphite": [],
-    "GraphPAC": [],
     "GRENITS": [],
     "GreyListChIP": [
         "BSgenome",
@@ -4754,7 +4753,6 @@
         "rtracklayer"
     ],
     "QuartPAC": [
-        "GraphPAC",
         "SpacePAC"
     ],
     "QuasR": [
