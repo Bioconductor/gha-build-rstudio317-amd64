@@ -491,7 +491,6 @@
     "Clonality": [],
     "clstutils": [],
     "clustComp": [],
-    "clusterExperiment": [],
     "ClusterJudge": [],
     "ClusterSignificance": [],
     "clusterStab": [],
@@ -1817,9 +1816,7 @@
     ],
     "NetPathMiner": [],
     "netprioR": [],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "GenomicFeatures",
         "RCy3",
