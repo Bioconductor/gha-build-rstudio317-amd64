@@ -381,8 +381,7 @@
     "NetPathMiner": [],
     "netprioR": [],
     "netZooR": [
-        "RCy3",
-        "yarn"
+        "RCy3"
     ],
     "normalize450K": [],
     "NPARC": [],
@@ -576,6 +575,5 @@
     "YAPSA": [
         "SomaticSignatures",
         "ggbio"
-    ],
-    "yarn": []
+    ]
 }
