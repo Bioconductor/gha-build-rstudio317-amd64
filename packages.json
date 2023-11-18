@@ -1662,7 +1662,6 @@
     "GeneBreak": [],
     "GeneExpressionSignature": [],
     "GeneGA": [],
-    "GeneMeta": [],
     "geneplast": [],
     "geneRecommender": [],
     "GENESIS": [],
@@ -4325,9 +4324,7 @@
     "wppi": [],
     "xcms": [],
     "xcore": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
