@@ -409,9 +409,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "annotate",
@@ -1896,7 +1894,6 @@
     "diffcyt": [],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "SingleCellExperiment"
     ],
     "diffGeneAnalysis": [],
@@ -2024,7 +2021,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "DRIMSeq": [],
     "DriverNet": [],
     "DropletUtils": [
         "SingleCellExperiment",
