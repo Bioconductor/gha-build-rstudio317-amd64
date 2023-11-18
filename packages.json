@@ -2533,7 +2533,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mosaics": [],
     "Motif2Site": [
         "BSgenome",
         "rtracklayer"
