@@ -5550,7 +5550,6 @@
         "QFeatures",
         "SummarizedExperiment"
     ],
-    "MSstatsLiP": [],
     "MSstatsLOBD": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
