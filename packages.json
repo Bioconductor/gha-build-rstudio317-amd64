@@ -267,7 +267,6 @@
     "CoRegNet": [],
     "CORREP": [],
     "COSNet": [],
-    "crisprDesign": [],
     "crisprseekplus": [
         "ChIPpeakAnno",
         "GUIDEseq"
@@ -275,13 +274,11 @@
     "crisprVerse": [
         "Gviz",
         "biovizBase",
-        "crisprDesign",
         "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
-        "biovizBase",
-        "crisprDesign"
+        "biovizBase"
     ],
     "CSSP": [],
     "CTdata": [],
