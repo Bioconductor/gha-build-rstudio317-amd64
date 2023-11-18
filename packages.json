@@ -1084,7 +1084,6 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [],
     "escheR": [
         "SpatialExperiment",
         "scater"
