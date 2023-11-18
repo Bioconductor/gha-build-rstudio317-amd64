@@ -3218,7 +3218,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "restfulSE": [],
     "retrofit": [],
     "rGADEM": [
         "BSgenome",
@@ -3991,9 +3990,7 @@
         "enrichplot"
     ],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "ternarynet": [],
     "terraTCGAdata": [
         "GenomicFeatures",
