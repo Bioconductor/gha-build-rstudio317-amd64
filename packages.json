@@ -301,7 +301,6 @@
         "minfi"
     ],
     "DeepBlueR": [],
-    "deepSNV": [],
     "DEGraph": [
         "NCIgraph",
         "RCy3"
@@ -695,9 +694,7 @@
     ],
     "mistyR": [],
     "mitch": [],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
         "ensemblVEP",
