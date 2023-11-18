@@ -1418,7 +1418,6 @@
         "BSgenome",
         "CODEX"
     ],
-    "iCOBRA": [],
     "ideal": [
         "GenomicFeatures",
         "goseq",
