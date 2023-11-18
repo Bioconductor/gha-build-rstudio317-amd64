@@ -1098,7 +1098,6 @@
     "distinct": [
         "scater"
     ],
-    "dittoSeq": [],
     "dks": [],
     "DMCFB": [
         "rtracklayer"
@@ -3584,8 +3583,7 @@
     ],
     "SPIAT": [
         "DropletUtils",
-        "SpatialExperiment",
-        "dittoSeq"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "ClassifyR",
