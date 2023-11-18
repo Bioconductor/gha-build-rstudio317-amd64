@@ -107,7 +107,6 @@
         "VariantAnnotation"
     ],
     "BAGS": [],
-    "bambu": [],
     "banocc": [],
     "BaseSpaceR": [],
     "BASiCStan": [],
@@ -727,7 +726,6 @@
     "FLAMES": [
         "OrganismDbi",
         "VariantAnnotation",
-        "bambu",
         "biovizBase",
         "ensembldb",
         "ggbio"
