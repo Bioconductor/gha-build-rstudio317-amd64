@@ -45,15 +45,12 @@
         "motifmatchr"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "motifStack"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "autonomics": [],
     "AWFisher": [],
     "bacon": [],
@@ -270,9 +267,7 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "daMA": [],
     "DAMEfinder": [],
     "DART": [],
@@ -659,11 +654,9 @@
     "monaLisa": [],
     "motifbreakR": [
         "Gviz",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "MPFE": [],
     "MQmetrics": [],
     "MsDataHub": [],
@@ -688,7 +681,6 @@
         "ChIPpeakAnno",
         "Gviz",
         "biovizBase",
-        "motifStack",
         "trackViewer"
     ],
     "NanoStringDiff": [],
@@ -839,9 +831,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "RImmPort": [],
     "RIPAT": [
         "biovizBase",
