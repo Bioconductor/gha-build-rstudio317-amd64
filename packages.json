@@ -4602,7 +4602,6 @@
         "rtracklayer"
     ],
     "KBoost": [],
-    "kebabs": [],
     "KEGGlincs": [
         "AnnotationDbi"
     ],
@@ -6114,7 +6113,6 @@
         "rtracklayer"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -6663,9 +6661,7 @@
         "rtracklayer"
     ],
     "PROcess": [],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [
         "SummarizedExperiment"
     ],
