@@ -652,7 +652,6 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusOV": [],
     "consensusSeekeR": [],
     "CONSTANd": [],
     "contiBAIT": [
@@ -2759,7 +2758,6 @@
     ],
     "signifinder": [
         "GenomicFeatures",
-        "consensusOV",
         "ensembldb"
     ],
     "SigsPack": [
