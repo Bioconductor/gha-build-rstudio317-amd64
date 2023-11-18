@@ -397,9 +397,7 @@
         "ensembldb"
     ],
     "calm": [],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -591,9 +589,7 @@
     "cliProfiler": [
         "BSgenome"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "Clomial": [],
     "Clonality": [],
     "clstutils": [],
@@ -723,9 +719,7 @@
     "coseq": [
         "HTSFilter"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "COSNet": [],
     "countsimQC": [],
     "CoverageView": [],
@@ -1233,8 +1227,7 @@
     "fishpond": [],
     "FitHiC": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "BSgenome",
@@ -1617,8 +1610,7 @@
     "IONiseR": [],
     "iPath": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IRISFGM": [
         "clusterProfiler",
@@ -1697,8 +1689,7 @@
     ],
     "lmdme": [],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LPEadj": [],
     "lpNet": [],
@@ -1736,8 +1727,7 @@
     ],
     "magrene": [],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MANOR": [],
     "MantelCorr": [],
@@ -1809,9 +1799,7 @@
     ],
     "meshr": [],
     "messina": [],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "metabCombiner": [],
     "metabinR": [],
     "MetaboAnnotation": [],
@@ -1830,8 +1818,7 @@
     "metagene2": [],
     "metahdep": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaPhOR": [
         "RCy3",
@@ -1995,9 +1982,7 @@
     "MMDiff2": [
         "BSgenome"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "ModCon": [],
     "MOGAMUN": [
         "RCy3"
@@ -2144,9 +2129,7 @@
     "NanoStringDiff": [],
     "NanoTube": [],
     "NBAMSeq": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "NCIgraph": [
         "RCy3"
     ],
@@ -2634,9 +2617,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "GenomicFeatures",
         "ensembldb"
@@ -3372,7 +3353,6 @@
     "weaver": [],
     "wiggleplotr": [],
     "wppi": [],
-    "xcms": [],
     "XDE": [],
     "Xeva": [
         "PharmacoGx"
