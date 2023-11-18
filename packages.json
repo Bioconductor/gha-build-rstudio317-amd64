@@ -132,12 +132,9 @@
     ],
     "CausalR": [],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [],
     "ccrepe": [],
     "celda": [],
@@ -848,7 +845,6 @@
     "RRHO": [],
     "rsemmed": [],
     "rSWeeP": [],
-    "RTCGAToolbox": [],
     "Rtreemix": [],
     "sagenhaft": [],
     "SANTA": [],
