@@ -1120,7 +1120,6 @@
     "famat": [
         "clusterProfiler"
     ],
-    "FastqCleaner": [],
     "fastreeR": [],
     "fCCAC": [
         "BSgenome",
