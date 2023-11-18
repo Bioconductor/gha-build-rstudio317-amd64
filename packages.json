@@ -130,13 +130,11 @@
     "clusterStab": [],
     "CNAnorm": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNVgears": [],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "coGPS": [],
     "COHCAP": [],
@@ -154,9 +152,7 @@
     "consensus": [],
     "CONSTANd": [],
     "copa": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "CoRegNet": [],
     "CORREP": [],
     "COSNet": [],
@@ -336,7 +332,6 @@
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
     "iterClust": [],
-    "karyoploteR": [],
     "KBoost": [],
     "KinSwingR": [],
     "LBE": [],
@@ -421,9 +416,7 @@
     ],
     "MSstatsLOBD": [],
     "Mulcom": [],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "multiGSEA": [],
     "MultiMed": [],
     "MungeSumstats": [],
@@ -520,9 +513,7 @@
         "ggbio"
     ],
     "RImmPort": [],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "RIVER": [],
     "RLassoCox": [],
     "RLMM": [],
