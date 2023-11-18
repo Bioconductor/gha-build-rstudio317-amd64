@@ -1476,7 +1476,6 @@
         "minfi"
     ],
     "iChip": [],
-    "iClusterPlus": [],
     "iCNV": [
         "BSgenome",
         "CODEX"
