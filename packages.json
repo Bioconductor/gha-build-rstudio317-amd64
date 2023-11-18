@@ -2,12 +2,9 @@
     "abseqR": [],
     "ABSSeq": [],
     "acde": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "agilp": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "alevinQC": [],
@@ -389,7 +386,6 @@
     "regutools": [
         "RCy3"
     ],
-    "ReportingTools": [],
     "retrofit": [],
     "RgnTX": [],
     "rgoslin": [],
