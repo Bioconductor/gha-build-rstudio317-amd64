@@ -3454,10 +3454,7 @@
         "TCGAutils",
         "rtracklayer"
     ],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "rtracklayer": [],
     "Rtreemix": [],
     "rTRMui": [
