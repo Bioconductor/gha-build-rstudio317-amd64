@@ -131,9 +131,7 @@
     "coMET": [],
     "coMethDMR": [],
     "COMPASS": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "ComPrAn": [],
     "condiments": [
         "distinct"
@@ -364,7 +362,6 @@
         "missMethyl"
     ],
     "MethylMix": [],
-    "methylPipe": [],
     "MetID": [],
     "MiChip": [],
     "MIMOSA": [],
