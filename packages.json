@@ -462,9 +462,7 @@
     "hpar": [],
     "HPAStainR": [],
     "HPiP": [],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "iASeq": [],
     "ibh": [],
     "iBMQ": [],
@@ -621,9 +619,7 @@
     "mistyR": [],
     "mitch": [],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "ModCon": [],
     "MOGAMUN": [
         "RCy3"
@@ -976,7 +972,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "VariantTools": [],
     "vbmp": [],
     "VCFArray": [],
     "veloviz": [],
