@@ -354,16 +354,10 @@
         "minfi"
     ],
     "epistasisGA": [],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [],
     "esATAC": [
@@ -937,8 +931,7 @@
     "scShapes": [],
     "scTHI": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [],
     "semisup": [],
