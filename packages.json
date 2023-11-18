@@ -461,7 +461,6 @@
     "GWAS.BAYES": [],
     "hca": [],
     "HDTD": [],
-    "HelloRanges": [],
     "HELP": [],
     "Herper": [],
     "HGC": [],
@@ -707,9 +706,7 @@
     ],
     "omada": [],
     "OmicsLonDA": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "Omixer": [],
     "onlineFDR": [],
     "OpenStats": [],
