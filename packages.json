@@ -899,9 +899,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "hierGWAS": [],
     "hierinf": [],
     "HilbertVisGUI": [],
@@ -1247,7 +1245,6 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [],
     "MultiMed": [],
     "multiSight": [],
     "mumosa": [],
