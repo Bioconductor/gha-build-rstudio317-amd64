@@ -71,15 +71,12 @@
     "CAFE": [
         "ggbio"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "ggbio"
     ],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "calm": [],
     "categoryCompare": [
@@ -187,9 +184,7 @@
     "EnMCB": [],
     "epimutacions": [],
     "epistasisGA": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "FamAgg": [],
     "fastreeR": [],
     "fCI": [],
@@ -232,7 +227,6 @@
     "GeneticsPed": [],
     "genoCN": [],
     "genomes": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [
         "ggbio"
     ],
@@ -264,9 +258,7 @@
     "Herper": [],
     "HGC": [],
     "HIBAG": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "hierGWAS": [],
     "hierinf": [],
     "HilbertVisGUI": [],
@@ -530,9 +522,7 @@
     "SOMNiBUS": [],
     "sparseDOSSA": [],
     "sparsenetgls": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "specL": [],
     "spikeLI": [],
     "spkTools": [],
