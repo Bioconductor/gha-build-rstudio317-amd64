@@ -1,6 +1,0 @@
-minfi
-rnaEditr
-similaRpeak
-miRSM
-coMethDMR
-DAMEfinder
