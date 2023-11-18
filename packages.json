@@ -4767,7 +4767,6 @@
         "EnrichmentBrowser",
         "GSEABase"
     ],
-    "zFPKM": [],
     "zinbwave": [],
     "ZygosityPredictor": [
         "BSgenome",
