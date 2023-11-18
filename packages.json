@@ -2535,7 +2535,6 @@
         "bumphunter",
         "minfi"
     ],
-    "SigCheck": [],
     "sights": [],
     "signatureSearch": [
         "clusterProfiler"
