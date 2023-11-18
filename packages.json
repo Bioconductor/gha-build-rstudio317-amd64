@@ -1469,11 +1469,8 @@
         "scater"
     ],
     "ISAnalytics": [],
-    "iSEEhex": [],
     "iSEEhub": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "iSeq": [],
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
