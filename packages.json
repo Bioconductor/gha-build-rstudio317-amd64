@@ -678,7 +678,6 @@
     "clstutils": [],
     "clustComp": [],
     "clusterExperiment": [
-        "mbkmeans",
         "zinbwave"
     ],
     "ClusterJudge": [],
@@ -2014,7 +2013,6 @@
     "MBAmethyl": [],
     "MBCB": [],
     "MBECS": [],
-    "mbkmeans": [],
     "mBPCR": [],
     "MBttest": [],
     "mCSEA": [
@@ -2457,7 +2455,6 @@
     "netprioR": [],
     "netSmooth": [
         "clusterExperiment",
-        "mbkmeans",
         "scater",
         "zinbwave"
     ],
