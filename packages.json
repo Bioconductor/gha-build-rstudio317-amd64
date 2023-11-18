@@ -395,7 +395,6 @@
     ],
     "consensus": [],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq",
         "ensembldb"
     ],
@@ -481,9 +480,7 @@
         "VariantAnnotation",
         "bumphunter"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "DART": [],
     "dasper": [],
     "dcanr": [],
@@ -593,7 +590,6 @@
     "dupRadar": [],
     "easyreporting": [],
     "EBSeqHMM": [],
-    "EDASeq": [],
     "eegc": [],
     "eiR": [],
     "ELMER": [
@@ -759,8 +755,7 @@
     "GAprediction": [],
     "garfield": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "gcapc": [],
     "gcatest": [],
@@ -1287,7 +1282,6 @@
     "NxtIRFcore": [],
     "occugene": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1522,7 +1516,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1613,9 +1606,7 @@
     ],
     "Rtreemix": [],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sagenhaft": [],
     "SANTA": [],
     "savR": [],
@@ -1637,7 +1628,6 @@
         "regioneR"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -1777,7 +1767,6 @@
     "SQUADD": [],
     "ssize": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Statial": [],
