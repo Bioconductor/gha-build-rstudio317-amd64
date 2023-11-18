@@ -503,8 +503,7 @@
     ],
     "enrichTF": [
         "TFBSTools",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "ensemblVEP": [
         "VariantAnnotation"
@@ -541,8 +540,7 @@
     ],
     "esATAC": [
         "TFBSTools",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escheR": [],
     "EventPointer": [],
@@ -1110,7 +1108,6 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "pipeFrame": [],
     "plotgardener": [],
     "plotGrouper": [],
     "pmm": [],
