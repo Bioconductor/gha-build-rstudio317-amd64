@@ -48,9 +48,7 @@
     "BioNAR": [],
     "BiRewire": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "brendaDb": [],
     "BridgeDbR": [],
     "BufferedMatrixMethods": [],
@@ -131,7 +129,6 @@
     "demuxmix": [],
     "DepInfeR": [],
     "DEqMS": [],
-    "derfinderPlot": [],
     "diffGeneAnalysis": [],
     "DiffLogo": [],
     "diffuStats": [],
