@@ -1689,7 +1689,6 @@
     ],
     "Mergeomics": [],
     "meshes": [],
-    "meshr": [],
     "messina": [],
     "Metab": [],
     "metabCombiner": [],
@@ -2661,8 +2660,7 @@
     ],
     "scShapes": [],
     "scTensor": [
-        "ReactomePA",
-        "meshr"
+        "ReactomePA"
     ],
     "scTGIF": [],
     "scTHI": [],
