@@ -963,16 +963,11 @@
     "STdeconvolve": [],
     "stepNorm": [],
     "STROMA4": [],
-    "StructuralVariantAnnotation": [],
     "subSeq": [],
     "SUITOR": [],
     "Summix": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SwathXtend": [],
     "swfdr": [],
     "synergyfinder": [],
