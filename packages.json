@@ -617,7 +617,6 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [],
     "RImmPort": [],
     "RIPAT": [
         "karyoploteR"
