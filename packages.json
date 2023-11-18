@@ -15,10 +15,7 @@
         "ggbio"
     ],
     "AHMassBank": [],
-    "alabaster": [
-        "alabaster.vcf"
-    ],
-    "alabaster.vcf": [],
+    "alabaster": [],
     "alevinQC": [],
     "AllelicImbalance": [
         "Gviz",
