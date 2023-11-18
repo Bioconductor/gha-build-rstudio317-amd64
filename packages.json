@@ -40,9 +40,7 @@
     "BG2": [],
     "BGmix": [],
     "BHC": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioassayR": [],
     "biobtreeR": [],
     "BiocDockerManager": [],
@@ -92,8 +90,7 @@
     "CFAssay": [],
     "CGEN": [],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "ChIC": [],
     "Chicago": [],
@@ -307,9 +304,7 @@
     "mdp": [],
     "MEAL": [],
     "MeasurementError.cor": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "Mergeomics": [],
     "messina": [],
     "metabCombiner": [],
@@ -479,9 +474,7 @@
         "celda"
     ],
     "sizepower": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "SLqPCR": [],
     "SMAD": [],
     "SMAP": [],
@@ -538,7 +531,6 @@
     "VennDetail": [],
     "VERSO": [],
     "waddR": [],
-    "wateRmelon": [],
     "weaver": [],
     "wppi": [],
     "xmapbridge": [],
