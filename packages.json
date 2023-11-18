@@ -2537,7 +2537,6 @@
         "GenomicFeatures",
         "TCGAutils"
     ],
-    "RTNsurvival": [],
     "Rtreemix": [],
     "rTRMui": [
         "MotifDb"
