@@ -156,7 +156,6 @@
     "biodbNci": [],
     "biodbUniprot": [],
     "BioNAR": [],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
