@@ -101,7 +101,6 @@
     "CGEN": [],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -176,9 +175,7 @@
     "discordant": [],
     "distinct": [],
     "dks": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DriverNet": [],
     "dupRadar": [],
     "easyreporting": [],
@@ -334,9 +331,7 @@
     "MBttest": [],
     "mCSEA": [],
     "mdp": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MeasurementError.cor": [],
     "MEAT": [
         "wateRmelon"
@@ -354,9 +349,7 @@
         "RCy3"
     ],
     "MethPed": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MethylMix": [],
     "MetID": [],
     "MiChip": [],
@@ -367,7 +360,6 @@
     "miRcomp": [],
     "miRNApath": [],
     "mirTarRnaSeq": [],
-    "missMethyl": [],
     "mistyR": [],
     "mitch": [],
     "ModCon": [],
