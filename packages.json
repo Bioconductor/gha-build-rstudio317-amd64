@@ -309,7 +309,6 @@
     ],
     "daMA": [],
     "DAMEfinder": [],
-    "DaMiRseq": [],
     "DART": [],
     "dcanr": [],
     "dcGSA": [],
@@ -471,9 +470,7 @@
     "gaggle": [],
     "GAprediction": [],
     "garfield": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "gcatest": [],
     "GCSscore": [],
     "GEM": [],
