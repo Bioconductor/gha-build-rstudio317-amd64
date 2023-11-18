@@ -764,7 +764,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "dada2": [],
     "dagLogo": [
         "BSgenome",
         "CNEr",
@@ -2308,9 +2307,7 @@
     ],
     "Rarr": [],
     "RbcBook1": [],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RBioinf": [],
     "RBM": [],
     "RCAS": [
