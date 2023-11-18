@@ -1702,7 +1702,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "scviR": [],
     "segmenter": [
         "ChIPseeker"
     ],
