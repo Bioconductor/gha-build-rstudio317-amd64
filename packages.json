@@ -67,8 +67,7 @@
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -1132,9 +1131,7 @@
         "biovizBase"
     ],
     "PROcess": [],
-    "profileplyr": [
-        "rGREAT"
-    ],
+    "profileplyr": [],
     "profileScoreDist": [],
     "proteasy": [],
     "proteinProfiles": [],
@@ -1240,7 +1237,6 @@
     "RgnTX": [],
     "rgoslin": [],
     "RGraph2js": [],
-    "rGREAT": [],
     "RGSEA": [],
     "rgsepd": [],
     "Rhisat2": [],
