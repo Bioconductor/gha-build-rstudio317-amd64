@@ -5094,10 +5094,7 @@
         "SummarizedExperiment"
     ],
     "MSstatsLOBD": [],
-    "MSstatsQC": [],
-    "MSstatsQCgui": [
-        "MSstatsQC"
-    ],
+    "MSstatsQCgui": [],
     "MuData": [
         "MultiAssayExperiment",
         "SingleCellExperiment",
