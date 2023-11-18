@@ -224,9 +224,7 @@
     "CeTF": [
         "RCy3"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "CFAssay": [],
     "cfDNAPro": [],
     "CGEN": [],
@@ -529,8 +527,7 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "ChIPseeker",
-        "genomation"
+        "ChIPseeker"
     ],
     "epigraHMM": [],
     "epimutacions": [
@@ -581,9 +578,7 @@
     "factR": [],
     "FamAgg": [],
     "fastreeR": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fCI": [],
     "fcScan": [
         "VariantAnnotation"
@@ -657,7 +652,6 @@
     ],
     "GeneticsPed": [],
     "genoCN": [],
-    "genomation": [],
     "genomes": [],
     "GenomicFiles": [
         "VariantAnnotation"
@@ -1211,9 +1205,7 @@
     "RbcBook1": [],
     "RBioinf": [],
     "RBM": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCASPAR": [],
     "Rcollectl": [],
     "RCSL": [],
