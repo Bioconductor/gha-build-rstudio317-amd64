@@ -316,7 +316,6 @@
     "DAMEfinder": [],
     "DaMiRseq": [],
     "DART": [],
-    "dasper": [],
     "dcanr": [],
     "dcGSA": [],
     "ddCt": [],
@@ -825,7 +824,6 @@
     "octad": [],
     "ODER": [
         "GenomicFiles",
-        "dasper",
         "derfinder"
     ],
     "OGRE": [
