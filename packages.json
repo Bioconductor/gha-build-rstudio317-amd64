@@ -367,7 +367,6 @@
         "MIRA",
         "bsseq"
     ],
-    "CODEX": [],
     "coGPS": [],
     "COHCAP": [],
     "comapr": [
@@ -923,9 +922,7 @@
         "minfi"
     ],
     "iChip": [],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [
         "goseq"
     ],
