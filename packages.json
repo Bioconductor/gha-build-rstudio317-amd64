@@ -343,7 +343,6 @@
         "ensembldb"
     ],
     "calm": [],
-    "CAMERA": [],
     "canceR": [],
     "cardelino": [
         "BSgenome",
@@ -1072,9 +1071,7 @@
         "GenomicFeatures"
     ],
     "FitHiC": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "BSgenome",
         "GenomicFeatures",
@@ -1416,9 +1413,7 @@
     ],
     "IntramiRExploreR": [],
     "iPath": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "clusterProfiler"
     ],
@@ -1479,9 +1474,7 @@
         "spicyR"
     ],
     "lmdme": [],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LPEadj": [],
     "lpNet": [],
     "lumi": [
@@ -1516,9 +1509,7 @@
         "TRESS"
     ],
     "magrene": [],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "MANOR": [],
     "MantelCorr": [],
     "mapscape": [],
@@ -1598,9 +1589,7 @@
     ],
     "metagene2": [],
     "metahdep": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "RCy3",
         "clusterProfiler"
