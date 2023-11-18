@@ -660,9 +660,7 @@
     "fmcsR": [],
     "fmrs": [],
     "fobitools": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [],
     "FRGEpistasis": [],
     "FScanR": [],
@@ -1178,7 +1176,6 @@
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "OSAT": [],
-    "OUTRIDER": [],
     "OutSplice": [
         "Repitools"
     ],
