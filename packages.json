@@ -3495,7 +3495,6 @@
         "scuttle"
     ],
     "scDDboost": [],
-    "scds": [],
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
@@ -3720,7 +3719,6 @@
         "scDblFinder",
         "scMerge",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
