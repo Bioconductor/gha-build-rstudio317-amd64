@@ -666,7 +666,6 @@
         "biovizBase"
     ],
     "quantro": [],
-    "QuasR": [],
     "QuaternaryProd": [],
     "R3CPET": [
         "biovizBase",
@@ -796,9 +795,7 @@
     "singleCellTK": [
         "celda"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "sizepower": [],
     "skewr": [
         "lumi",
