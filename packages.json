@@ -278,9 +278,7 @@
         "regioneR"
     ],
     "BiSeq": [],
-    "blacksheepr": [
-        "DEXSeq"
-    ],
+    "blacksheepr": [],
     "bnbc": [],
     "bnem": [],
     "BOBaFIT": [
@@ -877,7 +875,6 @@
     ],
     "DEWSeq": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [
         "BSgenome",
         "GreyListChIP",
@@ -890,7 +887,6 @@
     "DiffLogo": [],
     "diffuStats": [],
     "diffUTR": [
-        "DEXSeq",
         "GenomicFeatures",
         "ensembldb"
     ],
@@ -1536,7 +1532,6 @@
     "interactiveDisplay": [],
     "IntEREst": [
         "BSgenome",
-        "DEXSeq",
         "GenomicFeatures",
         "GenomicFiles",
         "VariantAnnotation"
@@ -1562,7 +1557,6 @@
     "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "BSgenome",
-        "DEXSeq",
         "GenomicFeatures",
         "ensembldb",
         "tximeta"
@@ -2156,9 +2150,7 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "pairedGSEA": [
-        "DEXSeq"
-    ],
+    "pairedGSEA": [],
     "panelcn.mops": [],
     "PanomiR": [
         "clusterProfiler"
