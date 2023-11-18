@@ -23,8 +23,7 @@
     "AnVILWorkflow": [],
     "appreci8R": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "arrayQuality": [],
     "ARRmNormalization": [],
@@ -53,7 +52,6 @@
     "BHC": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [
@@ -122,7 +120,6 @@
         "DMRcate",
         "Gviz",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -230,7 +227,6 @@
     "dks": [],
     "DMRcate": [
         "Gviz",
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [
@@ -264,8 +260,7 @@
         "RCy3"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "fgga": [],
     "FitHiC": [],
@@ -356,8 +351,7 @@
     "iBMQ": [],
     "iCARE": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "iChip": [],
     "iGC": [],
@@ -393,15 +387,12 @@
     "lmdme": [],
     "LPEadj": [],
     "lpNet": [],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "M3C": [],
     "maCorrPlot": [],
     "MACSQuantifyR": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [],
     "magrene": [],
@@ -422,13 +413,11 @@
     "mdp": [],
     "MEAL": [
         "Gviz",
-        "methylumi",
         "missMethyl"
     ],
     "MeasurementError.cor": [],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "Mergeomics": [],
@@ -446,29 +435,24 @@
     "MethPed": [],
     "methylclock": [],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "MethylMix": [],
     "methylPipe": [
         "Gviz"
     ],
-    "methylumi": [],
     "MetID": [],
     "MiChip": [],
     "MIMOSA": [],
     "mina": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MiPP": [],
     "miRcomp": [],
     "miRNApath": [],
     "mirTarRnaSeq": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mistyR": [],
     "mitch": [],
     "ModCon": [],
@@ -623,9 +607,7 @@
     ],
     "RNASeqPower": [],
     "RnaSeqSampleSize": [],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "RRHO": [],
     "rsemmed": [],
@@ -663,7 +645,6 @@
     "sizepower": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SLqPCR": [],
@@ -742,8 +723,7 @@
     "vulcan": [],
     "waddR": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "weaver": [],
     "wppi": [],
