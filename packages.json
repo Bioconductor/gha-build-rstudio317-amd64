@@ -1348,7 +1348,6 @@
         "BSgenome"
     ],
     "HIBAG": [],
-    "HiCcompare": [],
     "HiCDCPlus": [
         "BSgenome",
         "GenomicFeatures",
@@ -1359,7 +1358,6 @@
         "ensembldb"
     ],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "HiContacts": [],
@@ -1880,9 +1878,7 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "MultiMed": [],
     "multiSight": [
         "ReactomePA",
@@ -2731,9 +2727,7 @@
         "motifmatchr"
     ],
     "specL": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment"
     ],
@@ -2813,9 +2807,7 @@
     "syntenet": [],
     "systemPipeR": [],
     "systemPipeShiny": [],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "tanggle": [],
     "TAPseq": [
         "BSgenome",
