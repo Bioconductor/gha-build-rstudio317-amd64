@@ -183,13 +183,13 @@ packaged installation of ‘humanStemCell’ as ‘humanStemCell_0.40.0_R_x86_64
 * DONE (humanStemCell)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp3zySu5/downloaded_packages’
+	‘/tmp/RtmpvV008R/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m56.539s
-user	1m47.994s
-sys	0m7.505s
+real	1m54.990s
+user	1m44.366s
+sys	0m7.271s
