@@ -332,7 +332,6 @@
         "enrichplot"
     ],
     "BiocDockerManager": [],
-    "BiocHubsShiny": [],
     "BiocOncoTK": [
         "GenomicFeatures",
         "rtracklayer"
