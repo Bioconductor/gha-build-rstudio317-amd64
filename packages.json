@@ -1179,7 +1179,6 @@
         "rtracklayer",
         "systemPipeR"
     ],
-    "DifferentialRegulation": [],
     "diffGeneAnalysis": [],
     "diffHic": [
         "BSgenome",
