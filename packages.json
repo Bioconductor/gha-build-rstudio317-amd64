@@ -70,13 +70,10 @@
     "CAFE": [
         "ggbio"
     ],
-    "CAGEfightR": [],
     "cageminer": [
         "ggbio"
     ],
-    "CAGEr": [
-        "CAGEfightR"
-    ],
+    "CAGEr": [],
     "calm": [],
     "categoryCompare": [
         "RCy3"
