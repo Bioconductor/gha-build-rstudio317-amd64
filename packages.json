@@ -1663,7 +1663,6 @@
     "SCFA": [],
     "scFeatureFilter": [],
     "scFeatures": [
-        "SingleCellSignalR",
         "ensembldb"
     ],
     "scMerge": [],
@@ -1743,7 +1742,6 @@
         "cytomapper"
     ],
     "sincell": [],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "celda",
         "ensembldb",
