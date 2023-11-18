@@ -1319,8 +1319,7 @@
     "epistasisGA": [],
     "EpiTxDb": [
         "GenomicFeatures",
-        "rtracklayer",
-        "tRNAdbImport"
+        "rtracklayer"
     ],
     "epivizr": [
         "GenomicFeatures",
@@ -3882,7 +3881,6 @@
     ],
     "trigger": [],
     "tripr": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
         "rtracklayer"
