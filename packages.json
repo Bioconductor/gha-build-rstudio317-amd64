@@ -2841,7 +2841,6 @@
     "omicsPrint": [],
     "Omixer": [],
     "onlineFDR": [],
-    "ontoProc": [],
     "OpenStats": [],
     "oppar": [
         "GSVA"
@@ -3005,9 +3004,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "POWSC": [
         "MAST"
@@ -4103,7 +4100,6 @@
     "TEKRABber": [],
     "TENxIO": [],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "ternarynet": [],
