@@ -2697,7 +2697,6 @@
     "GOpro": [
         "MultiAssayExperiment"
     ],
-    "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
         "GenomicAlignments",
@@ -2712,8 +2711,7 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "enrichplot",
-        "goProfiles"
+        "enrichplot"
     ],
     "goSTAG": [
         "biomaRt"
