@@ -9,7 +9,6 @@
     "affycoretools": [
         "BSgenome",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -21,7 +20,6 @@
     "AgiMicroRna": [
         "BSgenome",
         "GenomicFeatures",
-        "Glimma",
         "OrganismDbi",
         "ReportingTools",
         "VariantAnnotation",
@@ -1300,7 +1298,6 @@
     "GIGSEA": [],
     "girafe": [],
     "GladiaTOX": [],
-    "Glimma": [],
     "globalSeq": [],
     "gmapR": [
         "BSgenome",
