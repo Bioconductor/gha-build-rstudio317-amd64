@@ -1398,13 +1398,8 @@
         "HiCcompare",
         "multiHiCcompare"
     ],
-    "HiCExperiment": [],
-    "HiContacts": [
-        "HiCExperiment"
-    ],
-    "HiCool": [
-        "HiCExperiment"
-    ],
+    "HiContacts": [],
+    "HiCool": [],
     "hierGWAS": [],
     "hierinf": [],
     "HilbertVisGUI": [],
