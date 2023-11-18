@@ -42,9 +42,7 @@
     ],
     "AlphaBeta": [],
     "alpine": [],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "AnnotationHubData": [
         "OrganismDbi"
     ],
@@ -124,8 +122,7 @@
         "PhIPData"
     ],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "BG2": [],
     "BgeeCall": [],
@@ -1156,14 +1153,10 @@
         "minfi"
     ],
     "MetID": [],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "MiChip": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [],
     "MIMOSA": [],
