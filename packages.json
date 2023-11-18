@@ -41,15 +41,11 @@
         "Gviz",
         "biovizBase"
     ],
-    "ATACCoGAPS": [
-        "motifmatchr"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "ChIPpeakAnno"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "autonomics": [],
     "AWFisher": [],
@@ -328,16 +324,12 @@
     ],
     "EMDomics": [],
     "EnhancedVolcano": [],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "EnMCB": [],
     "ENmix": [
         "minfi"
     ],
-    "enrichTF": [
-        "motifmatchr"
-    ],
+    "enrichTF": [],
     "EpiCompare": [],
     "epimutacions": [
         "Gviz",
@@ -351,9 +343,7 @@
         "epivizr"
     ],
     "erma": [],
-    "esATAC": [
-        "motifmatchr"
-    ],
+    "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -647,7 +637,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "motifmatchr": [],
     "MPFE": [],
     "MQmetrics": [],
     "MsDataHub": [],
@@ -709,9 +698,7 @@
     "OpenStats": [],
     "oppti": [],
     "OSAT": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PANR": [],
     "PanViz": [],
     "parglms": [],
@@ -934,8 +921,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "specL": [],
     "spikeLI": [],
