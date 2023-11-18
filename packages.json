@@ -19,9 +19,7 @@
     "AnVILPublish": [],
     "AnVILWorkflow": [],
     "appreci8R": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "arrayQuality": [],
     "ARRmNormalization": [],
     "ASAFE": [],
@@ -45,7 +43,6 @@
     "BGmix": [],
     "BHC": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "bioassayR": [],
@@ -105,7 +102,6 @@
     "CGEN": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -209,9 +205,7 @@
     "fedup": [
         "RCy3"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "fgga": [],
     "FitHiC": [],
     "FLAMES": [
@@ -294,9 +288,7 @@
     "ibh": [],
     "iBMQ": [],
     "iCARE": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iChip": [],
     "iGC": [],
     "immunotation": [],
@@ -330,7 +322,6 @@
     "lmdme": [],
     "LPEadj": [],
     "lpNet": [],
-    "lumi": [],
     "M3C": [],
     "maCorrPlot": [],
     "MACSQuantifyR": [],
@@ -354,7 +345,6 @@
     ],
     "MeasurementError.cor": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "Mergeomics": [],
@@ -379,9 +369,7 @@
     "MiChip": [],
     "MIMOSA": [],
     "mina": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MiPP": [],
     "miRcomp": [],
     "miRNApath": [],
@@ -547,7 +535,6 @@
     ],
     "sizepower": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SLqPCR": [],
@@ -613,9 +600,7 @@
     "VennDetail": [],
     "VERSO": [],
     "waddR": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "weaver": [],
     "wppi": [],
     "xmapbridge": [],
