@@ -954,8 +954,7 @@
     "metabCombiner": [],
     "metabinR": [],
     "MetaboSignal": [
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metaCCA": [],
     "metagene": [],
@@ -1103,7 +1102,6 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
