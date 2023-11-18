@@ -151,7 +151,6 @@
         "VariantAnnotation"
     ],
     "BAGS": [],
-    "ballgown": [],
     "bambu": [
         "BSgenome",
         "GenomicFeatures"
@@ -2834,9 +2833,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "vbmp": [],
     "VCFArray": [
         "BSgenome",
