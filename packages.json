@@ -128,7 +128,6 @@
         "TFBSTools",
         "chromVAR",
         "motifmatchr",
-        "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -2188,7 +2187,6 @@
         "soGGi"
     ],
     "profileScoreDist": [],
-    "projectR": [],
     "pRolocGUI": [],
     "proteasy": [
         "GenomicFeatures",
