@@ -76,9 +76,7 @@
     ],
     "CFAssay": [],
     "CGEN": [],
-    "ChAMP": [
-        "DMRcate"
-    ],
+    "ChAMP": [],
     "ChIC": [],
     "Chicago": [],
     "ChIPXpress": [],
@@ -141,7 +139,6 @@
     "discordant": [],
     "distinct": [],
     "dks": [],
-    "DMRcate": [],
     "DriverNet": [],
     "dupRadar": [],
     "easyreporting": [],
