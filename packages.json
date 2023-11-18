@@ -3459,7 +3459,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "BSgenome",
         "GenomicFeatures",
