@@ -313,7 +313,6 @@
         "epivizr"
     ],
     "esATAC": [],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -530,9 +529,7 @@
     "MethPed": [],
     "MethylAid": [],
     "methylCC": [],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "methylumi",
         "missMethyl"
