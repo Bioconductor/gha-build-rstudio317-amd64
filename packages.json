@@ -333,7 +333,6 @@
         "enrichplot"
     ],
     "BiocDockerManager": [],
-    "biocGraph": [],
     "BiocHubsShiny": [],
     "BiocOncoTK": [
         "GenomicFeatures",
