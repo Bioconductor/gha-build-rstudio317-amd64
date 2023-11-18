@@ -7369,7 +7369,6 @@
     "sigFeature": [
         "SummarizedExperiment"
     ],
-    "SigFuge": [],
     "sights": [],
     "signatureSearch": [
         "AnnotationHub",
