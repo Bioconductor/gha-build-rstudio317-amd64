@@ -1376,9 +1376,7 @@
         "pipeFrame",
         "rtracklayer"
     ],
-    "escape": [
-        "UCell"
-    ],
+    "escape": [],
     "escheR": [
         "DropletUtils",
         "SpatialExperiment",
@@ -3933,7 +3931,6 @@
         "rtracklayer"
     ],
     "TypeInfo": [],
-    "UCell": [],
     "Ularcirc": [
         "BSgenome",
         "GenomicFeatures",
