@@ -2197,7 +2197,6 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [],
     "proteasy": [
         "GenomicFeatures",
         "ensembldb"
