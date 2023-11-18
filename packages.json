@@ -912,7 +912,6 @@
     "EDASeq": [
         "GenomicFeatures"
     ],
-    "EDIRquery": [],
     "eegc": [
         "clusterProfiler"
     ],
