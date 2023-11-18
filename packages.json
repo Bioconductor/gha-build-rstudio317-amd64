@@ -3990,7 +3990,6 @@
         "scuttle"
     ],
     "SDAMS": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "GenomicFeatures",
@@ -4034,7 +4033,6 @@
     "sesame": [],
     "SEtools": [
         "DESeq2",
-        "sechm",
         "sva"
     ],
     "sevenC": [
