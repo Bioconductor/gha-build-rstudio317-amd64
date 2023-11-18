@@ -242,7 +242,6 @@
         "dmrseq",
         "regioneR"
     ],
-    "BiSeq": [],
     "BOBaFIT": [
         "BSgenome",
         "GenomicFeatures",
