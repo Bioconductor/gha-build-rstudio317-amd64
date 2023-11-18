@@ -997,8 +997,7 @@
         "BSgenome",
         "GenomicAlignments",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "CFAssay": [],
     "cfDNAPro": [
@@ -2210,8 +2209,7 @@
         "biomaRt",
         "enrichplot",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "epidecodeR": [
         "GenomicAlignments",
@@ -2447,8 +2445,7 @@
         "BSgenome",
         "GenomicAlignments",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "fCI": [],
     "fcoex": [
@@ -2690,8 +2687,7 @@
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "genomes": [],
     "GenomicAlignments": [],
@@ -5110,8 +5106,7 @@
         "GenomicFeatures",
         "biomaRt",
         "genomation",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "RCASPAR": [],
     "rCGH": [
@@ -5948,8 +5943,7 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "seqCAT": [
         "BSgenome",
@@ -5965,7 +5959,6 @@
         "DESeq2",
         "biomaRt"
     ],
-    "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
         "rtracklayer"
