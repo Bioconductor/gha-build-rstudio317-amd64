@@ -888,9 +888,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "consensusSeekeR": [
         "rtracklayer"
     ],
@@ -1317,9 +1315,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "eiR": [],
     "ELMER": [
         "BSgenome",
@@ -1466,7 +1462,6 @@
         "rtracklayer"
     ],
     "escape": [
-        "GSVA",
         "UCell"
     ],
     "escheR": [
@@ -1832,7 +1827,6 @@
         "rtracklayer"
     ],
     "GSRI": [],
-    "GSVA": [],
     "GUIDEseq": [
         "BSgenome",
         "CRISPRseek",
@@ -2766,7 +2760,6 @@
     "occugene": [],
     "octad": [
         "EDASeq",
-        "GSVA",
         "GenomicFeatures",
         "RUVSeq",
         "ShortRead",
@@ -2813,9 +2806,7 @@
     "Omixer": [],
     "onlineFDR": [],
     "OpenStats": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "oppti": [],
     "ORFhunteR": [
         "BSgenome",
@@ -3557,7 +3548,6 @@
     "scFeatureFilter": [],
     "scFeatures": [
         "DropletUtils",
-        "GSVA",
         "GenomicFeatures",
         "SingleCellSignalR",
         "SpatialExperiment",
@@ -3743,7 +3733,6 @@
         "rtracklayer"
     ],
     "signifinder": [
-        "GSVA",
         "GenomicFeatures",
         "consensusOV",
         "ensembldb",
@@ -3774,7 +3763,6 @@
     ],
     "singleCellTK": [
         "DropletUtils",
-        "GSVA",
         "GenomicFeatures",
         "MAST",
         "TSCAN",
@@ -3804,9 +3792,7 @@
     ],
     "singscore": [],
     "SiPSiC": [],
-    "SISPA": [
-        "GSVA"
-    ],
+    "SISPA": [],
     "sitadela": [
         "GenomicFeatures",
         "rtracklayer"
@@ -4049,7 +4035,6 @@
     "TargetSearch": [],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "GSVA",
         "singscore",
         "sva"
     ],
@@ -4110,9 +4095,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "tomoseqr": [],
     "TOP": [
         "ClassifyR"
