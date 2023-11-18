@@ -1674,14 +1674,12 @@
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "BSgenome",
         "TFBSTools"
@@ -2286,9 +2284,7 @@
         "TCGAutils"
     ],
     "Rtreemix": [],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures"
@@ -2655,8 +2651,7 @@
     "traviz": [],
     "TreeAndLeaf": [],
     "trena": [
-        "BSgenome",
-        "MotifDb"
+        "BSgenome"
     ],
     "TRESS": [
         "GenomicFeatures"
