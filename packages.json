@@ -613,9 +613,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doubletrouble": [
-        "syntenet"
-    ],
+    "doubletrouble": [],
     "dpeak": [],
     "DriverNet": [],
     "drugTargetInteractions": [
@@ -1894,7 +1892,6 @@
     "swfdr": [],
     "synergyfinder": [],
     "synlet": [],
-    "syntenet": [],
     "systemPipeShiny": [],
     "TADCompare": [],
     "tanggle": [],
