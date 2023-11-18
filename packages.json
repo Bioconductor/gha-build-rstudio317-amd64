@@ -969,7 +969,6 @@
     ],
     "easyreporting": [],
     "easyRNASeq": [],
-    "EBSEA": [],
     "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
