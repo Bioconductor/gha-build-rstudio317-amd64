@@ -255,7 +255,6 @@
     "biodbNci": [],
     "biodbUniprot": [],
     "BioNAR": [],
-    "BioNERO": [],
     "biosigner": [
         "ropls"
     ],
@@ -367,7 +366,6 @@
     ],
     "cageminer": [
         "BSgenome",
-        "BioNERO",
         "GenomicFeatures",
         "OrganismDbi",
         "VariantAnnotation",
