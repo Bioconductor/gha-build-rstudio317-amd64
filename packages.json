@@ -292,7 +292,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BioCor": [],
     "BiocWorkflowTools": [],
     "biodbExpasy": [],
     "biodbLipidmaps": [],
