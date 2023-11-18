@@ -456,16 +456,9 @@
     "Rmagpie": [],
     "rmelting": [],
     "RNAdecay": [],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "RNASeqPower": [],
     "RRHO": [],
     "rsemmed": [],
