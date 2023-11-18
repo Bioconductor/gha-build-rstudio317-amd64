@@ -185,9 +185,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -467,7 +465,6 @@
         "biovizBase"
     ],
     "GWAS.BAYES": [],
-    "gwascat": [],
     "hca": [],
     "HDTD": [],
     "HelloRanges": [],
@@ -1054,9 +1051,7 @@
     "VennDetail": [],
     "VERSO": [],
     "Voyager": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno"
     ],
