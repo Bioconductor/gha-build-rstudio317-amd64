@@ -796,7 +796,6 @@
         "NCIgraph",
         "RCy3"
     ],
-    "DEGreport": [],
     "deltaGseg": [],
     "DeMAND": [],
     "DeMixT": [
@@ -1493,9 +1492,7 @@
         "tximeta"
     ],
     "ISoLDE": [],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [],
     "iterativeBMA": [],
     "iterativeBMAsurv": [],
