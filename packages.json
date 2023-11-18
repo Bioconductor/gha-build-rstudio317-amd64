@@ -4223,8 +4223,7 @@
         "rtracklayer"
     ],
     "prebs": [
-        "GenomicAlignments",
-        "RPA"
+        "GenomicAlignments"
     ],
     "preciseTAD": [
         "GenomicAlignments",
@@ -4851,7 +4850,6 @@
         "MultiAssayExperiment",
         "MultiDataSet"
     ],
-    "RPA": [],
     "Rqc": [
         "BSgenome",
         "GenomicAlignments",
