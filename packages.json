@@ -2123,7 +2123,6 @@
     ],
     "pgca": [],
     "phantasus": [],
-    "PharmacoGx": [],
     "PhenoGeneRanker": [],
     "phenomis": [
         "ropls"
@@ -3123,9 +3122,7 @@
     "wiggleplotr": [],
     "wppi": [],
     "XDE": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "xmapbridge": [],
     "XNAString": [
         "BSgenome"
