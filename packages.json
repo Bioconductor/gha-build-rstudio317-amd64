@@ -3865,7 +3865,6 @@
     ],
     "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq",
