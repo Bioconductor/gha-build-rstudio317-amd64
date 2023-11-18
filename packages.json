@@ -578,7 +578,6 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusSeekeR": [],
     "CONSTANd": [],
     "contiBAIT": [
         "BSgenome",
@@ -2236,9 +2235,7 @@
         "ensembldb"
     ],
     "RIVER": [],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLassoCox": [],
     "RLMM": [],
     "RLSeq": [
