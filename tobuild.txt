@@ -1,4 +1,0 @@
-motifbreakR
-MungeSumstats
-ChIPXpress
-MAGAR
