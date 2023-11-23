@@ -1514,7 +1514,6 @@
     "msImpute": [],
     "MSPrep": [],
     "MsQuality": [],
-    "MultiBaC": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
