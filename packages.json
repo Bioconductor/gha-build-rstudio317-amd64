@@ -17,8 +17,7 @@
     "AllelicImbalance": [],
     "appreci8R": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpli": [],
     "ATACCoGAPS": [],
@@ -34,7 +33,6 @@
     "BGmix": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -81,7 +79,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -149,7 +146,6 @@
     "DEScan2": [],
     "distinct": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [],
@@ -174,8 +170,7 @@
         "RCy3"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "fgga": [],
     "FLAMES": [
@@ -206,8 +201,7 @@
     "hpar": [],
     "HTSeqGenie": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "IMAS": [
         "IVAS"
@@ -221,23 +215,18 @@
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [],
     "maser": [],
     "mCSEA": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MetaboSignal": [
@@ -250,23 +239,18 @@
         "ExperimentHubData"
     ],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
     "methylSig": [],
-    "methylumi": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "miRSM": [
         "miRspongeR"
     ],
     "miRspongeR": [],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "mitoClone2": [],
     "MMAPPR2": [
         "ensemblVEP"
@@ -356,9 +340,7 @@
     "RnaSeqSampleSize": [
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "SCATE": [],
     "scmeth": [],
@@ -377,7 +359,6 @@
     "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [
@@ -414,8 +395,7 @@
     "vulcan": [],
     "waddR": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "Xeva": [],
     "YAPSA": [
