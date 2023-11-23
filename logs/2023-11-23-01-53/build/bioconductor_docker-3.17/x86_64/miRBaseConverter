@@ -53,22 +53,22 @@ Content type 'application/gzip' length 31569 bytes (30 KB)
 downloaded 30 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Biobase_2.60.0.tar.gz'
-Content type 'application/gzip' length 1795905 bytes (1.7 MB)
+Content type 'application/x-gzip' length 1795905 bytes (1.7 MB)
 ==================================================
 downloaded 1.7 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/S4Arrays_1.0.6.tar.gz'
-Content type 'application/gzip' length 281091 bytes (274 KB)
+Content type 'application/x-gzip' length 281091 bytes (274 KB)
 ==================================================
 downloaded 274 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/DelayedArray_0.26.7.tar.gz'
-Content type 'application/gzip' length 628192 bytes (613 KB)
+Content type 'application/x-gzip' length 628192 bytes (613 KB)
 ==================================================
 downloaded 613 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/GenomeInfoDbData_1.2.10.tar.gz'
-Content type 'application/gzip' length 12026674 bytes (11.5 MB)
+Content type 'application/x-gzip' length 12026674 bytes (11.5 MB)
 ==================================================
 downloaded 11.5 MB
 
@@ -78,7 +78,7 @@ Content type 'binary/octet-stream' length 24849 bytes (24 KB)
 downloaded 24 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/BiocParallel_1.34.2.tar.gz'
-Content type 'application/gzip' length 997208 bytes (973 KB)
+Content type 'application/x-gzip' length 997208 bytes (973 KB)
 ==================================================
 downloaded 973 KB
 
@@ -118,7 +118,7 @@ Content type 'application/gzip' length 480919 bytes (469 KB)
 downloaded 469 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/XVector_0.40.0.tar.gz'
-Content type 'application/gzip' length 67818 bytes (66 KB)
+Content type 'application/x-gzip' length 67818 bytes (66 KB)
 ==================================================
 downloaded 66 KB
 
@@ -128,12 +128,12 @@ Content type 'application/gzip' length 3579119 bytes (3.4 MB)
 downloaded 3.4 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Biostrings_2.68.1.tar.gz'
-Content type 'application/gzip' length 12446699 bytes (11.9 MB)
+Content type 'application/x-gzip' length 12446699 bytes (11.9 MB)
 ==================================================
 downloaded 11.9 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/zlibbioc_1.46.0.tar.gz'
-Content type 'application/gzip' length 163370 bytes (159 KB)
+Content type 'application/x-gzip' length 163370 bytes (159 KB)
 ==================================================
 downloaded 159 KB
 
@@ -143,17 +143,17 @@ Content type 'binary/octet-stream' length 1064674 bytes (1.0 MB)
 downloaded 1.0 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Rsamtools_2.16.0.tar.gz'
-Content type 'application/x-gzip' length 2918582 bytes (2.8 MB)
+Content type 'application/gzip' length 2918582 bytes (2.8 MB)
 ==================================================
 downloaded 2.8 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/GenomicAlignments_1.36.0.tar.gz'
-Content type 'application/gzip' length 2264672 bytes (2.2 MB)
+Content type 'application/x-gzip' length 2264672 bytes (2.2 MB)
 ==================================================
 downloaded 2.2 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/BiocIO_1.10.0.tar.gz'
-Content type 'application/gzip' length 231333 bytes (225 KB)
+Content type 'application/x-gzip' length 231333 bytes (225 KB)
 ==================================================
 downloaded 225 KB
 
@@ -471,7 +471,7 @@ packaged installation of ‘Biobase’ as ‘Biobase_2.60.0_R_x86_64-pc-linux-gn
 ** libs
 using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
 cd "htslib-1.15.1" && make -f "Makefile.Rhtslib"
-make[1]: Entering directory '/tmp/Rtmp9MFKqd/R.INSTALL470db016a7/Rhtslib/src/htslib-1.15.1'
+make[1]: Entering directory '/tmp/RtmpexYpLk/R.INSTALL4673329840e/Rhtslib/src/htslib-1.15.1'
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kfunc.o kfunc.c
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kstring.o kstring.c
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o bcf_sr_sort.o bcf_sr_sort.c
@@ -572,7 +572,7 @@ gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile_libcurl.pico hfile_libcurl.c
 gcc -shared -Wl,-soname,libhts.so.3 -L/usr/local/lib -fvisibility=hidden -o libhts.so kfunc.pico kstring.pico bcf_sr_sort.pico bgzf.pico errmod.pico faidx.pico header.pico hfile.pico hts.pico hts_expr.pico hts_os.pico md5.pico multipart.pico probaln.pico realn.pico regidx.pico region.pico sam.pico synced_bcf_reader.pico vcf_sweep.pico tbx.pico textutils.pico thread_pool.pico vcf.pico vcfutils.pico cram/cram_codecs.pico cram/cram_decode.pico cram/cram_encode.pico cram/cram_external.pico cram/cram_index.pico cram/cram_io.pico cram/cram_stats.pico cram/mFILE.pico cram/open_trace_file.pico cram/pooled_alloc.pico cram/string_alloc.pico htscodecs/htscodecs/arith_dynamic.pico htscodecs/htscodecs/fqzcomp_qual.pico htscodecs/htscodecs/htscodecs.pico htscodecs/htscodecs/pack.pico htscodecs/htscodecs/rANS_static4x16pr.pico htscodecs/htscodecs/rANS_static.pico htscodecs/htscodecs/rle.pico htscodecs/htscodecs/tokenise_name3.pico hfile_libcurl.pico -lz -lm -lbz2 -llzma -lcurl -lpthread
 ln -sf libhts.so libhts.so.3
-make[1]: Leaving directory '/tmp/Rtmp9MFKqd/R.INSTALL470db016a7/Rhtslib/src/htslib-1.15.1'
+make[1]: Leaving directory '/tmp/RtmpexYpLk/R.INSTALL4673329840e/Rhtslib/src/htslib-1.15.1'
 mkdir -p "/tmp/tmp/built/Rhtslib/include/htslib"
 cd "htslib-1.15.1/htslib" && cp * "/tmp/tmp/built/Rhtslib/include/htslib"
 gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I"/tmp/tmp/built/Rhtslib/include" -I'/tmp/tmp/built/zlibbioc/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_Rhtslib.c -o R_init_Rhtslib.o
@@ -1258,13 +1258,13 @@ packaged installation of ‘rtracklayer’ as ‘rtracklayer_1.60.1_R_x86_64-pc-
 * DONE (rtracklayer)
 
 The downloaded source packages are in
-	‘/tmp/RtmpAVTjpt/downloaded_packages’
+	‘/tmp/Rtmpk49RWn/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	6m11.044s
-user	5m28.354s
-sys	0m40.711s
+real	6m26.897s
+user	5m34.149s
+sys	0m41.006s
