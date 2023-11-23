@@ -1308,7 +1308,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "KEGGgraph",
         "pathview"
     ],
     "biosigner": [
@@ -1432,7 +1431,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "KEGGgraph",
         "PADOG",
         "ROntoTools"
     ],
@@ -2577,7 +2575,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "Rsamtools",
         "SummarizedExperiment",
         "annotate",
@@ -3691,7 +3688,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SummarizedExperiment",
         "annotate",
         "apeglm",
@@ -3791,7 +3787,6 @@
         "rtracklayer"
     ],
     "DEGraph": [
-        "KEGGgraph",
         "NCIgraph",
         "RCy3"
     ],
@@ -4466,7 +4461,6 @@
         "GenomicRanges",
         "HDF5Array",
         "KEGGREST",
-        "KEGGgraph",
         "PADOG",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -4559,7 +4553,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "SummarizedExperiment",
         "annotate",
@@ -5548,7 +5541,6 @@
         "GenomicDataCommons",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SummarizedExperiment",
         "biomaRt",
         "clusterProfiler",
@@ -6262,7 +6254,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "SummarizedExperiment",
         "annotate",
@@ -7178,13 +7169,11 @@
         "Biostrings",
         "GenomeInfoDb"
     ],
-    "KEGGgraph": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
-        "KEGGREST",
-        "KEGGgraph"
+        "KEGGREST"
     ],
     "keggorthology": [
         "AnnotationDbi",
@@ -7476,7 +7465,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "KEGGREST",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot",
         "pathview"
@@ -7874,7 +7862,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "MWASTools",
         "Rsamtools",
         "SummarizedExperiment",
@@ -8440,7 +8427,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "KEGGgraph",
         "ROntoTools"
     ],
     "miRLAB": [
@@ -9176,7 +9162,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SummarizedExperiment"
     ],
     "mygene": [
@@ -9301,7 +9286,6 @@
         "xcms"
     ],
     "NCIgraph": [
-        "KEGGgraph",
         "RCy3"
     ],
     "ncRNAtools": [
@@ -10022,8 +10006,7 @@
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
-        "KEGGREST",
-        "KEGGgraph"
+        "KEGGREST"
     ],
     "pcaExplorer": [
         "AnnotationDbi",
@@ -10128,7 +10111,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "KEGGREST",
-        "KEGGgraph",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -11879,8 +11861,7 @@
     "ROntoTools": [
         "Biostrings",
         "GenomeInfoDb",
-        "KEGGREST",
-        "KEGGgraph"
+        "KEGGREST"
     ],
     "ropls": [
         "DelayedArray",
@@ -12100,7 +12081,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SummarizedExperiment",
         "pathview"
     ],
@@ -13593,9 +13573,7 @@
         "InteractionSet",
         "SummarizedExperiment"
     ],
-    "SPIA": [
-        "KEGGgraph"
-    ],
+    "SPIA": [],
     "SPIAT": [
         "DelayedArray",
         "DelayedMatrixStats",
@@ -15319,7 +15297,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "KEGGgraph",
         "SPIA",
         "SummarizedExperiment",
         "annotate",
