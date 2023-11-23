@@ -389,7 +389,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BioMM": [],
     "BioNAR": [],
     "BioNERO": [
         "genefilter",
