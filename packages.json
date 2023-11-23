@@ -2576,8 +2576,7 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "Cardinal": [],
     "casper": [
@@ -2977,8 +2976,7 @@
         "SummarizedExperiment",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "snpStats"
+        "enrichplot"
     ],
     "CexoR": [
         "BSgenome",
@@ -3524,7 +3522,6 @@
         "edgeR",
         "gwascat",
         "rtracklayer",
-        "snpStats",
         "universalmotif"
     ],
     "CircSeqAlignTk": [
@@ -5600,7 +5597,6 @@
         "annotate",
         "edgeR",
         "genefilter",
-        "snpStats",
         "sva"
     ],
     "DEXSeq": [
@@ -7916,8 +7912,7 @@
         "GenomicRanges",
         "IRanges",
         "Rsamtools",
-        "XVector",
-        "snpStats"
+        "XVector"
     ],
     "GeneMeta": [
         "AnnotationDbi",
@@ -8965,8 +8960,7 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "GWASTools": [],
     "gwasurvivr": [
@@ -10494,8 +10488,7 @@
         "oligoClasses",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
-        "snpStats"
+        "siggenes"
     ],
     "MAGeCKFlute": [
         "AnnotationDbi",
@@ -10610,9 +10603,7 @@
         "XVector"
     ],
     "marray": [],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -17076,9 +17067,7 @@
         "edgeR",
         "rtracklayer"
     ],
-    "RVS": [
-        "snpStats"
-    ],
+    "RVS": [],
     "S4Arrays": [
         "IRanges"
     ],
@@ -17689,8 +17678,7 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "scp": [
         "AnnotationFilter",
@@ -18899,7 +18887,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "snpStats": [],
     "soGGi": [
         "BiocIO",
         "Biostrings",
@@ -21289,8 +21276,7 @@
         "XVector",
         "biomaRt",
         "gwascat",
-        "rtracklayer",
-        "snpStats"
+        "rtracklayer"
     ],
     "vulcan": [
         "AnnotationDbi",
