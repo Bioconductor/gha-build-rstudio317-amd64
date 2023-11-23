@@ -278,7 +278,6 @@
         "qpgraph"
     ],
     "cliProfiler": [],
-    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "VariantAnnotation",
