@@ -23,7 +23,7 @@ Content type 'application/gzip' length 338345 bytes (330 KB)
 downloaded 330 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/ALL_1.42.0.tar.gz'
-Content type 'application/x-gzip' length 11382988 bytes (10.9 MB)
+Content type 'application/gzip' length 11382988 bytes (10.9 MB)
 ==================================================
 downloaded 10.9 MB
 
@@ -158,13 +158,13 @@ packaged installation of ‘tkWidgets’ as ‘tkWidgets_1.78.0_R_x86_64-pc-linu
 * DONE (tkWidgets)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpz5bECZ/downloaded_packages’
+	‘/tmp/Rtmpvn7ydp/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m32.177s
-user	0m25.006s
-sys	0m5.667s
+real	0m55.008s
+user	0m25.809s
+sys	0m5.748s
