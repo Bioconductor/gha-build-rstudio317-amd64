@@ -4472,7 +4472,6 @@
         "rtracklayer",
         "sva"
     ],
-    "GateFinder": [],
     "GBScleanR": [
         "Biostrings",
         "GenomicRanges",
