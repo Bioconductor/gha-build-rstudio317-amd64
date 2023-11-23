@@ -1309,7 +1309,6 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "pairedGSEA": [],
     "pdInfoBuilder": [],
     "periodicDNA": [
         "BSgenome"
