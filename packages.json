@@ -225,7 +225,6 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "cleanUpdTSeq": [],
     "clipper": [],
     "cliProfiler": [],
     "CNVfilteR": [
@@ -614,9 +613,7 @@
         "IVAS"
     ],
     "imcRtools": [],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "intansv": [
         "VariantAnnotation",
