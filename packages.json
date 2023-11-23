@@ -1607,7 +1607,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GeneBreak": [],
     "GeneMeta": [],
     "GeneStructureTools": [
         "BSgenome",
