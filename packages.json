@@ -116,7 +116,6 @@
         "ensembldb"
     ],
     "BioNAR": [],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
