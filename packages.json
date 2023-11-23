@@ -869,7 +869,6 @@
         "VariantAnnotation"
     ],
     "GEOexplorer": [],
-    "gespeR": [],
     "ggbio": [
         "BSgenome",
         "OrganismDbi",
