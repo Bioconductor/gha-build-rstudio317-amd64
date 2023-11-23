@@ -2661,7 +2661,6 @@
         "rtracklayer"
     ],
     "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [],
     "CNTools": [
         "AnnotationDbi",
