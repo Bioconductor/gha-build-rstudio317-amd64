@@ -1062,7 +1062,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "dce": [],
     "ddPCRclust": [
         "flowDensity"
     ],
