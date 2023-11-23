@@ -1475,7 +1475,6 @@
     "girafe": [
         "ShortRead"
     ],
-    "GISPA": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
