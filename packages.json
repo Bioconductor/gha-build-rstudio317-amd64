@@ -53,8 +53,7 @@
     "ATACCoGAPS": [
         "TFBSTools",
         "chromVAR",
-        "motifmatchr",
-        "rGREAT"
+        "motifmatchr"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
@@ -890,9 +889,7 @@
         "biovizBase"
     ],
     "proBAMr": [],
-    "profileplyr": [
-        "rGREAT"
-    ],
+    "profileplyr": [],
     "proteasy": [],
     "ProteoDisco": [
         "VariantAnnotation"
@@ -979,7 +976,6 @@
     "RgnTX": [
         "regioneR"
     ],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [
