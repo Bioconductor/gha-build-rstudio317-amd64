@@ -123,7 +123,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "branchpointer": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
