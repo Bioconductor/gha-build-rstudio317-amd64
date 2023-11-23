@@ -3747,7 +3747,6 @@
         "scuttle"
     ],
     "VplotR": [],
-    "vsclust": [],
     "vtpnet": [
         "BSgenome",
         "GenomicFeatures",
