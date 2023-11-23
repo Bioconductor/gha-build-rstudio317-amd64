@@ -13,7 +13,7 @@ Content type 'binary/octet-stream' length 1064674 bytes (1.0 MB)
 downloaded 1.0 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/GenomeInfoDbData_1.2.10.tar.gz'
-Content type 'application/x-gzip' length 12026674 bytes (11.5 MB)
+Content type 'application/gzip' length 12026674 bytes (11.5 MB)
 ==================================================
 downloaded 11.5 MB
 
@@ -28,7 +28,7 @@ Content type 'binary/octet-stream' length 1130781 bytes (1.1 MB)
 downloaded 1.1 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/XVector_0.40.0.tar.gz'
-Content type 'application/x-gzip' length 67818 bytes (66 KB)
+Content type 'application/gzip' length 67818 bytes (66 KB)
 ==================================================
 downloaded 66 KB
 
@@ -83,7 +83,7 @@ Content type 'binary/octet-stream' length 40025 bytes (39 KB)
 downloaded 39 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Biostrings_2.68.1.tar.gz'
-Content type 'application/x-gzip' length 12446699 bytes (11.9 MB)
+Content type 'application/gzip' length 12446699 bytes (11.9 MB)
 ==================================================
 downloaded 11.9 MB
 
@@ -118,12 +118,12 @@ Content type 'application/gzip' length 110373 bytes (107 KB)
 downloaded 107 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/preprocessCore_1.62.1.tar.gz'
-Content type 'application/x-gzip' length 123990 bytes (121 KB)
+Content type 'application/gzip' length 123990 bytes (121 KB)
 ==================================================
 downloaded 121 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/zlibbioc_1.46.0.tar.gz'
-Content type 'application/x-gzip' length 163370 bytes (159 KB)
+Content type 'application/gzip' length 163370 bytes (159 KB)
 ==================================================
 downloaded 159 KB
 
@@ -188,7 +188,7 @@ Content type 'binary/octet-stream' length 285724 bytes (279 KB)
 downloaded 279 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/Biobase_2.60.0.tar.gz'
-Content type 'application/x-gzip' length 1795905 bytes (1.7 MB)
+Content type 'application/gzip' length 1795905 bytes (1.7 MB)
 ==================================================
 downloaded 1.7 MB
 
@@ -233,7 +233,7 @@ Content type 'application/gzip' length 1844305 bytes (1.8 MB)
 downloaded 1.8 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/limma_3.56.2.tar.gz'
-Content type 'application/gzip' length 1515291 bytes (1.4 MB)
+Content type 'application/x-gzip' length 1515291 bytes (1.4 MB)
 ==================================================
 downloaded 1.4 MB
 
@@ -1078,13 +1078,13 @@ packaged installation of ‘org.Hs.eg.db’ as ‘org.Hs.eg.db_3.17.0_R_x86_64-p
 * DONE (org.Hs.eg.db)
 
 The downloaded source packages are in
-	‘/tmp/RtmpIhAICM/downloaded_packages’
+	‘/tmp/Rtmp64Aiva/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	7m49.225s
-user	6m36.184s
-sys	0m27.594s
+real	7m13.208s
+user	6m38.719s
+sys	0m27.912s
