@@ -3108,10 +3108,8 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array"
     ],
     "DELocal": [
