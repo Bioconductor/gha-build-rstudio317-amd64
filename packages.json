@@ -3815,7 +3815,6 @@
         "XVector",
         "genomeIntervals"
     ],
-    "Chicago": [],
     "chihaya": [
         "DelayedArray",
         "HDF5Array",
