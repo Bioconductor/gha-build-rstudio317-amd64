@@ -23,7 +23,7 @@ Content type 'binary/octet-stream' length 155230 bytes (151 KB)
 downloaded 151 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/interactiveDisplayBase_1.38.0.tar.gz'
-Content type 'application/x-gzip' length 7750 bytes
+Content type 'application/gzip' length 7750 bytes
 ==================================================
 downloaded 7750 bytes
 
@@ -48,7 +48,7 @@ Content type 'application/x-gzip' length 993346 bytes (970 KB)
 downloaded 970 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/ensembldb_2.24.1.tar.gz'
-Content type 'application/gzip' length 3357468 bytes (3.2 MB)
+Content type 'application/x-gzip' length 3357468 bytes (3.2 MB)
 ==================================================
 downloaded 3.2 MB
 
@@ -208,13 +208,13 @@ packaged installation of ‘scRNAseq’ as ‘scRNAseq_2.14.0_R_x86_64-pc-linux-
 * DONE (scRNAseq)
 
 The downloaded source packages are in
-	‘/tmp/RtmpWnEq4c/downloaded_packages’
+	‘/tmp/RtmpSC3oUr/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	2m3.349s
-user	1m43.422s
-sys	0m11.174s
+real	1m59.253s
+user	1m44.847s
+sys	0m11.519s
