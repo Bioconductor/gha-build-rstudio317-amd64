@@ -5569,7 +5569,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "dyebias": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
