@@ -2209,7 +2209,6 @@
         "rtracklayer"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "GenVisR": [
         "BSgenome",
         "GenomicAlignments",
