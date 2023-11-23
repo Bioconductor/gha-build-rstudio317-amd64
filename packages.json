@@ -270,9 +270,7 @@
         "Rhisat2"
     ],
     "cleanUpdTSeq": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cliProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -1062,7 +1060,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "qpgraph": [],
     "qsea": [],
     "quantro": [
         "minfi"
