@@ -56,9 +56,7 @@
     "BOBaFIT": [
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "derfinder",
         "derfinderPlot",
@@ -101,7 +99,6 @@
     "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "Gviz",
         "lumi",
         "methylumi",
@@ -192,9 +189,7 @@
         "NCIgraph",
         "RCy3"
     ],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -205,7 +200,6 @@
     ],
     "distinct": [],
     "DMRcate": [
-        "DSS",
         "Gviz",
         "methylumi",
         "missMethyl"
@@ -215,7 +209,6 @@
     ],
     "dmrseq": [],
     "doubletrouble": [],
-    "DSS": [],
     "ELMER": [
         "Gviz"
     ],
@@ -308,9 +301,7 @@
     "IsoformSwitchAnalyzeR": [],
     "IVAS": [],
     "karyoploteR": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "lisaClust": [
         "spicyR"
     ],
@@ -357,9 +348,7 @@
     "methylPipe": [
         "Gviz"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [],
     "MineICA": [
         "lumi",
