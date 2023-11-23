@@ -219,8 +219,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "BSgenome",
@@ -263,8 +262,7 @@
     "BUSpaRse": [
         "BSgenome",
         "GenomicFeatures",
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "BSgenome",
@@ -343,8 +341,7 @@
         "genomation"
     ],
     "cfDNAPro": [
-        "BSgenome",
-        "plyranges"
+        "BSgenome"
     ],
     "ChAMP": [
         "BSgenome",
@@ -636,8 +633,7 @@
         "GenomicFeatures"
     ],
     "dasper": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "ddPCRclust": [
         "flowDensity"
@@ -1180,8 +1176,7 @@
     "InPAS": [
         "BSgenome",
         "GenomicFeatures",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "GenomicFeatures"
@@ -1223,8 +1218,7 @@
     "katdetectr": [
         "BSgenome",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "kissDE": [
         "BSgenome",
@@ -1269,8 +1263,7 @@
         "TRESS"
     ],
     "mariner": [
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "maser": [
         "BSgenome",
@@ -1348,8 +1341,7 @@
         "GenomicFeatures",
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1507,7 +1499,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiGSEA": [],
@@ -1563,8 +1554,7 @@
         "RCy3"
     ],
     "nearBynding": [
-        "GenomicFeatures",
-        "plyranges"
+        "GenomicFeatures"
     ],
     "netSmooth": [],
     "netZooR": [
@@ -1581,9 +1571,7 @@
     "NoRCE": [
         "GenomicFeatures"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "BSgenome"
     ],
@@ -1599,8 +1587,7 @@
         "VariantAnnotation",
         "bumphunter",
         "dasper",
-        "derfinder",
-        "plyranges"
+        "derfinder"
     ],
     "OGRE": [
         "BSgenome",
@@ -1672,10 +1659,7 @@
         "BSgenome"
     ],
     "PloGO2": [],
-    "plotgardener": [
-        "plyranges"
-    ],
-    "plyranges": [],
+    "plotgardener": [],
     "podkat": [
         "BSgenome"
     ],
@@ -2356,8 +2340,7 @@
         "BSgenome",
         "GenomicFeatures",
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "BSgenome",
