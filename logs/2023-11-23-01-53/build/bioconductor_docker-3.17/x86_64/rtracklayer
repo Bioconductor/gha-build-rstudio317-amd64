@@ -18,7 +18,7 @@ Content type 'application/gzip' length 6021514 bytes (5.7 MB)
 downloaded 5.7 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/data/annotation/src/contrib/hgu133plus2.db_3.13.0.tar.gz'
-Content type 'application/gzip' length 2240377 bytes (2.1 MB)
+Content type 'application/x-gzip' length 2240377 bytes (2.1 MB)
 ==================================================
 downloaded 2.1 MB
 
@@ -183,13 +183,13 @@ packaged installation of ‘humanStemCell’ as ‘humanStemCell_0.40.0_R_x86_64
 * DONE (humanStemCell)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp9yVXoI/downloaded_packages’
+	‘/tmp/Rtmp9sQZL2/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	2m52.658s
-user	1m46.666s
-sys	0m7.487s
+real	1m57.291s
+user	1m44.612s
+sys	0m7.093s
