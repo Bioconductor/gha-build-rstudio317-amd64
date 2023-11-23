@@ -2366,7 +2366,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "TOP": [],
     "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
