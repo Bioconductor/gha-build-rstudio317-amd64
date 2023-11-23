@@ -9,9 +9,7 @@
     ],
     "alabaster.spatial": [],
     "appreci8R": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ATACseqTFEA": [],
     "autonomics": [],
     "bandle": [],
@@ -21,7 +19,6 @@
     "benchdamic": [],
     "BGmix": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BioNAR": [],
@@ -42,7 +39,6 @@
     "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -92,9 +88,7 @@
     "fedup": [
         "RCy3"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "fgga": [],
     "flowCut": [
         "flowDensity"
@@ -110,9 +104,7 @@
     "HiCDCPlus": [],
     "HiCDOC": [],
     "hpar": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "IMAS": [
         "IVAS"
     ],
@@ -121,7 +113,6 @@
     "lisaClust": [
         "spicyR"
     ],
-    "lumi": [],
     "MAGAR": [
         "RnBeads"
     ],
@@ -130,7 +121,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "MetaboSignal": [
@@ -143,9 +133,7 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "miRSM": [
         "miRspongeR"
     ],
@@ -215,7 +203,6 @@
     ],
     "SingleMoleculeFootprinting": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "SomaticSignatures": [],
@@ -236,9 +223,7 @@
     "txcutr": [],
     "vulcan": [],
     "waddR": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "Xeva": [],
     "YAPSA": [
         "SomaticSignatures"
