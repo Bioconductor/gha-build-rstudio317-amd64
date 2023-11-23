@@ -3729,7 +3729,6 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathRender": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
