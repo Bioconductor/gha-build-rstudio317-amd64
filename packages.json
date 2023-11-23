@@ -200,8 +200,7 @@
     "multiGSEA": [],
     "MungeSumstats": [],
     "NADfinder": [
-        "ATACseqQC",
-        "trackViewer"
+        "ATACseqQC"
     ],
     "NCIgraph": [
         "RCy3"
@@ -272,7 +271,6 @@
     "TimiRGeN": [
         "RCy3"
     ],
-    "trackViewer": [],
     "transomics2cytoscape": [
         "RCy3"
     ],
