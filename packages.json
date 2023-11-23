@@ -93,9 +93,7 @@
     "lisaClust": [
         "spicyR"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [],
     "MEAL": [],
     "MEAT": [],
@@ -144,7 +142,6 @@
         "RCy3"
     ],
     "Rmmquant": [],
-    "RnBeads": [],
     "SCATE": [],
     "scRNAseqApp": [],
     "SeqSQC": [],
