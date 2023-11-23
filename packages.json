@@ -2348,7 +2348,6 @@
     "multiHiCcompare": [
         "HiCcompare"
     ],
-    "MultimodalExperiment": [],
     "multiSight": [
         "ReactomePA",
         "biosigner",
