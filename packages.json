@@ -273,7 +273,6 @@
         "ChIPpeakAnno"
     ],
     "Gviz": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -409,9 +408,7 @@
     ],
     "omada": [],
     "OmicsLonDA": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "ORFhunteR": [],
     "pageRank": [],
     "PhIPData": [],
