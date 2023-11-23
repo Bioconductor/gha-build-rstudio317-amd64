@@ -11323,7 +11323,6 @@
         "limma",
         "zlibbioc"
     ],
-    "GeneGA": [],
     "GeneGeneInteR": [
         "BiocGenerics",
         "Biostrings",
