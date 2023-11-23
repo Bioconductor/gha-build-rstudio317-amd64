@@ -261,7 +261,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "apComplex": [],
     "apeglm": [
         "SummarizedExperiment"
     ],
