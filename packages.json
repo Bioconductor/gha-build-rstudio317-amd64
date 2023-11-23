@@ -404,7 +404,6 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [],
     "biosigner": [
         "MultiDataSet",
         "ropls"
