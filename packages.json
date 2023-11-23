@@ -191,7 +191,6 @@
     ],
     "BioNAR": [],
     "BioNERO": [],
-    "biosigner": [],
     "BioTIP": [],
     "biovizBase": [
         "BSgenome",
@@ -1493,9 +1492,7 @@
         "regioneR"
     ],
     "multiGSEA": [],
-    "multiSight": [
-        "biosigner"
-    ],
+    "multiSight": [],
     "mumosa": [],
     "MungeSumstats": [
         "BSgenome",
