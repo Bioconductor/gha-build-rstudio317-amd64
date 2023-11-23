@@ -12840,7 +12840,6 @@
         "plyranges",
         "rtracklayer"
     ],
-    "KBoost": [],
     "KCsmart": [
         "Biobase",
         "multtest",
