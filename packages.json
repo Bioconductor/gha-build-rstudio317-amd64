@@ -19709,7 +19709,6 @@
         "supraHex",
         "zlibbioc"
     ],
-    "NetPathMiner": [],
     "netresponse": [
         "BiocGenerics",
         "Rgraphviz",
