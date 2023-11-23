@@ -84,12 +84,9 @@
         "RCy3"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "CBNplot": [],
     "celda": [],
     "CeTF": [
@@ -496,7 +493,6 @@
         "methylumi"
     ],
     "Rqc": [],
-    "RTCGAToolbox": [],
     "SCATE": [],
     "scmeth": [],
     "scone": [],
