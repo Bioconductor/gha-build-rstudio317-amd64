@@ -9918,7 +9918,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "FitHiC": [],
     "flagme": [
         "Biobase",
         "BiocGenerics",
