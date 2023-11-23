@@ -3204,7 +3204,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [],
     "GeoTcgaData": [
         "SummarizedExperiment"
