@@ -1912,7 +1912,6 @@
         "rtracklayer"
     ],
     "fgga": [],
-    "FilterFFPE": [],
     "FindIT2": [
         "GenomicAlignments",
         "GenomicFeatures",
