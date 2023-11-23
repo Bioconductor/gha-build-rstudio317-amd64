@@ -2544,7 +2544,6 @@
     ],
     "oligoClasses": [],
     "omada": [],
-    "OmaDB": [],
     "omicRexposome": [
         "sva"
     ],
@@ -2655,9 +2654,7 @@
         "Category"
     ],
     "PhIPData": [],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "PICS": [],
     "Pigengene": [
         "ReactomePA",
