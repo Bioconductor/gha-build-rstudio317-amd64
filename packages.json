@@ -120,9 +120,7 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "Cogito": [],
     "comapr": [
         "Gviz"
@@ -342,7 +340,6 @@
         "lumi",
         "methylumi"
     ],
-    "MIRA": [],
     "miRSM": [
         "miRspongeR"
     ],
