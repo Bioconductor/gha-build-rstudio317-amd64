@@ -483,7 +483,6 @@
     "CellMixS": [
         "scater"
     ],
-    "CellTrails": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
