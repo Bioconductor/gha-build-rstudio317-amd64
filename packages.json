@@ -1350,7 +1350,6 @@
         "rtracklayer"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "fedup": [
@@ -2985,7 +2984,6 @@
         "rtracklayer"
     ],
     "sampleClassifier": [],
-    "SC3": [],
     "SCAN.UPC": [
         "oligo",
         "sva"
