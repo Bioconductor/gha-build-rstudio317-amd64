@@ -896,8 +896,7 @@
         "ensembldb"
     ],
     "factR": [
-        "GenomicFeatures",
-        "wiggleplotr"
+        "GenomicFeatures"
     ],
     "famat": [],
     "fCCAC": [
@@ -2385,7 +2384,6 @@
     "wavClusteR": [
         "GenomicFeatures"
     ],
-    "wiggleplotr": [],
     "Xeva": [],
     "XNAString": [
         "BSgenome"
