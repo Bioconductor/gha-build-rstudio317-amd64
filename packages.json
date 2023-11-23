@@ -2888,7 +2888,6 @@
     "geneplotter": [
         "annotate"
     ],
-    "geneRxCluster": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
