@@ -17160,7 +17160,6 @@
         "XVector",
         "fgsea"
     ],
-    "OmnipathR": [],
     "ompBAM": [],
     "oncomix": [
         "Biobase",
@@ -26709,9 +26708,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "Wrench": [
         "limma"
     ],
