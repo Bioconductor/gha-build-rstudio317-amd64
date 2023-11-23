@@ -88,9 +88,7 @@
         "OrganismDbi",
         "VariantAnnotation"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "arrayMvout": [
         "GenomicFeatures",
         "bumphunter",
@@ -464,8 +462,7 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromHeatMap": [],
     "ChromSCape": [
@@ -513,9 +510,7 @@
     ],
     "clusterExperiment": [],
     "clusterProfiler": [],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "CNEr": [],
     "CNVfilteR": [
         "BSgenome",
@@ -665,9 +660,7 @@
         "crisprDesign",
         "ensembldb"
     ],
-    "crossmeta": [
-        "oligo"
-    ],
+    "crossmeta": [],
     "CSSQ": [
         "GenomicFeatures"
     ],
@@ -863,8 +856,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "oligo"
+        "ArrayExpress"
     ],
     "DSS": [
         "BSgenome",
@@ -1088,9 +1080,7 @@
         "GenomicFeatures",
         "OUTRIDER"
     ],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "funtooNorm": [
         "GenomicFeatures",
         "bumphunter",
@@ -1363,9 +1353,7 @@
         "ensembldb",
         "tximeta"
     ],
-    "ITALICS": [
-        "oligo"
-    ],
+    "ITALICS": [],
     "IVAS": [
         "GenomicFeatures"
     ],
@@ -1580,9 +1568,7 @@
         "clusterProfiler"
     ],
     "microSTASIS": [],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "MineICA": [
         "GOstats",
         "GenomicFeatures",
@@ -1826,7 +1812,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [],
     "omada": [],
     "omicRexposome": [],
     "OmicsLonDA": [],
@@ -1875,9 +1860,7 @@
         "GOstats"
     ],
     "PDATK": [],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "peco": [
         "scater"
     ],
@@ -1973,9 +1956,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "BSgenome",
         "GenomicFeatures",
@@ -2277,9 +2258,7 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "SCAN.UPC": [
-        "oligo"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [
         "GenomicFeatures",
         "ensembldb"
