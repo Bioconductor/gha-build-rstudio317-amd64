@@ -255,7 +255,6 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "MAST",
         "TreeSummarizedExperiment",
         "mia",
         "scater",
@@ -502,9 +501,7 @@
     "CCPROMISE": [
         "PROMISE"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -1943,7 +1940,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "MAST": [],
     "mastR": [],
     "MatrixRider": [
         "BSgenome",
@@ -2608,9 +2604,7 @@
         "rtracklayer"
     ],
     "pogos": [],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "pram": [
         "rtracklayer"
     ],
@@ -3346,7 +3340,6 @@
         "DropletUtils",
         "GSVA",
         "GenomicFeatures",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils",
         "batchelor",
