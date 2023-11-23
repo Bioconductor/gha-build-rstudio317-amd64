@@ -757,7 +757,6 @@
     "EDASeq": [
         "GenomicFeatures"
     ],
-    "edge": [],
     "eegc": [],
     "ELMER": [
         "BSgenome",
