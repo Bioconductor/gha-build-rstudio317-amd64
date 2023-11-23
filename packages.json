@@ -120,7 +120,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "arrayQualityMetrics": [],
     "ASICS": [
         "ropls"
     ],
