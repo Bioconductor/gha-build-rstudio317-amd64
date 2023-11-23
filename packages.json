@@ -1737,7 +1737,6 @@
         "XVector"
     ],
     "biocViews": [],
-    "biodbKegg": [],
     "biodbNcbi": [],
     "biomaRt": [
         "AnnotationDbi",
