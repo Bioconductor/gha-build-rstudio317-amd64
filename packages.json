@@ -143,7 +143,6 @@
     ],
     "cytofQC": [],
     "dagLogo": [],
-    "DaMiRseq": [],
     "dasper": [],
     "ddPCRclust": [
         "flowDensity"
@@ -205,9 +204,7 @@
     ],
     "flowDensity": [],
     "GA4GHshiny": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "gcapc": [],
     "geneAttribution": [],
     "GeneStructureTools": [],
