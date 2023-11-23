@@ -1534,7 +1534,6 @@
         "TFBSTools"
     ],
     "MsDataHub": [],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -1548,9 +1547,7 @@
     "msImpute": [],
     "MSPrep": [],
     "msqrob2": [],
-    "MsQuality": [
-        "MsExperiment"
-    ],
+    "MsQuality": [],
     "MultiBaC": [],
     "multicrispr": [
         "BSgenome",
