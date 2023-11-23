@@ -4307,7 +4307,6 @@
         "Ringo",
         "genefilter"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
