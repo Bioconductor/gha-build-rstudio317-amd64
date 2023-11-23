@@ -810,9 +810,7 @@
         "VariantAnnotation"
     ],
     "ORFhunteR": [],
-    "OutSplice": [
-        "Repitools"
-    ],
+    "OutSplice": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -901,7 +899,6 @@
     "REMP": [
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "VariantAnnotation",
         "biovizBase",
