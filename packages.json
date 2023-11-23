@@ -643,7 +643,6 @@
         "bsseq"
     ],
     "EDASeq": [],
-    "eegc": [],
     "ELMER": [
         "BSgenome",
         "Gviz",
