@@ -16554,8 +16554,7 @@
         "Rgraphviz",
         "S4Vectors",
         "XVector",
-        "graph",
-        "supraHex"
+        "graph"
     ],
     "netresponse": [
         "Rgraphviz",
@@ -18110,8 +18109,7 @@
         "Rgraphviz",
         "S4Vectors",
         "XVector",
-        "graph",
-        "supraHex"
+        "graph"
     ],
     "piano": [
         "Biobase",
@@ -19437,8 +19435,7 @@
     ],
     "RandomWalkRestartMH": [
         "Rgraphviz",
-        "graph",
-        "supraHex"
+        "graph"
     ],
     "randPack": [
         "Biobase"
@@ -24569,7 +24566,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "supraHex": [],
     "surfaltr": [
         "AnnotationDbi",
         "Biobase",
