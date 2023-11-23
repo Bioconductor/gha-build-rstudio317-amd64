@@ -310,7 +310,6 @@
     "casper": [
         "GenomicFeatures"
     ],
-    "CATALYST": [],
     "categoryCompare": [
         "RCy3"
     ],
@@ -602,9 +601,7 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cytofQC": [
-        "CATALYST"
-    ],
+    "cytofQC": [],
     "cytomapper": [
         "SpatialExperiment"
     ],
