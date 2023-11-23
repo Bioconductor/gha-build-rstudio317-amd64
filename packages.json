@@ -3467,7 +3467,6 @@
         "DelayedArray",
         "flowClust",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -3523,7 +3522,6 @@
     "CytoML": [
         "DelayedArray",
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -3646,7 +3644,6 @@
     "ddPCRclust": [
         "DelayedArray",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -5278,26 +5275,21 @@
         "scuttle"
     ],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowClust": [],
     "flowCut": [
         "DelayedArray",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowDensity": [
         "DelayedArray",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowGate": [
         "DelayedArray",
         "flowWorkspace",
@@ -5311,19 +5303,15 @@
     "flowSpecs": [],
     "flowStats": [
         "DelayedArray",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "DelayedArray",
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
@@ -5463,8 +5451,7 @@
         "sva"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "Biostrings",
@@ -9666,7 +9653,6 @@
     "openCyto": [
         "DelayedArray",
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ncdfFlow"
     ],
