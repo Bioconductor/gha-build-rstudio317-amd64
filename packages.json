@@ -21448,7 +21448,6 @@
         "XVector",
         "limma"
     ],
-    "savR": [],
     "SBGNview": [
         "AnnotationDbi",
         "Biobase",
