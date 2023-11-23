@@ -1097,7 +1097,6 @@
         "NCIgraph",
         "RCy3"
     ],
-    "DEGreport": [],
     "DELocal": [],
     "DeMixT": [
         "BSgenome",
@@ -1980,9 +1979,7 @@
         "sva",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "oligoClasses"
