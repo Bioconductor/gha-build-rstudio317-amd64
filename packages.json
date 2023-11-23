@@ -1694,7 +1694,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [],
     "SparseSignatures": [
         "BSgenome"
     ],
