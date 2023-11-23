@@ -203,8 +203,7 @@
     ],
     "apeglm": [],
     "APL": [
-        "SingleCellExperiment",
-        "topGO"
+        "SingleCellExperiment"
     ],
     "appreci8R": [
         "BSgenome",
@@ -425,9 +424,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "BGmix": [],
     "BicARE": [
         "GSEABase"
@@ -476,9 +473,7 @@
         "GSEABase"
     ],
     "BiocSklearn": [],
-    "BioMM": [
-        "topGO"
-    ],
+    "BioMM": [],
     "BioNAR": [],
     "BioNERO": [
         "genefilter",
@@ -792,9 +787,7 @@
         "scater",
         "scuttle"
     ],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "CellMixS": [
         "SingleCellExperiment",
         "scater",
@@ -1163,8 +1156,7 @@
         "biovizBase",
         "ensembldb",
         "methylPipe",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "condiments": [
         "SingleCellExperiment",
@@ -1194,9 +1186,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicAlignments",
@@ -1760,8 +1750,7 @@
         "PADOG",
         "SingleCellExperiment",
         "globaltest",
-        "safe",
-        "topGO"
+        "safe"
     ],
     "eisaR": [],
     "ELMER": [
@@ -2119,9 +2108,7 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "FoldGO": [
-        "topGO"
-    ],
+    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "DESeq2",
@@ -2359,9 +2346,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2385,8 +2370,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "GreyListChIP": [
         "BSgenome",
@@ -2590,8 +2574,7 @@
         "genefilter",
         "goseq",
         "pcaExplorer",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "IdeoViz": [
         "GenomicAlignments",
@@ -3296,9 +3279,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "MsFeatures",
         "xcms"
@@ -3666,9 +3647,7 @@
     ],
     "oligoClasses": [],
     "omada": [],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
@@ -3800,8 +3779,7 @@
         "DESeq2",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "topGO"
+        "genefilter"
     ],
     "PDATK": [
         "CoreGx",
@@ -3856,8 +3834,7 @@
     "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "PICS": [
         "GenomicAlignments"
@@ -4029,8 +4006,7 @@
         "QFeatures"
     ],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "puma": [
         "oligo",
@@ -4393,8 +4369,7 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "ensembldb",
-        "rtracklayer",
-        "topGO"
+        "rtracklayer"
     ],
     "RJMCMCNucleosomes": [
         "GenomicAlignments",
@@ -5438,7 +5413,6 @@
         "MultiAssayExperiment",
         "genefilter"
     ],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment"
@@ -5463,9 +5437,7 @@
     "TrajectoryUtils": [
         "SingleCellExperiment"
     ],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5478,8 +5450,7 @@
         "glmGamPoi"
     ],
     "tRanslatome": [
-        "DESeq2",
-        "topGO"
+        "DESeq2"
     ],
     "transomics2cytoscape": [
         "RCy3"
@@ -5668,8 +5639,7 @@
         "DESeq2"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
-        "topGO"
+        "AnnotationForge"
     ],
     "vissE": [
         "ExperimentHub",
