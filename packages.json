@@ -40,13 +40,10 @@
         "derfinderPlot"
     ],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [],
     "CAGEr": [
-        "CAGEfightR",
-        "GenomicInteractions"
+        "CAGEfightR"
     ],
     "canceR": [],
     "casper": [],
@@ -137,9 +134,7 @@
     "epivizrStandalone": [],
     "esATAC": [],
     "ExperimentHubData": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "factR": [],
     "fedup": [
         "RCy3"
@@ -157,16 +152,13 @@
     "gcapc": [],
     "geneAttribution": [],
     "GeneStructureTools": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GEOexplorer": [],
     "gmoviz": [],
     "GUIDEseq": [
         "CRISPRseek"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [],
     "hpar": [],
     "HTSeqGenie": [],
@@ -311,9 +303,7 @@
         "wateRmelon"
     ],
     "SomaticSignatures": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "spicyR": [],
     "SPLINTER": [],
     "Statial": [],
