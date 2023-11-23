@@ -18,7 +18,7 @@ Content type 'application/gzip' length 788179 bytes (769 KB)
 downloaded 769 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/seqLogo_1.66.0.tar.gz'
-Content type 'application/x-gzip' length 906177 bytes (884 KB)
+Content type 'application/gzip' length 906177 bytes (884 KB)
 ==================================================
 downloaded 884 KB
 
@@ -59,13 +59,13 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.28.1_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpWqx4oW/downloaded_packages’
+	‘/tmp/Rtmp6BbHkv/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m11.472s
-user	0m5.385s
-sys	0m2.075s
+real	0m14.549s
+user	0m5.487s
+sys	0m2.117s
