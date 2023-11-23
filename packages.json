@@ -42,8 +42,7 @@
         "rtracklayer"
     ],
     "airpart": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "alabaster": [
         "BSgenome",
@@ -53,13 +52,11 @@
         "VariantAnnotation",
         "alabaster.spatial",
         "alabaster.vcf",
-        "rtracklayer",
-        "scuttle"
+        "rtracklayer"
     ],
     "alabaster.spatial": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "alabaster.vcf": [
         "BSgenome",
@@ -85,8 +82,7 @@
     ],
     "ANCOMBC": [
         "mia",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "AneuFinder": [],
     "annmap": [],
@@ -214,25 +210,20 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "BasicSTARRseq": [],
-    "batchelor": [
-        "scuttle"
-    ],
+    "batchelor": [],
     "BatchQC": [
         "sva"
     ],
     "BayesSpace": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "BBCAnalyzer": [
         "BSgenome",
@@ -252,7 +243,6 @@
         "ANCOMBC",
         "mia",
         "scater",
-        "scuttle",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -298,8 +288,7 @@
         "ropls"
     ],
     "BioTIP": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "biovizBase": [
         "BSgenome",
@@ -462,8 +451,7 @@
         "rtracklayer"
     ],
     "CATALYST": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "Category": [],
     "categoryCompare": [
@@ -495,8 +483,7 @@
     "celaref": [],
     "celda": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "CellBarcode": [
         "ShortRead"
@@ -505,12 +492,10 @@
         "Category"
     ],
     "CelliD": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "CellMixS": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "CellTrails": [],
     "CEMiTool": [
@@ -627,8 +612,7 @@
         "batchelor",
         "rtracklayer",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "chromstaR": [],
     "chromswitch": [
@@ -664,8 +648,7 @@
         "rtracklayer"
     ],
     "CiteFuse": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "ClassifyR": [],
     "cleanUpdTSeq": [
@@ -778,7 +761,6 @@
     "condiments": [
         "distinct",
         "scater",
-        "scuttle",
         "slingshot"
     ],
     "consensusDE": [
@@ -897,8 +879,7 @@
     "CTdata": [],
     "CTSV": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "cummeRbund": [
         "BSgenome",
@@ -920,19 +901,16 @@
     ],
     "cytofQC": [
         "CATALYST",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "cytomapper": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "cytoviewer": [
         "DropletUtils",
         "SpatialExperiment",
-        "cytomapper",
-        "scuttle"
+        "cytomapper"
     ],
     "dada2": [
         "ShortRead"
@@ -1039,8 +1017,7 @@
     ],
     "DESpace": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "DExMA": [
         "sva"
@@ -1064,12 +1041,10 @@
         "rtracklayer"
     ],
     "Dino": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "distinct": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "DMCFB": [
         "rtracklayer"
@@ -1131,9 +1106,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "DropletUtils": [
-        "scuttle"
-    ],
+    "DropletUtils": [],
     "drugTargetInteractions": [
         "GenomicFeatures",
         "ensembldb",
@@ -1317,8 +1290,7 @@
         "DropletUtils",
         "SpatialExperiment",
         "rtracklayer",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "EventPointer": [
         "BSgenome",
@@ -1342,8 +1314,7 @@
     ],
     "ExperimentSubset": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "extraChIPs": [
         "BSgenome",
@@ -1418,8 +1389,7 @@
         "ggbio",
         "rtracklayer",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "flowCut": [
         "flowDensity"
@@ -1553,8 +1523,7 @@
     ],
     "ggspavis": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "girafe": [
         "ShortRead"
@@ -1741,8 +1710,7 @@
     "imcRtools": [
         "DropletUtils",
         "SpatialExperiment",
-        "cytomapper",
-        "scuttle"
+        "cytomapper"
     ],
     "InPAS": [
         "BSgenome",
@@ -1789,8 +1757,7 @@
         "clusterProfiler",
         "enrichplot",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "iSEEhex": [],
     "iSEEhub": [],
@@ -1852,7 +1819,6 @@
         "ClassifyR",
         "DropletUtils",
         "SpatialExperiment",
-        "scuttle",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -1956,8 +1922,7 @@
         "wateRmelon"
     ],
     "MEB": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "MEDIPS": [
         "BSgenome",
@@ -2072,20 +2037,17 @@
         "rtracklayer"
     ],
     "mia": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "miaSim": [],
     "miaViz": [
         "mia",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
         "mia",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -2172,8 +2134,7 @@
     "mogsa": [],
     "MoleculeExperiment": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "monaLisa": [
         "BSgenome",
@@ -2235,8 +2196,7 @@
         "rtracklayer"
     ],
     "msImpute": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "MSPrep": [
         "sva"
@@ -2274,8 +2234,7 @@
     ],
     "mumosa": [
         "batchelor",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "MungeSumstats": [
         "BSgenome",
@@ -2284,8 +2243,7 @@
         "rtracklayer"
     ],
     "muscat": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "musicatk": [
         "BSgenome",
@@ -2344,7 +2302,6 @@
     "netSmooth": [
         "clusterExperiment",
         "scater",
-        "scuttle",
         "zinbwave"
     ],
     "netZooR": [
@@ -2360,8 +2317,7 @@
     ],
     "nnSVG": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "NoRCE": [
         "GenomicFeatures",
@@ -2492,8 +2448,7 @@
     ],
     "PECA": [],
     "peco": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "periodicDNA": [
         "BSgenome",
@@ -2533,8 +2488,7 @@
     ],
     "pipeComp": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "pipeFrame": [
         "BSgenome",
@@ -3051,15 +3005,12 @@
     ],
     "SCArray.sat": [],
     "SCATE": [],
-    "scater": [
-        "scuttle"
-    ],
+    "scater": [],
     "scBFA": [
         "zinbwave"
     ],
     "scCB2": [
-        "DropletUtils",
-        "scuttle"
+        "DropletUtils"
     ],
     "scClassify": [
         "Cepo"
@@ -3067,12 +3018,10 @@
     "scDblFinder": [
         "rtracklayer",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scDD": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scFeatures": [
         "AUCell",
@@ -3083,16 +3032,14 @@
         "SpatialExperiment",
         "ensembldb",
         "rtracklayer",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scGPS": [],
     "schex": [],
     "scMerge": [
         "batchelor",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scmeth": [
         "BSgenome",
@@ -3124,12 +3071,9 @@
     ],
     "scPipe": [
         "DropletUtils",
-        "rtracklayer",
-        "scuttle"
+        "rtracklayer"
     ],
-    "scran": [
-        "scuttle"
-    ],
+    "scran": [],
     "scRepertoire": [],
     "scRNAseqApp": [
         "rtracklayer",
@@ -3166,13 +3110,10 @@
         "epivizrData",
         "rtracklayer",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "scuttle": [],
     "scviR": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -3264,13 +3205,11 @@
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
-        "cytomapper",
-        "scuttle"
+        "cytomapper"
     ],
     "single": [],
     "SingleCellSignalR": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "singleCellTK": [
         "DropletUtils",
@@ -3285,7 +3224,6 @@
         "scMerge",
         "scater",
         "scran",
-        "scuttle",
         "sva",
         "zellkonverter",
         "zinbwave"
@@ -3350,8 +3288,7 @@
     "Spaniel": [
         "DropletUtils",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "sparrow": [],
     "SparseSignatures": [
@@ -3360,27 +3297,22 @@
     ],
     "spaSim": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "spatialDE": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "SpatialExperiment": [
-        "DropletUtils",
-        "scuttle"
+        "DropletUtils"
     ],
     "SpatialFeatureExperiment": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "spatialHeatmap": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "spatzie": [
         "BSgenome",
@@ -3399,22 +3331,18 @@
     "SpectralTAD": [],
     "SPIAT": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "spicyR": [
         "ClassifyR",
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "spiky": [
         "BSgenome",
         "rtracklayer"
     ],
-    "splatter": [
-        "scuttle"
-    ],
+    "splatter": [],
     "SpliceWiz": [
         "BSgenome",
         "rtracklayer"
@@ -3435,8 +3363,7 @@
     ],
     "SpotClean": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "SPOTlight": [],
     "SPsimSeq": [],
@@ -3447,8 +3374,7 @@
         "RUVSeq",
         "ShortRead",
         "SpatialExperiment",
-        "rtracklayer",
-        "scuttle"
+        "rtracklayer"
     ],
     "staRank": [
         "Category",
@@ -3457,13 +3383,11 @@
     "StarBioTrek": [],
     "Statial": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "stJoincount": [
         "DropletUtils",
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "strandCheckR": [
         "GenomicFeatures",
@@ -3610,8 +3534,7 @@
         "rtracklayer"
     ],
     "tricycle": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "trigger": [
         "sva"
@@ -3674,8 +3597,7 @@
         "rtracklayer"
     ],
     "VAExprs": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -3719,15 +3641,13 @@
         "rtracklayer"
     ],
     "velociraptor": [
-        "scuttle",
         "zellkonverter"
     ],
     "vissE": [],
     "Voyager": [
         "DropletUtils",
         "SpatialExperiment",
-        "SpatialFeatureExperiment",
-        "scuttle"
+        "SpatialFeatureExperiment"
     ],
     "VplotR": [],
     "vtpnet": [
