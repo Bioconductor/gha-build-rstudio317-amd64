@@ -11356,7 +11356,6 @@
     "ggtreeExtra": [
         "ggtree"
     ],
-    "GIGSEA": [],
     "girafe": [
         "Biobase",
         "BiocGenerics",
