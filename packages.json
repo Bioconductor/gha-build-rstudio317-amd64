@@ -3948,10 +3948,7 @@
     ],
     "flowDensity": [],
     "flowGate": [],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "FoldGO": [
         "AnnotationDbi",
         "KEGGREST",
