@@ -44,13 +44,13 @@ packaged installation of ‘motifmatchr’ as ‘motifmatchr_1.22.0_R_x86_64-pc-
 * DONE (motifmatchr)
 
 The downloaded source packages are in
-	‘/tmp/RtmpyuQJgY/downloaded_packages’
+	‘/tmp/RtmpfUx6g9/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m48.733s
-user	0m41.707s
-sys	0m3.519s
+real	0m51.280s
+user	0m42.462s
+sys	0m3.760s
