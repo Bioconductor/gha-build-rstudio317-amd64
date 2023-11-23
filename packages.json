@@ -23,7 +23,6 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "airpart": [],
     "alabaster": [
         "BSgenome",
         "VariantAnnotation",
