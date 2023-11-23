@@ -939,16 +939,16 @@ packaged installation of ‘caret’ as ‘caret_6.0-94_R_x86_64-pc-linux-gnu.ta
 * DONE (caret)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPt5ttj/downloaded_packages’
+	‘/tmp/RtmpUAqYUu/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	2m15.300s
-user	1m10.764s
-sys	0m19.302s
+real	1m53.752s
+user	1m12.347s
+sys	0m19.046s
 * installing *binary* package ‘lmtest’ ...
 * ‘lmtest’ was already a binary package and will not be rebuilt
 * creating tarball
