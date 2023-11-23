@@ -4432,7 +4432,6 @@
         "BiocGenerics",
         "S4Vectors"
     ],
-    "cellmigRation": [],
     "CellMixS": [
         "Biobase",
         "BiocGenerics",
