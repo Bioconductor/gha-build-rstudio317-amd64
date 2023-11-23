@@ -105,16 +105,16 @@ packaged installation of ‘GSEABenchmarkeR’ as ‘GSEABenchmarkeR_1.20.1_R_x8
 * DONE (GSEABenchmarkeR)
 
 The downloaded source packages are in
-	‘/tmp/RtmpQDYUIy/downloaded_packages’
+	‘/tmp/RtmpmdYcQV/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m17.474s
-user	0m51.507s
-sys	0m7.569s
+real	3m14.008s
+user	0m51.239s
+sys	0m8.149s
 * installing *source* package ‘GSE62944’ ...
 ** using staged installation
 ** inst
