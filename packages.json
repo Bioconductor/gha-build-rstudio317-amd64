@@ -1339,7 +1339,6 @@
         "scater",
         "scuttle"
     ],
-    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
