@@ -96,12 +96,10 @@
     "circRNAprofiler": [],
     "cliProfiler": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "COCOA": [],
     "Cogito": [],
@@ -116,9 +114,7 @@
     ],
     "consensusDE": [],
     "contiBAIT": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "cpvSNP": [],
     "crisprBwa": [],
     "CRISPRseek": [],
@@ -232,7 +228,6 @@
     "IntEREst": [],
     "IsoformSwitchAnalyzeR": [],
     "IVAS": [],
-    "karyoploteR": [],
     "kissDE": [],
     "lisaClust": [
         "spicyR"
@@ -298,8 +293,7 @@
     ],
     "MsQuality": [],
     "multicrispr": [
-        "CRISPRseek",
-        "karyoploteR"
+        "CRISPRseek"
     ],
     "multiGSEA": [],
     "MungeSumstats": [],
@@ -365,9 +359,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
         "derfinder",
