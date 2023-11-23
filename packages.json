@@ -277,7 +277,6 @@
     ],
     "GEOexplorer": [],
     "ggbio": [],
-    "gmapR": [],
     "gmoviz": [],
     "GRaNIE": [],
     "GUIDEseq": [
@@ -293,8 +292,7 @@
     "HiCDOC": [],
     "hpar": [],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "iCheck": [
         "lumi",
@@ -380,8 +378,7 @@
     "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
-        "gmapR"
+        "ensemblVEP"
     ],
     "MOGAMUN": [
         "RCy3"
