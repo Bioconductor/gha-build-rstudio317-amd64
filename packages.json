@@ -2245,7 +2245,6 @@
     "TCGAutils": [
         "GenomicFeatures"
     ],
-    "TDbasedUFEadv": [],
     "terraTCGAdata": [
         "GenomicFeatures",
         "TCGAutils"
