@@ -1400,7 +1400,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GeneMeta": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicFeatures",
@@ -3529,9 +3528,7 @@
     "wiggleplotr": [
         "rtracklayer"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
