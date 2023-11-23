@@ -72,7 +72,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "annotatr",
-        "bsseq",
         "dmrseq"
     ],
     "BOBaFIT": [
@@ -80,8 +79,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -90,7 +88,6 @@
         "derfinderPlot",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "biovizBase"
     ],
@@ -141,7 +138,6 @@
         "DSS",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "lumi",
         "methylumi",
         "missMethyl",
@@ -184,8 +180,7 @@
     ],
     "CNVrd2": [],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "Cogito": [],
     "comapr": [
@@ -268,8 +263,7 @@
         "RCy3"
     ],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "derfinder": [
         "GenomicFiles"
@@ -290,7 +284,6 @@
         "DSS",
         "Gviz",
         "biovizBase",
-        "bsseq",
         "methylumi",
         "missMethyl"
     ],
@@ -299,15 +292,12 @@
         "biovizBase"
     ],
     "dmrseq": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "DominoEffect": [],
     "doubletrouble": [],
     "drugTargetInteractions": [],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "ELMER": [
         "Gviz",
         "biovizBase"
@@ -456,8 +446,7 @@
     ],
     "katdetectr": [],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "lineagespot": [],
     "lisaClust": [
@@ -503,9 +492,7 @@
     ],
     "methrix": [],
     "MethylAid": [],
-    "methylCC": [
-        "bsseq"
-    ],
+    "methylCC": [],
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData"
@@ -519,8 +506,7 @@
         "biovizBase"
     ],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [],
     "microbiomeMarker": [],
@@ -529,9 +515,7 @@
         "methylumi"
     ],
     "MinimumDistance": [],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRSM": [
         "miRspongeR"
     ],
@@ -585,9 +569,7 @@
         "motifStack",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NCIgraph": [
         "RCy3"
     ],
@@ -742,8 +724,7 @@
     "SCATE": [],
     "scFeatures": [],
     "scmeth": [
-        "annotatr",
-        "bsseq"
+        "annotatr"
     ],
     "scone": [
         "RUVSeq"
