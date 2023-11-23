@@ -1173,7 +1173,6 @@
         "ggbio"
     ],
     "SparseSignatures": [],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1276,9 +1275,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [
         "VariantAnnotation",
         "gwascat"
