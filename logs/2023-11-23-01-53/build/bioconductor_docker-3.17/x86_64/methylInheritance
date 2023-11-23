@@ -121,13 +121,13 @@ packaged installation of ‘methylInheritance’ as ‘methylInheritance_1.24.0_
 * DONE (methylInheritance)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp7NWoN5/downloaded_packages’
+	‘/tmp/Rtmpu0uWQI/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m4.831s
-user	0m49.243s
-sys	0m5.333s
+real	1m6.752s
+user	0m47.033s
+sys	0m4.969s
