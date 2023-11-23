@@ -405,9 +405,7 @@
     "IntEREst": [
         "GenomicFiles"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "IVAS": [],
     "karyoploteR": [
         "biovizBase"
@@ -761,7 +759,6 @@
         "ensemblVEP"
     ],
     "txcutr": [],
-    "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
