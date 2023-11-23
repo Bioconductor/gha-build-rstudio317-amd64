@@ -43,9 +43,7 @@
         "ensembldb"
     ],
     "alpine": [],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "AnnotationHubData": [
         "OrganismDbi"
     ],
@@ -130,8 +128,7 @@
         "PhIPData"
     ],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "BgeeCall": [],
     "BGmix": [],
@@ -1119,13 +1116,9 @@
         "bumphunter",
         "minfi"
     ],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "mimager": [],
     "MineICA": [
