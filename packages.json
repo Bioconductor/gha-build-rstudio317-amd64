@@ -350,7 +350,6 @@
     "lumi": [
         "methylumi"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
         "methylumi"
