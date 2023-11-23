@@ -2864,7 +2864,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "COTAN": [],
     "countsimQC": [
         "AnnotationDbi",
         "Biostrings",
