@@ -3222,7 +3222,6 @@
         "RCy3",
         "clusterProfiler"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [
         "BSgenome",
         "GenomicFeatures",
