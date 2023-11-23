@@ -2475,7 +2475,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "RegEnrich": [],
     "regioneR": [
         "BSgenome",
         "rtracklayer"
