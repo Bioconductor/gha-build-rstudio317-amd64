@@ -163,7 +163,6 @@
         "BASiCS",
         "scran"
     ],
-    "batchelor": [],
     "BatchQC": [],
     "BayesSpace": [
         "scater",
@@ -459,7 +458,6 @@
     ],
     "ChromHeatMap": [],
     "ChromSCape": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -1691,7 +1689,6 @@
         "clusterProfiler"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -2268,7 +2265,6 @@
         "scran"
     ],
     "scMerge": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -2397,7 +2393,6 @@
         "DropletUtils",
         "GenomicFeatures",
         "TSCAN",
-        "batchelor",
         "celda",
         "ensembldb",
         "scDblFinder",
