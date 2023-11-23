@@ -2684,7 +2684,6 @@
         "GenomicFeatures",
         "ORFik"
     ],
-    "TFutils": [],
     "TimiRGeN": [
         "RCy3",
         "clusterProfiler"
