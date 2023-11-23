@@ -261,7 +261,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BioCor": [],
     "BioNAR": [],
     "BioNERO": [
         "sva"
