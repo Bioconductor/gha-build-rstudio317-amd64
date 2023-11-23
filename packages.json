@@ -319,7 +319,6 @@
     ],
     "Pviz": [],
     "quantro": [],
-    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -377,9 +376,7 @@
     "singleCellTK": [
         "celda"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "methylumi",
