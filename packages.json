@@ -2044,7 +2044,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "gemma.R": [],
     "genbankr": [
         "BSgenome",
         "GenomicAlignments",
