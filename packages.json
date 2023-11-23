@@ -1586,7 +1586,6 @@
     "SCATE": [],
     "scDblFinder": [],
     "scFeatures": [
-        "SingleCellSignalR",
         "ensembldb"
     ],
     "scMerge": [],
@@ -1665,7 +1664,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "celda",
         "ensembldb",
