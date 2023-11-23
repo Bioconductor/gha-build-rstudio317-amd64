@@ -1584,7 +1584,6 @@
         "ensembldb"
     ],
     "SCATE": [],
-    "scDblFinder": [],
     "scFeatures": [
         "ensembldb"
     ],
@@ -1667,7 +1666,6 @@
     "singleCellTK": [
         "celda",
         "ensembldb",
-        "scDblFinder",
         "scMerge"
     ],
     "SingleMoleculeFootprinting": [
