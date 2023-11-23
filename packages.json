@@ -246,7 +246,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -4391,9 +4390,7 @@
         "GenomicRanges",
         "Rsamtools"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "heatmaps": [
         "GenomicRanges"
     ],
