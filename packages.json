@@ -3217,7 +3217,6 @@
         "scater",
         "scran",
         "sva",
-        "zellkonverter",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -3629,9 +3628,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "vissE": [],
     "Voyager": [
         "DropletUtils",
@@ -3703,7 +3700,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser"
     ],
