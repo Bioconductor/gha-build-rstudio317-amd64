@@ -1585,7 +1585,6 @@
     ],
     "SCATE": [],
     "scDblFinder": [],
-    "scDD": [],
     "scFeatures": [
         "SingleCellSignalR",
         "ensembldb"
