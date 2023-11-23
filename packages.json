@@ -10758,7 +10758,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metapone": [],
     "metaSeq": [],
     "MetaVolcanoR": [
         "multtest"
