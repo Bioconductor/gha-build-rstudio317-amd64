@@ -134,9 +134,7 @@
     "CeTF": [
         "RCy3"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
@@ -323,9 +321,7 @@
     ],
     "ensemblVEP": [],
     "epialleleR": [],
-    "EpiCompare": [
-        "genomation"
-    ],
+    "EpiCompare": [],
     "epigraHMM": [],
     "EpiMix": [],
     "epimutacions": [
@@ -358,9 +354,7 @@
         "biovizBase"
     ],
     "factR": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcScan": [],
     "fedup": [
         "RCy3"
@@ -393,7 +387,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "genomation": [],
     "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
@@ -661,9 +654,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RareVariantVis": [],
-    "RCAS": [
-        "genomation"
-    ],
+    "RCAS": [],
     "RCy3": [],
     "recount": [
         "GenomicFiles",
