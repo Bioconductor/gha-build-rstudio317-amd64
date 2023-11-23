@@ -3463,8 +3463,7 @@
         "DelayedArray",
         "flowClust",
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "cydar": [
         "DelayedArray",
@@ -3520,15 +3519,13 @@
         "flowClust",
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "CytoPipeline": [
         "DelayedArray",
         "PeacoQC",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "cytoviewer": [
         "DelayedArray",
@@ -3640,8 +3637,7 @@
     "ddPCRclust": [
         "DelayedArray",
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "debCAM": [
         "DelayedArray",
@@ -5277,20 +5273,17 @@
     "flowCut": [
         "DelayedArray",
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowDensity": [
         "DelayedArray",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowFP": [],
     "flowGate": [
         "DelayedArray",
         "flowWorkspace",
-        "ggcyto",
-        "ncdfFlow"
+        "ggcyto"
     ],
     "flowMerge": [
         "flowClust"
@@ -5298,8 +5291,7 @@
     "FlowSOM": [],
     "flowStats": [
         "DelayedArray",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTrans": [
         "flowClust"
@@ -5307,12 +5299,10 @@
     "flowVS": [
         "DelayedArray",
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowWorkspace": [
-        "DelayedArray",
-        "ncdfFlow"
+        "DelayedArray"
     ],
     "FoldGO": [
         "AnnotationDbi",
@@ -5869,8 +5859,7 @@
     ],
     "ggcyto": [
         "DelayedArray",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [
         "Biostrings",
@@ -6761,8 +6750,7 @@
     ],
     "ImmuneSpaceR": [
         "DelayedArray",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "infercnv": [
         "DelayedArray",
@@ -9205,7 +9193,6 @@
         "annotate",
         "genefilter"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9648,8 +9635,7 @@
     "openCyto": [
         "DelayedArray",
         "flowClust",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "openPrimeR": [
         "Biostrings",
@@ -9982,8 +9968,7 @@
     ],
     "PeacoQC": [
         "DelayedArray",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase"
