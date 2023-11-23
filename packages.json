@@ -2128,8 +2128,7 @@
         "geNetClassifier",
         "ggtree",
         "graph",
-        "graphite",
-        "minet"
+        "graphite"
     ],
     "BiocCheck": [
         "Biobase",
@@ -2359,7 +2358,6 @@
         "edgeR",
         "genefilter",
         "limma",
-        "minet",
         "sva"
     ],
     "BioNet": [
@@ -2658,7 +2656,6 @@
         "genefilter",
         "graph",
         "limma",
-        "minet",
         "mnem",
         "sva",
         "vsn"
@@ -2956,9 +2953,7 @@
         "IRanges",
         "S4Vectors"
     ],
-    "BUS": [
-        "minet"
-    ],
+    "BUS": [],
     "BUScorrect": [
         "Biobase",
         "DelayedArray",
@@ -3115,7 +3110,6 @@
         "ggbio",
         "graph",
         "limma",
-        "minet",
         "rtracklayer",
         "sva"
     ],
@@ -3198,7 +3192,6 @@
         "graph",
         "hopach",
         "limma",
-        "minet",
         "phenoTest"
     ],
     "cancerclass": [
@@ -6439,7 +6432,6 @@
         "graph",
         "graphite",
         "limma",
-        "minet",
         "mnem",
         "multtest"
     ],
@@ -8303,7 +8295,6 @@
         "Rgraphviz",
         "graph",
         "limma",
-        "minet",
         "mnem"
     ],
     "epistack": [
@@ -9997,8 +9988,7 @@
     ],
     "geNetClassifier": [
         "Biobase",
-        "EBarrays",
-        "minet"
+        "EBarrays"
     ],
     "GeneTonic": [
         "AnnotationDbi",
@@ -14780,7 +14770,6 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "minet": [],
     "minfi": [
         "AnnotationDbi",
         "Biobase",
@@ -16541,7 +16530,6 @@
         "epiNEM",
         "graph",
         "limma",
-        "minet",
         "mnem"
     ],
     "NetActivity": [
@@ -16598,13 +16586,11 @@
         "S4Vectors",
         "XVector",
         "graph",
-        "minet",
         "supraHex"
     ],
     "netresponse": [
         "Rgraphviz",
-        "graph",
-        "minet"
+        "graph"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -21257,7 +21243,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "minet",
         "viper"
     ],
     "RTNduals": [
@@ -21272,7 +21257,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "minet",
         "viper"
     ],
     "RTNsurvival": [
@@ -21288,7 +21272,6 @@
         "SummarizedExperiment",
         "XVector",
         "limma",
-        "minet",
         "viper"
     ],
     "RTopper": [
