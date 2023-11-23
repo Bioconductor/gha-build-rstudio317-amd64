@@ -11580,7 +11580,6 @@
         "edgeR",
         "limma"
     ],
-    "HGC": [],
     "hiAnnotator": [
         "BSgenome",
         "Biobase",
