@@ -219,8 +219,7 @@
     "benchdamic": [
         "ANCOMBC",
         "mia",
-        "scater",
-        "zinbwave"
+        "scater"
     ],
     "BgeeCall": [
         "GenomicFeatures",
@@ -603,9 +602,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [],
     "cn.farms": [
         "oligo"
@@ -2106,8 +2103,7 @@
     ],
     "netSmooth": [
         "clusterExperiment",
-        "scater",
-        "zinbwave"
+        "scater"
     ],
     "netZooR": [
         "GOstats",
@@ -2734,9 +2730,7 @@
     "SCArray.sat": [],
     "SCATE": [],
     "scater": [],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [
         "DropletUtils"
     ],
@@ -2923,8 +2917,7 @@
         "scMerge",
         "scater",
         "scran",
-        "sva",
-        "zinbwave"
+        "sva"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -3367,7 +3360,6 @@
         "rtracklayer"
     ],
     "zenith": [],
-    "zinbwave": [],
     "ZygosityPredictor": [
         "BSgenome",
         "GenomicFeatures",
