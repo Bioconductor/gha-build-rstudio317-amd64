@@ -29,9 +29,7 @@
     "BioNAR": [],
     "biscuiteer": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAFE": [],
     "CAGEfightR": [],
     "cageminer": [],
@@ -93,7 +91,6 @@
         "NCIgraph",
         "RCy3"
     ],
-    "derfinderPlot": [],
     "distinct": [],
     "DMRcate": [
         "missMethyl"
