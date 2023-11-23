@@ -9016,7 +9016,6 @@
     ],
     "EMDomics": [],
     "EmpiricalBrownsMethod": [],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
