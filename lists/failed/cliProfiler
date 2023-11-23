@@ -1,0 +1,26 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''cliProfiler'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/latest
+Bioconductor version 3.17 (BiocManager 1.30.22), R 4.3.1 (2023-06-16)
+Installing package(s) 'cliProfiler'
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/cliProfiler_1.6.0.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/cliProfiler_1.6.0.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/cliProfiler_1.6.0.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘cliProfiler’ failed
+Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
+  'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
+  'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
+  'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
+  'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
+
+real	1m5.161s
+user	0m1.785s
+sys	0m0.436s
