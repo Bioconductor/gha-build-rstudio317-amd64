@@ -433,7 +433,6 @@
     "multiGSEA": [],
     "MungeSumstats": [],
     "musicatk": [],
-    "MutationalPatterns": [],
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
@@ -518,9 +517,7 @@
     "ReportingTools": [
         "ggbio"
     ],
-    "RESOLVE": [
-        "MutationalPatterns"
-    ],
+    "RESOLVE": [],
     "RgnTX": [],
     "RiboProfiling": [
         "ggbio"
