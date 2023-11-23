@@ -5172,7 +5172,6 @@
     "transomics2cytoscape": [
         "RCy3"
     ],
-    "TransView": [],
     "traseR": [
         "BSgenome",
         "GenomicAlignments",
