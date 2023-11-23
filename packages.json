@@ -584,7 +584,6 @@
         "biovizBase"
     ],
     "HiCDOC": [],
-    "HiLDA": [],
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
@@ -1070,9 +1069,7 @@
         "epivizrData"
     ],
     "segmenter": [],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
