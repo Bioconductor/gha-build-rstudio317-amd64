@@ -4150,7 +4150,6 @@
     "restfulSE": [
         "ExperimentHub"
     ],
-    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "GenomicAlignments",
