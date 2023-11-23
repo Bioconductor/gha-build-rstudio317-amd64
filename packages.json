@@ -101,7 +101,6 @@
     "doubletrouble": [],
     "EpiMix": [],
     "epivizrStandalone": [],
-    "ExperimentHubData": [],
     "extraChIPs": [],
     "factR": [],
     "fedup": [
@@ -158,9 +157,7 @@
     "MetaPhOR": [
         "RCy3"
     ],
-    "methylclock": [
-        "ExperimentHubData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
