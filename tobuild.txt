@@ -1,7 +1,0 @@
-CNORode
-CNORdt
-KCsmart
-trio
-CNORfeeder
-CIMICE
-CNORfuzzy
