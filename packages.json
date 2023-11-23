@@ -11460,7 +11460,6 @@
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -11468,7 +11467,6 @@
         "MSnbase",
         "MSstatsQC",
         "MsCoreUtils",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -13759,7 +13757,6 @@
         "annotate",
         "genefilter"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "CGHcall",
