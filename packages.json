@@ -371,7 +371,6 @@
     "CBNplot": [
         "clusterProfiler"
     ],
-    "CCPROMISE": [],
     "celda": [
         "scater",
         "scran"
