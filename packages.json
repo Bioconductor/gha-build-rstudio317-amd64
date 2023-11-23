@@ -3306,7 +3306,6 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowGate": [],
     "FoldGO": [
         "AnnotationDbi",
         "topGO"
