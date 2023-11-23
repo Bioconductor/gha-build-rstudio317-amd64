@@ -174,7 +174,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [],
     "BaalChIP": [],
     "BadRegionFinder": [
@@ -2623,9 +2622,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "RCy3": [],
     "ReactomePA": [
         "enrichplot"
@@ -2963,7 +2960,6 @@
         "scran"
     ],
     "scFeatures": [
-        "AUCell",
         "DropletUtils",
         "GSVA",
         "GenomicFeatures",
