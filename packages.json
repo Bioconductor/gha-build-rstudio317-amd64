@@ -8256,8 +8256,7 @@
         "SummarizedExperiment",
         "beachmat",
         "scater",
-        "scuttle",
-        "variancePartition"
+        "scuttle"
     ],
     "muscle": [
         "Biostrings"
@@ -13492,7 +13491,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "variancePartition": [],
     "VariantAnnotation": [
         "AnnotationDbi",
         "BSgenome",
@@ -13874,8 +13872,7 @@
         "annotate",
         "graphite",
         "pathview",
-        "safe",
-        "variancePartition"
+        "safe"
     ],
     "zFPKM": [
         "DelayedArray",
