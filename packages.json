@@ -2974,7 +2974,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "SIM": [],
     "SimBindProfiles": [],
     "simpleSeg": [
         "DropletUtils",
