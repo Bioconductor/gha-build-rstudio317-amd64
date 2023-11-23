@@ -17422,7 +17422,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "tweeDEseq": [],
     "txcutr": [
         "AnnotationDbi",
         "Biostrings",
