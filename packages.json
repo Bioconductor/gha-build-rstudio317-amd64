@@ -11324,7 +11324,6 @@
         "XVector",
         "ggtree"
     ],
-    "GGPA": [],
     "ggspavis": [
         "Biobase",
         "BiocFileCache",
