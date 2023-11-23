@@ -2786,7 +2786,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "DelayedTensor": [],
     "DELocal": [
         "DESeq2",
         "GenomicRanges",
