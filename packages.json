@@ -16241,7 +16241,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "sscore": [],
     "sscu": [
         "Biostrings",
         "GenomeInfoDb",
