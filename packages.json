@@ -954,7 +954,6 @@
     "cyanoFilter": [
         "flowDensity"
     ],
-    "cydar": [],
     "cytofQC": [
         "CATALYST",
         "scater",
