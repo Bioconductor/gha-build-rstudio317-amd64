@@ -1266,7 +1266,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "fishpond": [],
     "flagme": [],
     "FLAMES": [
         "BSgenome",
