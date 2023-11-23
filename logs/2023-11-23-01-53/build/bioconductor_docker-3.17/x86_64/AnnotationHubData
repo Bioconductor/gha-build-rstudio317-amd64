@@ -51,16 +51,16 @@ packaged installation of ‘AnnotationHubData’ as ‘AnnotationHubData_1.30.0_
 * DONE (AnnotationHubData)
 
 The downloaded source packages are in
-	‘/tmp/RtmpNCTat1/downloaded_packages’
+	‘/tmp/RtmpbgwEau/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m43.188s
-user	0m34.725s
-sys	0m3.566s
+real	0m45.493s
+user	0m34.830s
+sys	0m3.399s
 * installing *binary* package ‘tzdb’ ...
 * ‘tzdb’ was already a binary package and will not be rebuilt
 * creating tarball
