@@ -8030,7 +8030,6 @@
         "IRanges",
         "XVector"
     ],
-    "GenProSeq": [],
     "GenVisR": [
         "AnnotationDbi",
         "BSgenome",
