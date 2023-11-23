@@ -398,7 +398,7 @@ Content type 'application/x-gzip' length 78182157 bytes (74.6 MB)
 downloaded 74.6 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/limma_3.56.2.tar.gz'
-Content type 'application/x-gzip' length 1515291 bytes (1.4 MB)
+Content type 'application/gzip' length 1515291 bytes (1.4 MB)
 ==================================================
 downloaded 1.4 MB
 
@@ -922,13 +922,13 @@ packaged installation of ‘fgsea’ as ‘fgsea_1.26.0_R_x86_64-pc-linux-gnu.ta
 * DONE (fgsea)
 
 The downloaded source packages are in
-	‘/tmp/RtmpHil87W/downloaded_packages’
+	‘/tmp/RtmpSvzd1t/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	14m33.034s
-user	13m40.732s
-sys	0m30.764s
+real	15m17.789s
+user	14m4.666s
+sys	0m34.196s
