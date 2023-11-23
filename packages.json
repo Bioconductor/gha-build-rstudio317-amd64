@@ -3861,7 +3861,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn"
     ],
     "CelliD": [
@@ -11238,7 +11237,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn"
     ],
     "getDEE2": [
@@ -22543,7 +22541,6 @@
         "geneplotter",
         "graph",
         "limma",
-        "splots",
         "vsn"
     ],
     "RNAmodR": [
@@ -26213,7 +26210,6 @@
         "rtracklayer",
         "seqLogo"
     ],
-    "splots": [],
     "SPONGE": [
         "AnnotationDbi",
         "Biobase",
@@ -26452,7 +26448,6 @@
         "genefilter",
         "graph",
         "limma",
-        "splots",
         "vsn"
     ],
     "StarBioTrek": [
