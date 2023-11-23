@@ -171,26 +171,19 @@
     "pipeComp": [],
     "primirTSS": [],
     "proBAMr": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "R3CPET": [],
     "RCy3": [],
-    "recount": [],
     "recoup": [],
     "regutools": [
         "RCy3"
     ],
     "RiboProfiling": [],
     "Rmmquant": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "SCATE": [],
     "scRNAseqApp": [],
