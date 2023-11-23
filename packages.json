@@ -9729,7 +9729,6 @@
         "rtracklayer",
         "seqPattern"
     ],
-    "fCI": [],
     "fcoex": [
         "AnnotationDbi",
         "Biobase",
