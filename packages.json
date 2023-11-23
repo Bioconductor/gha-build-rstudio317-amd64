@@ -14822,10 +14822,7 @@
         "rhdf5filters",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -21075,8 +21072,7 @@
     ],
     "PLPE": [
         "Biobase",
-        "BiocGenerics",
-        "LPE"
+        "BiocGenerics"
     ],
     "plyranges": [
         "Biobase",
