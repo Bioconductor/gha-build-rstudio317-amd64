@@ -2122,7 +2122,6 @@
         "ggbio"
     ],
     "scTensor": [],
-    "scTGIF": [],
     "scTreeViz": [
         "GenomicFeatures",
         "OrganismDbi",
