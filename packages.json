@@ -6,9 +6,7 @@
     "a4Base": [
         "genefilter"
     ],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "genefilter",
         "snapCGH",
@@ -487,7 +485,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "OrganismDbi",
-        "QDNAseq",
         "VariantAnnotation",
         "annotatr",
         "bsseq",
@@ -2137,9 +2134,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [],
     "GeneMeta": [
         "genefilter"
@@ -3928,7 +3923,6 @@
         "ExperimentHub",
         "genefilter"
     ],
-    "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment"
     ],
