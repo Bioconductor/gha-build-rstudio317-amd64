@@ -2265,7 +2265,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Repitools",
-        "Ringo",
         "rtracklayer"
     ],
     "PAA": [
@@ -2575,7 +2574,6 @@
     ],
     "Repitools": [
         "BSgenome",
-        "Ringo",
         "rtracklayer"
     ],
     "ReportingTools": [
@@ -2660,7 +2658,6 @@
     "rifiComparative": [
         "rtracklayer"
     ],
-    "Ringo": [],
     "RIPAT": [
         "BSgenome",
         "GenomicFeatures",
@@ -2992,9 +2989,7 @@
         "rtracklayer"
     ],
     "SIM": [],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
