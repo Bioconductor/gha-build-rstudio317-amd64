@@ -35,9 +35,7 @@
     ],
     "BindingSiteFinder": [],
     "BioNAR": [],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "BOBaFIT": [],
     "borealis": [],
     "brainflowprobes": [
@@ -135,7 +133,6 @@
         "missMethyl"
     ],
     "DMRforPairs": [],
-    "dmrseq": [],
     "doubletrouble": [],
     "ELMER": [],
     "enhancerHomologSearch": [],
