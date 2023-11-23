@@ -321,7 +321,6 @@
         "distinct"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq",
         "ensembldb"
     ],
@@ -399,9 +398,7 @@
     "DAMEfinder": [
         "VariantAnnotation"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "dasper": [],
     "ddPCRclust": [
         "flowDensity"
@@ -485,7 +482,6 @@
     "DSS": [
         "bsseq"
     ],
-    "EDASeq": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -612,8 +608,7 @@
         "VariantAnnotation"
     ],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "gcapc": [],
     "genbankr": [
@@ -982,7 +977,6 @@
     "nullranges": [],
     "NxtIRFcore": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1149,7 +1143,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1221,9 +1214,7 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "scanMiRApp": [
         "ensembldb"
     ],
@@ -1237,7 +1228,6 @@
         "regioneR"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -1338,7 +1328,6 @@
     ],
     "SpotClean": [],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "Statial": [],
