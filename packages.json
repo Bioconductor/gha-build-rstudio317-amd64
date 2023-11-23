@@ -23595,7 +23595,6 @@
     "subSeq": [
         "Biobase"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [
         "Biobase",
         "DelayedArray",
