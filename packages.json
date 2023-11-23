@@ -2732,7 +2732,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "sampleClassifier": [],
     "SCAN.UPC": [
         "oligo",
         "sva"
