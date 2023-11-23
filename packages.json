@@ -7418,7 +7418,6 @@
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
-    "MsBackendSql": [],
     "MsDataHub": [
         "AnnotationDbi",
         "AnnotationHub",
