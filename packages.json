@@ -2323,7 +2323,6 @@
     ],
     "phenoTest": [],
     "PhIPData": [],
-    "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler"
