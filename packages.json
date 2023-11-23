@@ -8392,7 +8392,6 @@
         "BiocGenerics",
         "DESeq2",
         "DelayedArray",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -8582,7 +8581,6 @@
         "rtracklayer"
     ],
     "EMDomics": [],
-    "EmpiricalBrownsMethod": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
@@ -17740,7 +17738,6 @@
         "ChIPpeakAnno",
         "DelayedArray",
         "DirichletMultinomial",
-        "EmpiricalBrownsMethod",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
