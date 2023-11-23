@@ -60,19 +60,14 @@
     "ChIPXpress": [],
     "ChromSCape": [],
     "cliProfiler": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "Cogito": [],
     "coMethDMR": [],
     "compEpiTools": [],
     "condiments": [
         "distinct"
     ],
-    "CopyNumberPlots": [],
     "cpvSNP": [],
     "crisprBwa": [],
     "CRISPRseek": [],
