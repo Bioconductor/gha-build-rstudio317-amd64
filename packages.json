@@ -1745,7 +1745,6 @@
         "BSgenome"
     ],
     "PFP": [],
-    "PharmacoGx": [],
     "phenomis": [],
     "phenoTest": [],
     "PhIPData": [],
@@ -2598,9 +2597,7 @@
     ],
     "wiggleplotr": [],
     "XDE": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [
         "BSgenome"
     ],
