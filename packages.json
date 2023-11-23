@@ -788,7 +788,6 @@
     "gcapc": [
         "BSgenome"
     ],
-    "GDCRNATools": [],
     "genbankr": [
         "BSgenome",
         "VariantAnnotation"
