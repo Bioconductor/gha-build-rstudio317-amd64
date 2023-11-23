@@ -1907,7 +1907,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "GDCRNATools": [
         "DOSE",
         "clusterProfiler",
