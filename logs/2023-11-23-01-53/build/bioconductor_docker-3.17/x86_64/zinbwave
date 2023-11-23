@@ -41,13 +41,13 @@ packaged installation of ‘zinbwave’ as ‘zinbwave_1.22.0_R_x86_64-pc-linux-
 * DONE (zinbwave)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp4jCBhu/downloaded_packages’
+	‘/tmp/Rtmpxg4hoa/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m26.709s
-user	0m21.835s
-sys	0m2.321s
+real	0m28.134s
+user	0m22.319s
+sys	0m2.259s
