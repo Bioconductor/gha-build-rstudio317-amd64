@@ -28,16 +28,12 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACCoGAPS": [
-        "motifmatchr"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -230,13 +226,9 @@
     "ELMER": [
         "Gviz"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
-    "enrichTF": [
-        "motifmatchr"
-    ],
+    "enrichTF": [],
     "ensemblVEP": [],
     "EpiCompare": [],
     "EpiMix": [],
@@ -249,9 +241,7 @@
         "epivizr"
     ],
     "erma": [],
-    "esATAC": [
-        "motifmatchr"
-    ],
+    "esATAC": [],
     "ExperimentHubData": [
         "AnnotationHubData"
     ],
@@ -412,7 +402,6 @@
         "Gviz",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MsDataHub": [],
     "msgbsR": [
@@ -459,9 +448,7 @@
     ],
     "ORFhunteR": [],
     "OutSplice": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PhIPData": [],
     "PING": [
         "Gviz"
@@ -586,8 +573,7 @@
     ],
     "spatzie": [
         "GenomicInteractions",
-        "Gviz",
-        "motifmatchr"
+        "Gviz"
     ],
     "spicyR": [],
     "SPLINTER": [
