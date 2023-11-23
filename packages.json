@@ -2837,7 +2837,6 @@
         "RBGL",
         "Rgraphviz"
     ],
-    "CellScore": [],
     "CellTrails": [
         "DelayedArray",
         "GenomeInfoDb",
