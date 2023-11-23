@@ -827,7 +827,6 @@
         "VariantAnnotation"
     ],
     "ORFhunteR": [],
-    "ORFik": [],
     "OutSplice": [
         "Repitools"
     ],
@@ -936,9 +935,7 @@
     "RgnTX": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboProfiling": [
         "VariantAnnotation",
         "biovizBase",
@@ -1111,9 +1108,7 @@
     "terraTCGAdata": [],
     "TFBSTools": [],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "TimiRGeN": [
         "RCy3"
     ],
