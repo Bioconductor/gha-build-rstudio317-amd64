@@ -1164,7 +1164,6 @@
         "minfi"
     ],
     "Xeva": [],
-    "XNAString": [],
     "YAPSA": [
         "SomaticSignatures",
         "VariantAnnotation",
