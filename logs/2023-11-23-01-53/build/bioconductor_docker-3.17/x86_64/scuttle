@@ -3624,13 +3624,13 @@ packaged installation of ‘scran’ as ‘scran_1.28.2_R_x86_64-pc-linux-gnu.ta
 * DONE (scran)
 
 The downloaded source packages are in
-	‘/tmp/RtmpbqHzDa/downloaded_packages’
+	‘/tmp/RtmpqxJ4T3/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	5m40.076s
-user	5m7.590s
-sys	0m27.323s
+real	5m34.375s
+user	5m2.073s
+sys	0m27.114s
