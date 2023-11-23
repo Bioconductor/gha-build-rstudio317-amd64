@@ -1925,9 +1925,7 @@
         "Category"
     ],
     "Metab": [],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
@@ -2170,9 +2168,7 @@
         "rtracklayer"
     ],
     "MsDataHub": [],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2191,12 +2187,9 @@
     "MSPrep": [
         "sva"
     ],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "MsQuality": [
-        "MsExperiment",
-        "QFeatures"
+        "MsExperiment"
     ],
     "MultiBaC": [
         "ropls"
@@ -2571,9 +2564,7 @@
         "recount",
         "rtracklayer"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [],
     "puma": [
         "oligo"
@@ -2594,7 +2585,6 @@
         "rtracklayer"
     ],
     "pwrEWAS": [],
-    "QFeatures": [],
     "qpgraph": [
         "GenomicFeatures",
         "rtracklayer"
@@ -3048,9 +3038,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "DropletUtils",
         "rtracklayer"
