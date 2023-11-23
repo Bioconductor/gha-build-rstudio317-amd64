@@ -8354,7 +8354,6 @@
         "fgsea",
         "ggtree"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "Biobase",
