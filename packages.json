@@ -12785,7 +12785,6 @@
         "KEGGREST",
         "XVector"
     ],
-    "RcwlPipelines": [],
     "RCy3": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -13138,9 +13137,7 @@
         "XVector",
         "rhdf5client"
     ],
-    "ReUseData": [
-        "RcwlPipelines"
-    ],
+    "ReUseData": [],
     "rexposome": [],
     "rfaRm": [
         "Biostrings",
