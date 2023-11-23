@@ -2887,7 +2887,6 @@
     ],
     "proteasy": [
         "GenomicFeatures",
-        "Rcpi",
         "ensembldb",
         "rtracklayer"
     ],
@@ -3010,7 +3009,6 @@
         "AUCell",
         "GSEABase"
     ],
-    "Rcpi": [],
     "RCy3": [],
     "ReactomePA": [
         "DOSE",
