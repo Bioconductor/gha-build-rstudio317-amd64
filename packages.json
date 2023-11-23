@@ -803,8 +803,7 @@
     "MEDIPS": [],
     "MetaboSignal": [
         "ensembldb",
-        "hpar",
-        "mygene"
+        "hpar"
     ],
     "metagene": [
         "ensembldb"
@@ -932,7 +931,6 @@
     "MutationalPatterns": [
         "VariantAnnotation"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
