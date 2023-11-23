@@ -10156,7 +10156,6 @@
         "biomaRt"
     ],
     "lapmix": [],
-    "ldblock": [],
     "lefser": [
         "DelayedArray",
         "GenomeInfoDb",
