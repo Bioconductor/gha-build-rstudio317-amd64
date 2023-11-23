@@ -4678,7 +4678,6 @@
         "cytomapper",
         "scuttle"
     ],
-    "IMMAN": [],
     "infercnv": [
         "GenomicRanges",
         "SingleCellExperiment",
