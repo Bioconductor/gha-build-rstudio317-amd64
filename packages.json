@@ -832,8 +832,7 @@
         "mia",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "AneuFinder": [
         "Biobase",
@@ -2101,7 +2100,6 @@
         "scater",
         "scuttle",
         "sparseMatrixStats",
-        "treeio",
         "zinbwave"
     ],
     "BG2": [],
@@ -2303,8 +2301,7 @@
         "ggtree",
         "graph",
         "graphite",
-        "minet",
-        "treeio"
+        "minet"
     ],
     "BiocCheck": [
         "Biobase",
@@ -3519,8 +3516,7 @@
         "biomaRt",
         "ggtree",
         "rtracklayer",
-        "snpStats",
-        "treeio"
+        "snpStats"
     ],
     "Cardinal": [
         "Biobase",
@@ -3671,8 +3667,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "XVector",
-        "treeio"
+        "XVector"
     ],
     "cBioPortalData": [
         "AnnotationDbi",
@@ -3723,8 +3718,7 @@
         "ggtree",
         "graph",
         "graphite",
-        "interactiveDisplayBase",
-        "treeio"
+        "interactiveDisplayBase"
     ],
     "cbpManager": [
         "basilisk",
@@ -3993,8 +3987,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "censcyt": [
         "Biobase",
@@ -4065,8 +4058,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "snpStats",
-        "treeio"
+        "snpStats"
     ],
     "CexoR": [
         "BSgenome",
@@ -4473,8 +4465,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "rtracklayer",
-        "treeio"
+        "rtracklayer"
     ],
     "chipseq": [
         "Biobase",
@@ -5021,8 +5012,7 @@
         "XVector",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "clusterStab": [
         "Biobase",
@@ -5407,8 +5397,7 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Cogito": [
         "AnnotationDbi",
@@ -7066,8 +7055,7 @@
         "graph",
         "limma",
         "pathview",
-        "sva",
-        "treeio"
+        "sva"
     ],
     "DECIPHER": [
         "BiocGenerics",
@@ -8366,8 +8354,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "easyreporting": [],
     "easyRNASeq": [
@@ -8503,8 +8490,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "limma",
-        "treeio"
+        "limma"
     ],
     "EGAD": [
         "Biobase",
@@ -8723,8 +8709,7 @@
         "S4Vectors",
         "XVector",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "enrichTF": [
         "AnnotationDbi",
@@ -8758,8 +8743,7 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "seqLogo",
-        "treeio"
+        "seqLogo"
     ],
     "ensembldb": [
         "AnnotationDbi",
@@ -8869,8 +8853,7 @@
         "ggtree",
         "interactiveDisplayBase",
         "rtracklayer",
-        "seqPattern",
-        "treeio"
+        "seqPattern"
     ],
     "epidecodeR": [
         "Biobase",
@@ -9266,8 +9249,7 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "seqLogo",
-        "treeio"
+        "seqLogo"
     ],
     "escape": [
         "AnnotationDbi",
@@ -9432,8 +9414,7 @@
         "ggtree",
         "interactiveDisplayBase",
         "limma",
-        "orthogene",
-        "treeio"
+        "orthogene"
     ],
     "ExCluster": [
         "Biobase",
@@ -9568,8 +9549,7 @@
         "rhdf5",
         "rhdf5filters",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "ExploreModelMatrix": [
         "BiocGenerics",
@@ -9675,8 +9655,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "farms": [
         "Biobase",
@@ -9779,8 +9758,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "pathwayPCA",
-        "treeio"
+        "pathwayPCA"
     ],
     "fcScan": [
         "AnnotationDbi",
@@ -10633,8 +10611,7 @@
         "ggtree",
         "graph",
         "limma",
-        "pathview",
-        "treeio"
+        "pathview"
     ],
     "GDSArray": [
         "BiocGenerics",
@@ -11395,8 +11372,7 @@
         "R4RNA",
         "S4Vectors",
         "XVector",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GGPA": [],
     "ggspavis": [
@@ -11424,16 +11400,12 @@
         "scuttle",
         "sparseMatrixStats"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "GIGSEA": [],
     "girafe": [
@@ -11754,8 +11726,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "goProfiles",
-        "treeio"
+        "goProfiles"
     ],
     "goSTAG": [
         "AnnotationDbi",
@@ -13448,8 +13419,7 @@
         "scater",
         "scran",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "iSEE": [
         "Biobase",
@@ -13933,8 +13903,7 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "lionessR": [
         "Biobase",
@@ -14154,8 +14123,7 @@
         "S4Vectors",
         "XVector",
         "ggtree",
-        "msa",
-        "treeio"
+        "msa"
     ],
     "m6Aboost": [
         "AnnotationDbi",
@@ -14346,8 +14314,7 @@
         "ggtree",
         "graph",
         "interactiveDisplayBase",
-        "pathview",
-        "treeio"
+        "pathview"
     ],
     "magpie": [
         "AnnotationDbi",
@@ -15004,8 +14971,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "interactiveDisplayBase",
-        "treeio"
+        "interactiveDisplayBase"
     ],
     "meshr": [
         "AnnotationDbi",
@@ -15269,8 +15235,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
-        "treeio"
+        "graph"
     ],
     "metapone": [
         "fgsea"
@@ -15544,8 +15509,7 @@
         "rhdf5filters",
         "rtracklayer",
         "siggenes",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "methylInheritance": [
         "Biobase",
@@ -15806,8 +15770,7 @@
         "dir.expiry",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "miaSim": [
         "Biobase",
@@ -15822,8 +15785,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "XVector",
-        "treeio"
+        "XVector"
     ],
     "miaViz": [
         "Biobase",
@@ -15856,8 +15818,7 @@
         "mia",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "MiChip": [
         "Biobase",
@@ -15957,8 +15918,7 @@
         "rhdf5filters",
         "scater",
         "scuttle",
-        "sparseMatrixStats",
-        "treeio"
+        "sparseMatrixStats"
     ],
     "MicrobiomeProfiler": [
         "AnnotationDbi",
@@ -15975,8 +15935,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "MicrobiotaProcess": [
         "Biobase",
@@ -15991,8 +15950,7 @@
         "SummarizedExperiment",
         "XVector",
         "ggtree",
-        "ggtreeExtra",
-        "treeio"
+        "ggtreeExtra"
     ],
     "microRNA": [
         "BiocGenerics",
@@ -16015,8 +15973,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "XVector",
-        "treeio"
+        "XVector"
     ],
     "midasHLA": [
         "Biobase",
@@ -16353,8 +16310,7 @@
         "miRBaseConverter",
         "miRspongeR",
         "multtest",
-        "rqubic",
-        "treeio"
+        "rqubic"
     ],
     "miRspongeR": [
         "AnnotationDbi",
@@ -16379,8 +16335,7 @@
         "ggtree",
         "graph",
         "graphite",
-        "miRBaseConverter",
-        "treeio"
+        "miRBaseConverter"
     ],
     "missMethyl": [
         "AnnotationDbi",
@@ -16765,8 +16720,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "limma",
-        "treeio"
+        "limma"
     ],
     "mosaics": [
         "Biobase",
@@ -17568,8 +17522,7 @@
         "limma",
         "mixOmics",
         "multtest",
-        "ropls",
-        "treeio"
+        "ropls"
     ],
     "multtest": [
         "Biobase",
@@ -19008,8 +18961,7 @@
         "IRanges",
         "S4Arrays",
         "S4Vectors",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Oscope": [],
     "OTUbase": [
@@ -19274,8 +19226,7 @@
         "ggtree",
         "graph",
         "limma",
-        "multtest",
-        "treeio"
+        "multtest"
     ],
     "panp": [
         "Biobase",
@@ -19598,8 +19549,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "graph",
-        "treeio"
+        "graph"
     ],
     "phantasus": [
         "AnnotationDbi",
@@ -19718,8 +19668,7 @@
         "graph"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhIPData": [
         "Biobase",
@@ -19836,8 +19785,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "graphite",
-        "treeio"
+        "graphite"
     ],
     "PING": [
         "AnnotationDbi",
@@ -20365,8 +20313,7 @@
         "ggtree",
         "rGREAT",
         "rtracklayer",
-        "soGGi",
-        "treeio"
+        "soGGi"
     ],
     "profileScoreDist": [
         "BiocGenerics"
@@ -21484,8 +21431,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "graphite",
-        "treeio"
+        "graphite"
     ],
     "ReadqPCR": [
         "Biobase",
@@ -23664,8 +23610,7 @@
         "zinbwave"
     ],
     "scBubbletree": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [
         "Biobase",
@@ -24371,8 +24316,7 @@
         "graphite",
         "interactiveDisplayBase",
         "meshr",
-        "schex",
-        "treeio"
+        "schex"
     ],
     "scTGIF": [
         "AnnotationDbi",
@@ -24540,8 +24484,7 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "rtracklayer",
-        "treeio"
+        "rtracklayer"
     ],
     "selectKSigs": [
         "AnnotationDbi",
@@ -24646,8 +24589,7 @@
         "heatmaps",
         "rtracklayer",
         "seqArchR",
-        "seqPattern",
-        "treeio"
+        "seqPattern"
     ],
     "SeqArray": [
         "BiocGenerics",
@@ -25089,8 +25031,7 @@
         "graph",
         "interactiveDisplayBase",
         "rhdf5",
-        "rhdf5filters",
-        "treeio"
+        "rhdf5filters"
     ],
     "signeR": [
         "AnnotationDbi",
@@ -25424,7 +25365,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "treeio",
         "tximport",
         "zellkonverter",
         "zinbwave"
@@ -25562,8 +25502,7 @@
         "rtracklayer"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "AnnotationDbi",
@@ -27067,8 +27006,7 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TADCompare": [
         "Biobase",
@@ -27087,8 +27025,7 @@
         "rhdf5filters"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [
         "AnnotationDbi",
@@ -27252,7 +27189,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "treeio",
         "tximport"
     ],
     "TEKRABber": [
@@ -27560,8 +27496,7 @@
         "fgsea",
         "ggtree",
         "graph",
-        "tkWidgets",
-        "treeio"
+        "tkWidgets"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -28014,7 +27949,6 @@
         "slingshot"
     ],
     "TreeAndLeaf": [],
-    "treeio": [],
     "treekoR": [
         "Biobase",
         "BiocGenerics",
@@ -28037,8 +27971,7 @@
         "flowCore",
         "ggtree",
         "hopach",
-        "limma",
-        "treeio"
+        "limma"
     ],
     "TreeSummarizedExperiment": [
         "Biobase",
@@ -28052,8 +27985,7 @@
         "S4Vectors",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "treeio"
+        "XVector"
     ],
     "TREG": [
         "Biobase",
