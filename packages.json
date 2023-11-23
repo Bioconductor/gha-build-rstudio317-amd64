@@ -5034,9 +5034,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "LymphoSeq": [
-        "msa"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -6015,7 +6013,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "msa": [],
     "MSA2dist": [
         "GenomicRanges"
     ],
@@ -6506,9 +6503,7 @@
         "plyranges",
         "rtracklayer"
     ],
-    "odseq": [
-        "msa"
-    ],
+    "odseq": [],
     "OGRE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -9454,8 +9449,7 @@
     ],
     "surfaltr": [
         "AnnotationDbi",
-        "biomaRt",
-        "msa"
+        "biomaRt"
     ],
     "survtype": [
         "GenomicRanges",
