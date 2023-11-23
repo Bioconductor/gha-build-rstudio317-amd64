@@ -1372,7 +1372,6 @@
     "qsea": [
         "BSgenome"
     ],
-    "qsmooth": [],
     "quantro": [
         "bumphunter",
         "minfi"
