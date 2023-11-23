@@ -11130,7 +11130,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "MIMOSA": [],
     "MineICA": [
         "AnnotationDbi",
         "AnnotationForge",
