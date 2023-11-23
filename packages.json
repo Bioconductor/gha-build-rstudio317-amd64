@@ -1,10 +1,7 @@
 {
     "ADaCGH2": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AHMassBank": [],
@@ -230,7 +227,6 @@
     "regutools": [
         "RCy3"
     ],
-    "ReportingTools": [],
     "RiboProfiling": [],
     "RIPAT": [],
     "Rmmquant": [],
