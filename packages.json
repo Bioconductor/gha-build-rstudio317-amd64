@@ -450,7 +450,6 @@
     "cliProfiler": [
         "BSgenome"
     ],
-    "clusterExperiment": [],
     "cn.farms": [],
     "CNEr": [],
     "CNVfilteR": [
@@ -1593,9 +1592,7 @@
         "GenomicFeatures",
         "plyranges"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "GenomicFeatures",
         "RCy3",
