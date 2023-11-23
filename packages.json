@@ -4690,7 +4690,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "GenomicAlignments",
         "Rsamtools",
