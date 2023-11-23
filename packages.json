@@ -1,8 +1,7 @@
 {
     "a4": [],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "affycoretools": [
         "BSgenome",
@@ -2965,9 +2964,7 @@
         "goseq",
         "rtracklayer"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "SNPhood": [
         "BSgenome",
         "GenomicFeatures",
@@ -3153,7 +3150,6 @@
         "rtracklayer"
     ],
     "TFutils": [],
-    "tilingArray": [],
     "TimiRGeN": [
         "RCy3",
         "clusterProfiler"
