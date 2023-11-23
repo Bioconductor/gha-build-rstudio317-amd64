@@ -1385,7 +1385,6 @@
     "MEDIPS": [
         "BSgenome"
     ],
-    "meshes": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "GenomicFeatures",
