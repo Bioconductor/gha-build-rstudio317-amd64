@@ -1540,7 +1540,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "microSTASIS": [],
     "mimager": [],
     "MineICA": [
         "GenomicFeatures",
