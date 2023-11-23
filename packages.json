@@ -232,7 +232,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -696,7 +695,6 @@
         "VariantAnnotation"
     ],
     "gmoviz": [],
-    "goseq": [],
     "GOTHiC": [],
     "GRaNIE": [
         "ensembldb"
@@ -757,9 +755,7 @@
     "iCNV": [
         "CODEX"
     ],
-    "ideal": [
-        "goseq"
-    ],
+    "ideal": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -1209,9 +1205,7 @@
         "regioneR"
     ],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -1396,9 +1390,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
