@@ -288,13 +288,13 @@ packaged installation of ‘ShortRead’ as ‘ShortRead_1.58.0_R_x86_64-pc-linu
 * DONE (ShortRead)
 
 The downloaded source packages are in
-	‘/tmp/RtmpUBlOUf/downloaded_packages’
+	‘/tmp/Rtmp5lme3L/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m25.534s
-user	1m12.591s
-sys	0m8.459s
+real	1m27.768s
+user	1m13.327s
+sys	0m8.346s
