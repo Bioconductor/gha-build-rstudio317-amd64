@@ -419,7 +419,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -1329,9 +1328,7 @@
         "rtracklayer"
     ],
     "fishpond": [],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "BSgenome",
         "DropletUtils",
@@ -1692,9 +1689,7 @@
     "IONiseR": [
         "ShortRead"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "clusterProfiler",
         "enrichplot",
@@ -1762,9 +1757,7 @@
         "SpatialExperiment",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "lumi": [
         "GenomicFeatures",
         "bumphunter",
@@ -1800,9 +1793,7 @@
         "TRESS",
         "rtracklayer"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "mariner": [
         "plotgardener",
         "plyranges",
@@ -1890,9 +1881,7 @@
     "metagene2": [
         "rtracklayer"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "RCy3",
         "clusterProfiler",
