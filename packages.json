@@ -174,9 +174,7 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "clipper": [],
     "cliProfiler": [],
     "CNVfilteR": [
@@ -732,7 +730,6 @@
         "MutationalPatterns"
     ],
     "RgnTX": [],
-    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
