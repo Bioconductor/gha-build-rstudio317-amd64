@@ -1061,7 +1061,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "destiny": [],
     "DExMA": [
         "sva"
     ],
@@ -2560,9 +2559,7 @@
     "PharmacoGx": [
         "CoreGx"
     ],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "phenomis": [
         "ropls"
     ],
