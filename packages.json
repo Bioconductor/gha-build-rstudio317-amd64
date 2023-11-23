@@ -798,7 +798,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "CoreGx": [],
     "coseq": [],
     "cosmiq": [],
     "cosmosR": [],
@@ -2433,9 +2432,7 @@
         "Category",
         "GOstats"
     ],
-    "PDATK": [
-        "CoreGx"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [
         "oligo"
     ],
@@ -2451,9 +2448,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phemd": [],
     "phenomis": [
         "ropls"
@@ -2650,9 +2645,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "ramwas": [],
     "RareVariantVis": [
         "BSgenome",
@@ -3475,9 +3468,7 @@
     "TOP": [
         "ClassifyR"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
@@ -3669,7 +3660,6 @@
         "GeneMeta"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
