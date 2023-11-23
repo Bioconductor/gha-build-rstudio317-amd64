@@ -297,7 +297,6 @@
     "nearBynding": [],
     "netZooR": [
         "RCy3",
-        "quantro",
         "yarn"
     ],
     "ODER": [
@@ -318,7 +317,6 @@
         "recount"
     ],
     "Pviz": [],
-    "quantro": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -424,7 +422,5 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ]
+    "yarn": []
 }
