@@ -334,7 +334,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "MLInterfaces",
         "genefilter",
@@ -1570,7 +1569,6 @@
     "diffcoexp": [],
     "diffcyt": [],
     "DifferentialRegulation": [
-        "BANDITS",
         "SingleCellExperiment"
     ],
     "diffHic": [
