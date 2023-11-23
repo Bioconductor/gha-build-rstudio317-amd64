@@ -1909,7 +1909,6 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "FCBF": [],
     "fCCAC": [
         "BSgenome",
         "GenomicAlignments",
@@ -1918,7 +1917,6 @@
     ],
     "fcoex": [
         "DOSE",
-        "FCBF",
         "SingleCellExperiment",
         "clusterProfiler",
         "enrichplot"
