@@ -1643,7 +1643,6 @@
         "SingleCellExperiment",
         "globaltest"
     ],
-    "eisaR": [],
     "ELMER": [
         "BSgenome",
         "GenomicAlignments",
