@@ -253,7 +253,6 @@
         "DiffBind",
         "GreyListChIP"
     ],
-    "ChIPseeker": [],
     "ChIPXpress": [],
     "ChromSCape": [],
     "chromVAR": [
@@ -517,7 +516,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "ChIPseeker",
         "genomation"
     ],
     "epigraHMM": [
@@ -559,7 +557,6 @@
         "VariantAnnotation"
     ],
     "esATAC": [
-        "ChIPseeker",
         "TFBSTools",
         "motifmatchr",
         "pipeFrame"
@@ -1048,7 +1045,6 @@
     ],
     "proBAMr": [],
     "profileplyr": [
-        "ChIPseeker",
         "rGREAT"
     ],
     "proteasy": [
@@ -1274,15 +1270,11 @@
         "epivizr",
         "epivizrData"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [
         "HiLDA"
     ],
-    "seqArchRplus": [
-        "ChIPseeker"
-    ],
+    "seqArchRplus": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
