@@ -945,7 +945,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "IRISFGM": [],
     "IsoformSwitchAnalyzeR": [
         "BSgenome",
         "ensembldb",
