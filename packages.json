@@ -173,7 +173,6 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "deconvR": [],
     "DeepBlueR": [],
     "DEGraph": [
         "NCIgraph",
