@@ -37,7 +37,6 @@
     "cfDNAPro": [],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -75,9 +74,7 @@
         "RCy3"
     ],
     "distinct": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "doubletrouble": [],
     "EpiMix": [],
     "factR": [],
@@ -112,9 +109,7 @@
         "RnBeads"
     ],
     "MAGeCKFlute": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -125,15 +120,12 @@
         "RCy3"
     ],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MineICA": [],
     "miRSM": [
         "miRspongeR"
     ],
     "miRspongeR": [],
-    "missMethyl": [],
     "MOGAMUN": [
         "RCy3"
     ],
