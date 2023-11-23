@@ -69,13 +69,13 @@ packaged installation of ‘dir.expiry’ as ‘dir.expiry_1.8.0_R_x86_64-pc-lin
 * DONE (dir.expiry)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp7rm0Vx/downloaded_packages’
+	‘/tmp/RtmpkrfB1x/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	0m13.265s
-user	0m4.886s
-sys	0m2.168s
+real	0m14.683s
+user	0m4.869s
+sys	0m2.206s
