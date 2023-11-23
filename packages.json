@@ -9756,8 +9756,7 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggtree",
-        "pathwayPCA"
+        "ggtree"
     ],
     "fcScan": [
         "AnnotationDbi",
@@ -19321,7 +19320,6 @@
         "XVector",
         "graph"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
