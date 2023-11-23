@@ -4678,7 +4678,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "DropletUtils",
         "SingleCellExperiment",
