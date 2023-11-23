@@ -1657,7 +1657,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [],
     "GSReg": [
         "GenomicFeatures",
         "OrganismDbi",
