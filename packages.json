@@ -951,8 +951,7 @@
         "CODEX"
     ],
     "ideal": [
-        "goseq",
-        "pcaExplorer"
+        "goseq"
     ],
     "igvR": [
         "BSgenome",
@@ -1345,7 +1344,6 @@
     ],
     "pairedGSEA": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "pdInfoBuilder": [],
     "periodicDNA": [
         "BSgenome"
