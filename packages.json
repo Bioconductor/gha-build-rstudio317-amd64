@@ -12436,7 +12436,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "hierinf": [],
     "HilbertCurve": [
         "BiocGenerics",
         "GenomeInfoDb",
