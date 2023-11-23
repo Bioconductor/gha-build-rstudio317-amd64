@@ -3361,7 +3361,6 @@
         "SpatialExperiment"
     ],
     "SPOTlight": [],
-    "SPsimSeq": [],
     "standR": [
         "DropletUtils",
         "EDASeq",
