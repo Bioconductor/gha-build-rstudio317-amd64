@@ -314,9 +314,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
@@ -1709,7 +1707,6 @@
     ],
     "PFP": [],
     "phenomis": [],
-    "phenoTest": [],
     "PhIPData": [],
     "Pigengene": [],
     "PING": [
