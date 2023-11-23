@@ -166,12 +166,10 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "CBNplot": [],
     "celda": [],
@@ -1054,9 +1052,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RUVSeq": [],
     "scanMiRApp": [],
     "SCATE": [],
@@ -1166,10 +1162,7 @@
         "VariantAnnotation"
     ],
     "TAPseq": [],
-    "TCGAutils": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFBSTools": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
