@@ -3933,9 +3933,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biobase",
@@ -26535,7 +26533,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "SIMLR": [],
     "simpleSeg": [
         "Biobase",
         "BiocFileCache",
