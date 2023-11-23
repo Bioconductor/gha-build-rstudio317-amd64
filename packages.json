@@ -1792,7 +1792,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [],
     "transcriptR": [],
     "transomics2cytoscape": [
         "RCy3"
