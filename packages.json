@@ -12469,7 +12469,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "pvac": [],
     "pvca": [],
     "Pviz": [
         "AnnotationDbi",
