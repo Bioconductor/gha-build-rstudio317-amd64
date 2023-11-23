@@ -12061,7 +12061,6 @@
         "goseq",
         "graph",
         "limma",
-        "lpsymphony",
         "pcaExplorer",
         "rtracklayer",
         "topGO"
@@ -12155,9 +12154,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "IHW": [
-        "lpsymphony"
-    ],
+    "IHW": [],
     "ILoReg": [
         "Biobase",
         "DelayedArray",
@@ -13167,7 +13164,6 @@
         "rhdf5filters"
     ],
     "LPEadj": [],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
