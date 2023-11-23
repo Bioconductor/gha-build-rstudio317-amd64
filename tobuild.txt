@@ -1,3 +1,0 @@
-BiocSingular
-CONFESS
-HDF5Array
