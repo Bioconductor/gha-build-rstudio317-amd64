@@ -4437,7 +4437,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "SeqGate": [],
     "SeqGSEA": [],
     "seqsetvis": [
         "GenomicAlignments",
