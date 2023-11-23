@@ -2290,7 +2290,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater",
@@ -3356,9 +3355,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "SC3": [],
     "SCAN.UPC": [
         "oligo",
