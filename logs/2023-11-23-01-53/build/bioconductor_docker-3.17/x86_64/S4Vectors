@@ -28,7 +28,7 @@ Content type 'binary/octet-stream' length 1518821 bytes (1.4 MB)
 downloaded 1.4 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/GenomicAlignments_1.36.0.tar.gz'
-Content type 'application/gzip' length 2264672 bytes (2.2 MB)
+Content type 'application/x-gzip' length 2264672 bytes (2.2 MB)
 ==================================================
 downloaded 2.2 MB
 
@@ -288,13 +288,13 @@ packaged installation of ‘ShortRead’ as ‘ShortRead_1.58.0_R_x86_64-pc-linu
 * DONE (ShortRead)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp5lme3L/downloaded_packages’
+	‘/tmp/Rtmpq4979q/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	1m27.768s
-user	1m13.327s
-sys	0m8.346s
+real	1m31.288s
+user	1m10.880s
+sys	0m8.095s
