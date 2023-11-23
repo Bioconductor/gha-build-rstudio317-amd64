@@ -199,9 +199,7 @@
     "condiments": [
         "distinct"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles"
     ],
@@ -574,9 +572,7 @@
         "quantro",
         "yarn"
     ],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "GenomicFiles",
         "dasper",
@@ -667,7 +663,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "RIPAT": [
@@ -714,16 +709,13 @@
         "biovizBase"
     ],
     "RTCGAToolbox": [],
-    "RUVSeq": [],
     "scanMiRApp": [],
     "SCATE": [],
     "scFeatures": [],
     "scmeth": [
         "annotatr"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scoreInvHap": [],
     "scRNAseqApp": [],
     "scruff": [
@@ -773,9 +765,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "Statial": [],
     "stJoincount": [],
     "strandCheckR": [],
