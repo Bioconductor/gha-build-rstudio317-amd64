@@ -554,13 +554,8 @@
     "Statial": [],
     "stJoincount": [],
     "strandCheckR": [],
-    "StructuralVariantAnnotation": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "terraTCGAdata": [],
     "TFEA.ChIP": [],
     "TimiRGeN": [
