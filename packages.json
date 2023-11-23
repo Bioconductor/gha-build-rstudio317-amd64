@@ -5305,7 +5305,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "MEDME": [],
     "megadepth": [
         "GenomicRanges"
     ],
