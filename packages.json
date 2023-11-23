@@ -1461,7 +1461,6 @@
         "annotate",
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -3654,8 +3653,7 @@
         "GenomeInfoDb",
         "KEGGREST",
         "epiNEM",
-        "graphite",
-        "mnem"
+        "graphite"
     ],
     "ddPCRclust": [
         "DelayedArray",
@@ -4732,9 +4730,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistack": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -8590,7 +8586,6 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "mnem": [],
     "moanin": [
         "AnnotationDbi",
         "Biostrings",
@@ -9302,8 +9297,7 @@
         "SummarizedExperiment"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
