@@ -163,11 +163,8 @@
     "EpiCompare": [],
     "EpiMix": [],
     "epimutacions": [],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "esATAC": [],
     "ExperimentHubData": [],
     "extraChIPs": [
@@ -375,9 +372,7 @@
     "scruff": [
         "ggbio"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "SeqSQC": [],
     "shinyepico": [],
     "signatureSearch": [],
