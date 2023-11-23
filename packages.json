@@ -7415,7 +7415,6 @@
         "Biostrings",
         "GenomicRanges"
     ],
-    "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendMsp": [],
     "MsDataHub": [
