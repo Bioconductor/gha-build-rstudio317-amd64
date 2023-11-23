@@ -3487,11 +3487,8 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [],
-    "GeomxTools": [],
     "GeoTcgaData": [
         "SummarizedExperiment"
     ],
@@ -7963,9 +7960,7 @@
         "SummarizedExperiment",
         "scuttle"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -7989,9 +7984,7 @@
         "scran",
         "scuttle"
     ],
-    "SpatialOmicsOverlay": [
-        "GeomxTools"
-    ],
+    "SpatialOmicsOverlay": [],
     "spatzie": [
         "AnnotationDbi",
         "BSgenome",
