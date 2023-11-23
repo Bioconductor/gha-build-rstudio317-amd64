@@ -2277,7 +2277,6 @@
         "GenomicAlignments",
         "ShortRead"
     ],
-    "ipdDb": [],
     "IPO": [
         "CAMERA",
         "xcms"
