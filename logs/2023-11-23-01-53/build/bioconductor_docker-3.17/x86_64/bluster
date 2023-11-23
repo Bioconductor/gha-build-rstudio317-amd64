@@ -78,7 +78,7 @@ Content type 'application/gzip' length 292895 bytes (286 KB)
 downloaded 286 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/basilisk.utils_1.12.1.tar.gz'
-Content type 'application/x-gzip' length 240028 bytes (234 KB)
+Content type 'application/gzip' length 240028 bytes (234 KB)
 ==================================================
 downloaded 234 KB
 
@@ -123,7 +123,7 @@ Content type 'application/gzip' length 231333 bytes (225 KB)
 downloaded 225 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/biomaRt_2.56.1.tar.gz'
-Content type 'application/gzip' length 669187 bytes (653 KB)
+Content type 'application/x-gzip' length 669187 bytes (653 KB)
 ==================================================
 downloaded 653 KB
 
@@ -208,22 +208,22 @@ Content type 'application/gzip' length 496738 bytes (485 KB)
 downloaded 485 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/AnnotationHub_3.8.0.tar.gz'
-Content type 'application/gzip' length 993346 bytes (970 KB)
+Content type 'application/x-gzip' length 993346 bytes (970 KB)
 ==================================================
 downloaded 970 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/ensembldb_2.24.1.tar.gz'
-Content type 'application/gzip' length 3357468 bytes (3.2 MB)
+Content type 'application/x-gzip' length 3357468 bytes (3.2 MB)
 ==================================================
 downloaded 3.2 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/GenomicFeatures_1.52.2.tar.gz'
-Content type 'application/x-gzip' length 1179196 bytes (1.1 MB)
+Content type 'application/gzip' length 1179196 bytes (1.1 MB)
 ==================================================
 downloaded 1.1 MB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/DelayedMatrixStats_1.22.6.tar.gz'
-Content type 'application/gzip' length 277729 bytes (271 KB)
+Content type 'application/x-gzip' length 277729 bytes (271 KB)
 ==================================================
 downloaded 271 KB
 
@@ -263,7 +263,7 @@ Content type 'binary/octet-stream' length 270949 bytes (264 KB)
 downloaded 264 KB
 
 trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/densvis_1.10.3.tar.gz'
-Content type 'application/gzip' length 1731202 bytes (1.7 MB)
+Content type 'application/x-gzip' length 1731202 bytes (1.7 MB)
 ==================================================
 downloaded 1.7 MB
 
@@ -4520,13 +4520,13 @@ packaged installation of ‘scRNAseq’ as ‘scRNAseq_2.14.0_R_x86_64-pc-linux-
 * DONE (scRNAseq)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPd2B4b/downloaded_packages’
+	‘/tmp/Rtmp68RIcO/downloaded_packages’
 Old packages: 'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'httpuv',
   'httr2', 'knitr', 'lifecycle', 'openssl', 'pkgload', 'prettyunits', 'ragg',
   'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi', 'stringr',
   'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8', 'vctrs',
   'waldo', 'withr', 'xfun', 'lattice', 'Matrix', 'rpart'
 
-real	10m41.285s
-user	8m56.035s
-sys	0m58.771s
+real	10m15.488s
+user	9m8.308s
+sys	0m58.658s
