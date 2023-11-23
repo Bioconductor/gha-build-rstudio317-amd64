@@ -566,9 +566,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [
         "bsseq"
     ],
@@ -902,7 +900,6 @@
         "biovizBase"
     ],
     "Uniquorn": [],
-    "VanillaICE": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
