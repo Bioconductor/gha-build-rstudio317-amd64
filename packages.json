@@ -1152,8 +1152,7 @@
     "consensusOV": [
         "GSEABase",
         "GSVA",
-        "SingleCellExperiment",
-        "genefu"
+        "SingleCellExperiment"
     ],
     "consensusSeekeR": [
         "GenomicAlignments",
@@ -2148,7 +2147,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneMeta": [
         "genefilter"
     ],
@@ -3696,8 +3694,7 @@
     ],
     "PDATK": [
         "CoreGx",
-        "MultiAssayExperiment",
-        "genefu"
+        "MultiAssayExperiment"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -4819,7 +4816,6 @@
         "SingleCellExperiment",
         "consensusOV",
         "ensembldb",
-        "genefu",
         "rtracklayer"
     ],
     "SigsPack": [
