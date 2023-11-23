@@ -1583,7 +1583,6 @@
     "scFeatures": [
         "ensembldb"
     ],
-    "scMerge": [],
     "scmeth": [
         "BSgenome",
         "annotatr",
@@ -1661,8 +1660,7 @@
     ],
     "singleCellTK": [
         "celda",
-        "ensembldb",
-        "scMerge"
+        "ensembldb"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
