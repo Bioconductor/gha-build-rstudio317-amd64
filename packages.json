@@ -23312,7 +23312,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "SANTA": [],
     "sarks": [
         "BiocGenerics",
         "Biostrings",
