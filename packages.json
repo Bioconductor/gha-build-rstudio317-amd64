@@ -13295,7 +13295,6 @@
         "XVector",
         "annotate"
     ],
-    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationDbi",
         "AnnotationHub",
