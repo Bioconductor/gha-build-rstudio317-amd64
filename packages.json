@@ -9957,8 +9957,7 @@
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
-        "KEGGREST",
-        "RandomWalkRestartMH"
+        "KEGGREST"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -11659,7 +11658,6 @@
         "SummarizedExperiment",
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "AnnotationDbi",
         "AnnotationHub",
