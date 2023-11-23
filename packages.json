@@ -892,9 +892,7 @@
     ],
     "CoreGx": [],
     "corral": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "CoSIA": [],
     "cosmiq": [],
     "cosmosR": [
@@ -1842,7 +1840,6 @@
         "gmapR",
         "rtracklayer"
     ],
-    "HTSFilter": [],
     "icetea": [
         "BSgenome",
         "GenomicFeatures",
