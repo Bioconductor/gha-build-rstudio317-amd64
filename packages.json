@@ -366,7 +366,6 @@
         "lumi",
         "methylumi"
     ],
-    "MinimumDistance": [],
     "MIRA": [],
     "miRSM": [
         "miRspongeR"
