@@ -2267,7 +2267,6 @@
         "ensembldb",
         "motifmatchr"
     ],
-    "SpectralTAD": [],
     "SPIAT": [
         "SpatialExperiment"
     ],
