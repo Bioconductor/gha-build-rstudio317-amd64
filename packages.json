@@ -3823,7 +3823,6 @@
     "h5vc": [
         "Rsamtools"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -7574,7 +7573,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "heatmaps",
         "rtracklayer",
         "seqPattern"
     ],
