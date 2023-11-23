@@ -533,7 +533,6 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "debrowser": [],
     "decompTumor2Sig": [
         "BSgenome",
         "VariantAnnotation"
