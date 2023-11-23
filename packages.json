@@ -155,7 +155,6 @@
     "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [],
-    "ensemblVEP": [],
     "EpiCompare": [],
     "EpiMix": [],
     "epimutacions": [],
@@ -252,9 +251,7 @@
     "miRspongeR": [],
     "missMethyl": [],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "ensemblVEP"
-    ],
+    "MMAPPR2": [],
     "MOGAMUN": [
         "RCy3"
     ],
@@ -383,9 +380,7 @@
     ],
     "trena": [],
     "tscR": [],
-    "TVTB": [
-        "ensemblVEP"
-    ],
+    "TVTB": [],
     "txcutr": [],
     "uncoverappLib": [],
     "VariantFiltering": [],
