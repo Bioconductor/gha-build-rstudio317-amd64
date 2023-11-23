@@ -24,9 +24,7 @@
         "RCy3"
     ],
     "cfDNAPro": [],
-    "ChAMP": [
-        "DMRcate"
-    ],
+    "ChAMP": [],
     "ChIC": [],
     "ChIPXpress": [],
     "ChromSCape": [],
@@ -61,7 +59,6 @@
         "RCy3"
     ],
     "distinct": [],
-    "DMRcate": [],
     "doubletrouble": [],
     "EpiMix": [],
     "factR": [],
