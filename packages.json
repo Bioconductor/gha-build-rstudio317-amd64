@@ -30,13 +30,10 @@
     ],
     "ATACCoGAPS": [],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "motifStack"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "autonomics": [],
     "bandle": [],
     "beer": [
@@ -183,9 +180,7 @@
         "flowDensity"
     ],
     "cytofQC": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [],
     "dasper": [],
     "ddPCRclust": [
@@ -394,10 +389,8 @@
     "MoleculeExperiment": [],
     "monaLisa": [],
     "motifbreakR": [
-        "Gviz",
-        "motifStack"
+        "Gviz"
     ],
-    "motifStack": [],
     "MsDataHub": [],
     "msgbsR": [
         "ggbio"
@@ -415,7 +408,6 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "Gviz",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -496,9 +488,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "RIPAT": [
         "karyoploteR"
     ],
