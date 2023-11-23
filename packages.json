@@ -1240,7 +1240,6 @@
         "limma",
         "marray"
     ],
-    "ASEB": [],
     "ASICS": [
         "Biobase",
         "BiocGenerics",
