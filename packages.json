@@ -91,10 +91,7 @@
         "CRISPRseek",
         "GUIDEseq"
     ],
-    "crisprVerse": [
-        "crisprViz"
-    ],
-    "crisprViz": [],
+    "crisprVerse": [],
     "crossmeta": [],
     "CSSQ": [],
     "CTdata": [],
