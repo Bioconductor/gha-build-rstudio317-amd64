@@ -13096,7 +13096,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "HIBAG": [],
     "HiCBricks": [
         "BiocGenerics",
         "GenomeInfoDb",
