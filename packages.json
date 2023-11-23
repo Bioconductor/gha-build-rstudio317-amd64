@@ -123,9 +123,7 @@
     "cicero": [
         "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "cliProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -292,7 +290,6 @@
         "ChIPpeakAnno"
     ],
     "Gviz": [],
-    "gwascat": [],
     "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
@@ -619,9 +616,7 @@
     ],
     "VariantTools": [],
     "VCFArray": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno"
     ],
