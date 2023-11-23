@@ -8080,7 +8080,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "epistasisGA": [],
     "EpiTxDb": [
         "AnnotationDbi",
         "Biobase",
