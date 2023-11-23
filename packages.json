@@ -2803,8 +2803,7 @@
         "snpStats"
     ],
     "Cardinal": [
-        "S4Vectors",
-        "matter"
+        "S4Vectors"
     ],
     "casper": [
         "AnnotationDbi",
@@ -11707,7 +11706,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "matter": [],
     "MBASED": [
         "DelayedArray",
         "GenomeInfoDb",
