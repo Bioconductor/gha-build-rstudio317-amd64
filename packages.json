@@ -69,7 +69,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -79,7 +78,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -88,7 +86,6 @@
     ],
     "CAGEr": [
         "CAGEfightR",
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -165,9 +162,7 @@
         "distinct"
     ],
     "consensusDE": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -216,11 +211,8 @@
     "DeMixT": [
         "DSS"
     ],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -265,9 +257,7 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "motifmatchr"
     ],
@@ -306,7 +296,6 @@
     "GeneStructureTools": [
         "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -351,9 +340,7 @@
     "intansv": [
         "ggbio"
     ],
-    "IntEREst": [
-        "GenomicFiles"
-    ],
+    "IntEREst": [],
     "IsoformSwitchAnalyzeR": [],
     "IVAS": [],
     "karyoploteR": [],
@@ -477,7 +464,6 @@
     ],
     "octad": [],
     "ODER": [
-        "GenomicFiles",
         "dasper",
         "derfinder"
     ],
@@ -506,7 +492,6 @@
     "profileplyr": [],
     "ProteoDisco": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -515,9 +500,7 @@
         "Gviz"
     ],
     "quantro": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -526,7 +509,6 @@
     "RCAS": [],
     "RCy3": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [],
@@ -536,7 +518,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -564,7 +545,6 @@
     "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -584,16 +564,13 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "RTCGAToolbox": [],
     "SCATE": [],
     "scmeth": [
@@ -620,7 +597,6 @@
         "celda"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "skewr": [
@@ -682,9 +658,7 @@
         "Gviz"
     ],
     "VariantTools": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "vtpnet": [
         "gwascat"
     ],
