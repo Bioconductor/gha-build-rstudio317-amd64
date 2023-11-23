@@ -12783,7 +12783,6 @@
         "enrichplot",
         "graphite"
     ],
-    "rebook": [],
     "receptLoss": [
         "DelayedArray",
         "GenomeInfoDb",
