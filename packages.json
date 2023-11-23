@@ -765,9 +765,7 @@
         "minfi"
     ],
     "MAGeCKFlute": [],
-    "magpie": [
-        "TRESS"
-    ],
+    "magpie": [],
     "mariner": [],
     "maser": [
         "Gviz",
@@ -1351,7 +1349,6 @@
     ],
     "traseR": [],
     "trena": [],
-    "TRESS": [],
     "tRNAscanImport": [],
     "tscR": [],
     "TVTB": [
