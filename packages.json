@@ -318,9 +318,7 @@
         "GreyListChIP"
     ],
     "ChIPseeker": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [],
     "chromVAR": [
         "BSgenome",
@@ -765,7 +763,6 @@
         "BSgenome",
         "OUTRIDER"
     ],
-    "frma": [],
     "funtooNorm": [
         "bumphunter",
         "minfi"
