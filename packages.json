@@ -204,7 +204,6 @@
         "dmrseq",
         "regioneR"
     ],
-    "bnbc": [],
     "BOBaFIT": [
         "BSgenome",
         "GenomicFeatures",
