@@ -1323,8 +1323,7 @@
     "proBAMr": [],
     "profileplyr": [
         "ChIPseeker",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "pRolocGUI": [],
     "proteasy": [
@@ -1677,7 +1676,6 @@
         "BSgenome",
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "SomaticSignatures": [
         "BSgenome",
         "OrganismDbi",
