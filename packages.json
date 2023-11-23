@@ -1701,7 +1701,6 @@
     "podkat": [
         "BSgenome"
     ],
-    "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH"
