@@ -815,7 +815,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "Voyager": [],
     "vtpnet": [
         "gwascat"
     ],
