@@ -12,7 +12,6 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "autonomics": [],
     "bandle": [],
@@ -176,9 +175,7 @@
     ],
     "multiGSEA": [],
     "MungeSumstats": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "NCIgraph": [
         "RCy3"
     ],
