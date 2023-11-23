@@ -5305,7 +5305,6 @@
         "QFeatures",
         "SummarizedExperiment"
     ],
-    "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "MSstatsShiny": [],
     "MuData": [
