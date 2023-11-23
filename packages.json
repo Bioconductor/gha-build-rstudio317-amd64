@@ -1005,9 +1005,7 @@
     "pipeComp": [],
     "pipeFrame": [],
     "podkat": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "TFBSTools",
@@ -1064,7 +1062,6 @@
     "RCAS": [
         "genomation"
     ],
-    "rCGH": [],
     "RCy3": [],
     "recount": [
         "GenomicFiles",
