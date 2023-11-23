@@ -36,7 +36,6 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr"
     ],
     "ATACseqQC": [
@@ -155,7 +154,6 @@
     ],
     "ChIPXpress": [],
     "ChromSCape": [],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "biovizBase"
