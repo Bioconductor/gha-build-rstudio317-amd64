@@ -4711,7 +4711,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "tomoda": [],
     "TOP": [
         "ClassifyR",
         "genefilter"
