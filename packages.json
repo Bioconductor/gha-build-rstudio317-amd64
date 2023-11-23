@@ -15,9 +15,7 @@
     ],
     "benchdamic": [],
     "BGmix": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BioNAR": [],
     "canceR": [],
     "casper": [],
@@ -31,8 +29,7 @@
     ],
     "cfDNAPro": [],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "ChIC": [],
     "ChIPXpress": [],
@@ -104,9 +101,7 @@
     ],
     "MAGeCKFlute": [],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboSignal": [
         "hpar"
     ],
@@ -164,9 +159,7 @@
     "singleCellTK": [
         "celda"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "spicyR": [],
     "Statial": [],
     "stJoincount": [],
@@ -183,7 +176,6 @@
     "txcutr": [],
     "vulcan": [],
     "waddR": [],
-    "wateRmelon": [],
     "Xeva": [],
     "YAPSA": []
 }
