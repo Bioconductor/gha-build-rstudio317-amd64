@@ -5132,7 +5132,6 @@
         "oligoClasses",
         "zlibbioc"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "BiocGenerics",
         "GenomeInfoDb",
