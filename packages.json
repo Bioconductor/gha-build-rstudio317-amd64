@@ -2076,7 +2076,6 @@
         "bumphunter",
         "minfi"
     ],
-    "SigCheck": [],
     "signatureSearch": [],
     "signeR": [
         "BSgenome",
