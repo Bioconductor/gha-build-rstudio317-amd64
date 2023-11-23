@@ -595,7 +595,6 @@
         "minfi"
     ],
     "fgga": [],
-    "FindIT2": [],
     "FLAMES": [
         "OrganismDbi",
         "VariantAnnotation",
