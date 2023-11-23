@@ -15938,7 +15938,6 @@
         "topGO"
     ],
     "pcaMethods": [],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "DelayedArray",
