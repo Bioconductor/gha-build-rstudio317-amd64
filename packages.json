@@ -3200,7 +3200,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "scry": [],
     "scTensor": [
         "Category",
         "GOstats",
