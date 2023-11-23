@@ -1,9 +1,6 @@
 {
     "ADaCGH2": [],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "alabaster": [
         "alabaster.spatial"
     ],
