@@ -1,7 +1,0 @@
-monocle
-Maaslin2
-unifiedWMWqPCR
-BiocCheck
-nondetects
-BiocPkgTools
-mbQTL
