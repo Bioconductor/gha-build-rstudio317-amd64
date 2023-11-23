@@ -20,7 +20,6 @@
         "Gviz"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "appreci8R": [],
     "arrayMvout": [
         "lumi",
@@ -59,7 +58,6 @@
     ],
     "BioNAR": [],
     "biscuiteer": [
-        "annotatr",
         "dmrseq"
     ],
     "BOBaFIT": [
@@ -226,9 +224,7 @@
     "DMRforPairs": [
         "Gviz"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "doubletrouble": [],
     "DSS": [],
     "ELMER": [
@@ -558,9 +554,7 @@
     "Rqc": [],
     "RTCGAToolbox": [],
     "SCATE": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [],
     "scoreInvHap": [],
     "scRNAseqApp": [],
