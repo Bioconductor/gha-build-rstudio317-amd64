@@ -1,4 +1,0 @@
-MungeSumstats
-crossmeta
-motifbreakR
-MAGAR
