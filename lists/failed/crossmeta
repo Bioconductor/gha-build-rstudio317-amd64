@@ -1,0 +1,201 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''crossmeta'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/latest
+Bioconductor version 3.17 (BiocManager 1.30.22), R 4.3.1 (2023-06-16)
+Installing package(s) 'crossmeta'
+also installing the dependencies ‘rematch’, ‘crosstalk’, ‘SMVar’, ‘NCmisc’, ‘anytime’, ‘cellranger’, ‘DT’, ‘fdrtool’, ‘metaMA’, ‘reader’, ‘shinyjs’, ‘shinyBS’, ‘shinyWidgets’, ‘shinypanel’, ‘readxl’, ‘lydata’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/rematch_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 15948 bytes (15 KB)
+==================================================
+downloaded 15 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/crosstalk_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 406647 bytes (397 KB)
+==================================================
+downloaded 397 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/SMVar_1.3.4.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/SMVar_1.3.4.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/SMVar_1.3.4.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘SMVar’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/NCmisc_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 290118 bytes (283 KB)
+==================================================
+downloaded 283 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/anytime_0.3.9.tar.gz'
+Content type 'binary/octet-stream' length 404834 bytes (395 KB)
+==================================================
+downloaded 395 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 100739 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/DT_0.30.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/DT_0.30.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/DT_0.30.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘DT’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/fdrtool_1.2.17.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/fdrtool_1.2.17.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/fdrtool_1.2.17.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘fdrtool’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/metaMA_3.1.3.tar.gz'
+Content type 'binary/octet-stream' length 953224 bytes (930 KB)
+==================================================
+downloaded 930 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/reader_1.0.6.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/reader_1.0.6.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/reader_1.0.6.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘reader’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinyjs_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 1084640 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinyBS_0.61.1.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinyBS_0.61.1.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinyBS_0.61.1.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘shinyBS’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinyWidgets_0.8.0.tar.gz'
+Content type 'binary/octet-stream' length 1225400 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinypanel_0.1.5.tar.gz'
+Error in download.file(url, destfile, method, mode = "wb", ...) : 
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinypanel_0.1.5.tar.gz'
+In addition: Warning messages:
+1: In download.file(url, destfile, method, mode = "wb", ...) :
+  downloaded length 0 != reported length 0
+2: In download.file(url, destfile, method, mode = "wb", ...) :
+  cannot open URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/shinypanel_0.1.5.tar.gz': HTTP status was '504 Gateway Timeout'
+Warning in download.packages(pkgs, destdir = tmpd, available = available,  :
+  download of package ‘shinypanel’ failed
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/latest/src/contrib/readxl_1.4.3.tar.gz'
+Content type 'binary/octet-stream' length 861953 bytes (841 KB)
+==================================================
+downloaded 841 KB
+
+trying URL 'https://bioconductor.org/packages/3.17/data/experiment/src/contrib/lydata_1.26.0.tar.gz'
+Content type 'application/gzip' length 166570555 bytes (158.9 MB)
+==================================================
+downloaded 158.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.17/bioc/src/contrib/crossmeta_1.26.0.tar.gz'
+Content type 'application/gzip' length 3094390 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+* installing *binary* package ‘rematch’ ...
+* ‘rematch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch’ as ‘rematch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch)
+* installing *binary* package ‘crosstalk’ ...
+* ‘crosstalk’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘crosstalk’ as ‘crosstalk_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (crosstalk)
+* installing *binary* package ‘NCmisc’ ...
+* ‘NCmisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘NCmisc’ as ‘NCmisc_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NCmisc)
+* installing *binary* package ‘anytime’ ...
+* ‘anytime’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘anytime’ as ‘anytime_0.3.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (anytime)
+ERROR: dependency ‘SMVar’ is not available for package ‘metaMA’
+* removing ‘/tmp/tmp/built/metaMA’
+* installing *binary* package ‘shinyjs’ ...
+* ‘shinyjs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyjs’ as ‘shinyjs_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyjs)
+* installing *source* package ‘lydata’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘lydata’ 
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lydata’ as ‘lydata_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lydata)
+* installing *binary* package ‘cellranger’ ...
+* ‘cellranger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cellranger’ as ‘cellranger_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellranger)
+* installing *binary* package ‘shinyWidgets’ ...
+* ‘shinyWidgets’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyWidgets’ as ‘shinyWidgets_0.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyWidgets)
+* installing *binary* package ‘readxl’ ...
+* ‘readxl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readxl’ as ‘readxl_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readxl)
+ERROR: dependencies ‘DT’, ‘fdrtool’, ‘metaMA’, ‘reader’, ‘shinyBS’, ‘shinypanel’ are not available for package ‘crossmeta’
+* removing ‘/tmp/tmp/built/crossmeta’
+
+The downloaded source packages are in
+	‘/tmp/RtmpOmt7le/downloaded_packages’
+Old packages: 'bookdown', 'dotCall64', 'gtools', 'Matrix', 'mvtnorm', 'ncdf4',
+  'RcppArmadillo', 'scales', 'sp', 'vctrs', 'vroom', 'XML', 'bslib', 'cpp11',
+  'curl', 'evaluate', 'fansi', 'gert', 'htmltools', 'htmlwidgets', 'httpuv',
+  'httr2', 'jsonlite', 'knitr', 'lifecycle', 'openssl', 'pkgload',
+  'prettyunits', 'ragg', 'rlang', 'rmarkdown', 'rprojroot', 'shiny', 'stringi',
+  'stringr', 'systemfonts', 'testthat', 'textshaping', 'tinytex', 'utf8',
+  'waldo', 'withr', 'xfun', 'xml2', 'cluster', 'foreign', 'lattice', 'nlme',
+  'rpart'
+Warning messages:
+1: In install.packages(...) :
+  installation of package ‘metaMA’ had non-zero exit status
+2: In install.packages(...) :
+  installation of package ‘crossmeta’ had non-zero exit status
+
+real	8m18.625s
+user	2m7.522s
+sys	0m4.473s
