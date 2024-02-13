@@ -1,0 +1,143 @@
+Package: dplyr
+Version: 1.1.3
+Depends: R (>= 3.5.0)
+Imports: cli (>= 3.4.0), generics, glue (>= 1.3.2), lifecycle (>=
+        1.0.3), magrittr (>= 1.5), methods, pillar (>= 1.9.0), R6,
+        rlang (>= 1.1.0), tibble (>= 3.2.0), tidyselect (>= 1.2.0),
+        utils, vctrs (>= 0.6.0)
+Suggests: bench, broom, callr, covr, DBI, dbplyr (>= 2.2.1), ggplot2,
+        knitr, Lahman, lobstr, microbenchmark, nycflights13, purrr,
+        rmarkdown, RMySQL, RPostgreSQL, RSQLite, stringi (>= 1.7.6),
+        testthat (>= 3.1.5), tidyr (>= 1.3.0), withr
+License: MIT + file LICENSE
+MD5sum: e8f2be32dc3746e4dc7cda1e30f70241
+NeedsCompilation: yes
+File: dplyr_1.1.3_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: MAGAR
+Version: 1.8.0
+Depends: R (>= 4.1), HDF5Array, RnBeads, snpStats, crlmm
+Imports: doParallel, igraph, bigstatsr, rjson, plyr, data.table,
+        UpSetR, reshape2, jsonlite, methods, ff, argparse, impute,
+        RnBeads.hg19, utils, stats
+Suggests: gridExtra, VennDiagram, qqman, LOLA, RUnit, rmutil,
+        rmarkdown, JASPAR2018, TFBSTools, seqLogo, knitr, devtools,
+        BiocGenerics, BiocManager
+License: GPL-3
+MD5sum: 84d41c4df527f893220c04cd27055c4c
+NeedsCompilation: no
+File: MAGAR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: maps
+Version: 3.4.1
+Depends: R (>= 3.5.0)
+Imports: graphics, utils
+Suggests: mapproj (>= 1.2-0), mapdata (>= 2.3.0), sp, rnaturalearth
+License: GPL-2
+MD5sum: 64c58fcebf9fb811f428c26a1226b6f0
+NeedsCompilation: yes
+File: maps_3.4.1_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: matrixStats
+Version: 1.0.0
+Depends: R (>= 2.12.0)
+Suggests: base64enc, ggplot2, knitr, markdown, microbenchmark,
+        R.devices, R.rsp
+License: Artistic-2.0
+MD5sum: ccaf1461040eb7c790f165e2636b990c
+NeedsCompilation: yes
+File: matrixStats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: mclust
+Version: 6.0.0
+Depends: R (>= 3.0)
+Imports: stats, utils, graphics, grDevices
+Suggests: knitr (>= 1.12), rmarkdown (>= 0.9), mix (>= 1.0), geometry
+        (>= 0.3-6), MASS
+License: GPL (>= 2)
+MD5sum: 92de8a162fb3d1fa42045f670b77fbe2
+NeedsCompilation: yes
+File: mclust_6.0.0_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: nor1mix
+Version: 1.3-0
+Imports: stats, graphics
+Suggests: cluster
+License: GPL (>= 2)
+MD5sum: 13c949d1ca9ca549deac5ce07e0a0cd8
+NeedsCompilation: no
+File: nor1mix_1.3-0_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: pracma
+Version: 2.4.2
+Depends: R (>= 3.1.0)
+Imports: graphics, grDevices, stats, utils
+Suggests: NlcOptim, quadprog
+License: GPL (>= 3)
+MD5sum: 12988f160a13de5e36a247f1f6502e47
+NeedsCompilation: no
+File: pracma_2.4.2_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: R.utils
+Version: 2.12.2
+Depends: R (>= 2.14.0), R.oo
+Imports: methods, utils, tools, R.methodsS3
+Suggests: datasets, digest (>= 0.6.10)
+License: LGPL (>= 2.1)
+MD5sum: 67c33e8d6b9ce0386681f4b314ee91e8
+NeedsCompilation: no
+File: R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: RcppArmadillo
+Version: 0.12.6.4.0
+Depends: R (>= 3.3.0)
+Imports: Rcpp (>= 0.11.0), stats, utils, methods
+LinkingTo: Rcpp
+Suggests: tinytest, Matrix (>= 1.3.0), pkgKitten, reticulate, slam
+License: GPL (>= 2)
+MD5sum: f1391192ae797daf775bff966de8f49d
+NeedsCompilation: yes
+File: RcppArmadillo_0.12.6.4.0_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: RcppEigen
+Version: 0.3.3.9.3
+Depends: R (>= 3.6.0)
+Imports: Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils
+LinkingTo: Rcpp
+Suggests: inline, tinytest, pkgKitten, microbenchmark
+License: GPL (>= 2) | file LICENSE
+MD5sum: d92e9ab1aca115845b6abdd8ee9c8be4
+NeedsCompilation: yes
+File: RcppEigen_0.3.3.9.3_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: RCurl
+Version: 1.98-1.12
+Depends: R (>= 3.4.0), methods
+Imports: bitops
+Suggests: XML
+License: BSD_3_clause + file LICENSE
+MD5sum: 88a007217559ffdc729a71edb775ee2e
+NeedsCompilation: yes
+File: RCurl_1.98-1.12_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: RSQLite
+Version: 2.3.2
+Depends: R (>= 3.1.0)
+Imports: bit64, blob (>= 1.2.0), DBI (>= 1.1.0), memoise, methods,
+        pkgconfig
+LinkingTo: plogr (>= 0.2.0), cpp11 (>= 0.4.0)
+Suggests: callr, DBItest (>= 1.7.2.9001), gert, gh, hms, knitr,
+        magrittr, rmarkdown, rvest, testthat (>= 3.0.0), withr, xml2
+License: LGPL (>= 2.1)
+MD5sum: 911bb96f1a2eb57d636391d886c638db
+NeedsCompilation: yes
+File: RSQLite_2.3.2_R_x86_64-pc-linux-gnu.tar.gz
+
+Package: XML
+Version: 3.99-0.14
+Depends: R (>= 4.0.0), methods, utils
+Suggests: bitops, RCurl
+License: BSD_3_clause + file LICENSE
+MD5sum: a4cb10774f48de6ece2da6cba274b6ec
+NeedsCompilation: yes
+File: XML_3.99-0.14_R_x86_64-pc-linux-gnu.tar.gz
