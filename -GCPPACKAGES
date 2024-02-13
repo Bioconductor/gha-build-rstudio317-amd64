@@ -12032,7 +12032,7 @@ Suggests: bench, broom, callr, covr, DBI, dbplyr (>= 2.2.1), ggplot2,
         rmarkdown, RMySQL, RPostgreSQL, RSQLite, stringi (>= 1.7.6),
         testthat (>= 3.1.5), tidyr (>= 1.3.0), withr
 License: MIT + file LICENSE
-MD5sum: df02dd12bb5462ca268ee9894656517d
+MD5sum: e8f2be32dc3746e4dc7cda1e30f70241
 NeedsCompilation: yes
 File: dplyr_1.1.3_R_x86_64-pc-linux-gnu.tar.gz
 
@@ -24501,7 +24501,7 @@ Suggests: gridExtra, VennDiagram, qqman, LOLA, RUnit, rmutil,
         rmarkdown, JASPAR2018, TFBSTools, seqLogo, knitr, devtools,
         BiocGenerics, BiocManager
 License: GPL-3
-MD5sum: 6f9e2e4e1fb0366d4ae568ba17296a26
+MD5sum: 84d41c4df527f893220c04cd27055c4c
 NeedsCompilation: no
 File: MAGAR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
 
